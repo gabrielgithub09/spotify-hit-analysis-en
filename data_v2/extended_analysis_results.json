@@ -1,0 +1,148 @@
+{
+  "range_restriction_test": {
+    "original_top100_only": {
+      "n": 1000,
+      "pop_mean": 74.8,
+      "pop_std": null,
+      "r2": 0.06,
+      "mae": 6.28
+    },
+    "extended_hits_only_70plus": {
+      "n": 3126,
+      "pop_mean": 75.5,
+      "pop_std": 4.9,
+      "r2": 0.022,
+      "mae": 3.87,
+      "coefficients": {
+        "danceability": 3.927,
+        "energy": -2.233,
+        "speechiness": 1.552,
+        "valence": -1.266,
+        "acousticness": -1.0,
+        "loudness": 0.176,
+        "liveness": -0.164,
+        "instrumentalness": -0.052,
+        "tempo": -0.001
+      }
+    },
+    "extended_full_range": {
+      "n": 89740,
+      "pop_mean": 33.2,
+      "pop_std": 20.6,
+      "r2": 0.028,
+      "mae": 16.61,
+      "coefficients": {
+        "speechiness": -12.039,
+        "danceability": 10.35,
+        "instrumentalness": -9.056,
+        "valence": -8.288,
+        "energy": -2.375,
+        "acousticness": -1.7,
+        "liveness": 0.407,
+        "loudness": 0.092,
+        "tempo": 0.005
+      }
+    }
+  },
+  "extended_regression_with_new_vars": {
+    "r2": 0.031,
+    "r2_gain_vs_audio_only": 0.003,
+    "coefficients": {
+      "speechiness": -15.263,
+      "danceability": 9.253,
+      "instrumentalness": -8.825,
+      "valence": -7.799,
+      "explicit": 4.085,
+      "energy": -2.488,
+      "acousticness": -1.34,
+      "time_signature": 0.785,
+      "mode": -0.667,
+      "liveness": 0.618,
+      "loudness": 0.082,
+      "tempo": 0.006,
+      "key": -0.004
+    }
+  },
+  "explicit_vs_popularity": {
+    "explicit_avg": 36.9,
+    "clean_avg": 32.9
+  },
+  "hit_classifier": {
+    "auc": 0.715,
+    "accuracy": 0.571,
+    "base_rate": 0.035,
+    "coefficients": {
+      "instrumentalness": -0.779,
+      "acousticness": -0.496,
+      "energy": -0.493,
+      "loudness": 0.459,
+      "liveness": -0.292,
+      "danceability": 0.249,
+      "speechiness": -0.109,
+      "valence": -0.082,
+      "tempo": -0.075
+    }
+  },
+  "genre_popularity": [
+    {
+      "macro_genre": "pop",
+      "mean": 42.2,
+      "count": 7077
+    },
+    {
+      "macro_genre": "hip-hop / r&b",
+      "mean": 41.4,
+      "count": 1331
+    },
+    {
+      "macro_genre": "rock",
+      "mean": 36.9,
+      "count": 6561
+    },
+    {
+      "macro_genre": "latin",
+      "mean": 36.3,
+      "count": 9102
+    },
+    {
+      "macro_genre": "reggae / dub",
+      "mean": 36.3,
+      "count": 2948
+    },
+    {
+      "macro_genre": "world",
+      "mean": 33.6,
+      "count": 8788
+    },
+    {
+      "macro_genre": "other / mood / misc",
+      "mean": 31.5,
+      "count": 13760
+    },
+    {
+      "macro_genre": "classical / instrumental",
+      "mean": 31.3,
+      "count": 6481
+    },
+    {
+      "macro_genre": "electronic / dance",
+      "mean": 30.5,
+      "count": 16639
+    },
+    {
+      "macro_genre": "metal / punk",
+      "mean": 30.2,
+      "count": 7564
+    },
+    {
+      "macro_genre": "folk / country / acoustic",
+      "mean": 29.7,
+      "count": 6179
+    },
+    {
+      "macro_genre": "jazz / soul / funk",
+      "mean": 28.7,
+      "count": 3310
+    }
+  ]
+}

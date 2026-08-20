@@ -1,0 +1,31 @@
+{
+  "r2": 0.06,
+  "mae": 6.28,
+  "coefficients": {
+    "loudness_db": 0.251,
+    "energy": -0.147,
+    "liveness": -0.055,
+    "speechiness": 0.036,
+    "danceability": 0.032,
+    "valence": 0.032,
+    "duration_sec": 0.01,
+    "acousticness": 0.009,
+    "tempo_bpm": 0.002
+  },
+  "top_correlations_with_popularity": {
+    "energy": -0.234,
+    "loudness_db": -0.145,
+    "liveness": -0.137,
+    "acousticness": 0.128,
+    "danceability": 0.093,
+    "speechiness": 0.061,
+    "tempo_bpm": -0.025,
+    "duration_sec": 0.009,
+    "valence": -0.004
+  },
+  "validated_findings": {
+    "energy_vs_loudness": 0.713,
+    "danceability_vs_valence": 0.265,
+    "speechiness_vs_popularity": 0.061
+  }
+}

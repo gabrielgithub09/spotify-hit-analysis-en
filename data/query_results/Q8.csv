@@ -1,0 +1,24 @@
+genre_name,popularity_tier,songs
+art pop,Very High (90+),2
+art pop,High (75-89),17
+art pop,Mid (60-74),17
+art pop,Low (<60),1
+atl hip hop,High (75-89),23
+atl hip hop,Mid (60-74),15
+atl hip hop,Low (<60),1
+boy band,High (75-89),13
+boy band,Mid (60-74),8
+canadian hip hop,High (75-89),14
+canadian hip hop,Mid (60-74),4
+dance pop,Very High (90+),2
+dance pop,High (75-89),182
+dance pop,Mid (60-74),155
+dance pop,Low (<60),22
+edm,High (75-89),10
+edm,Mid (60-74),4
+edm,Low (<60),3
+hip hop,High (75-89),14
+hip hop,Mid (60-74),7
+pop,High (75-89),36
+pop,Mid (60-74),20
+pop,Low (<60),1

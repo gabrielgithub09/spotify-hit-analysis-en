@@ -1,0 +1,1001 @@
+title,chart_position,artist,genre,year_released,date_added,tempo_bpm,energy,danceability,loudness_db,liveness,valence,duration_sec,acousticness,speechiness,popularity,chart_year,artist_type,duration_min,decade_released,popularity_tier,high_speechiness_flag,is_reappearing_hit
+STARSTRUKK (feat. Katy Perry),1,3OH!3,dance pop,2009,2022-02-17,140,81,61,-6,23,23,203,0,6,70,2010,Duo,3.38,2000,Mid (60-74),False,False
+My First Kiss (feat. Ke$ha),2,3OH!3,dance pop,2010,2022-02-17,138,89,68,-4,36,83,192,1,8,68,2010,Duo,3.2,2010,Mid (60-74),False,False
+I Need A Dollar,3,Aloe Blacc,pop soul,2010,2022-02-17,95,48,84,-7,9,96,243,20,3,72,2010,Solo,4.05,2010,Mid (60-74),False,False
+Airplanes (feat. Hayley Williams of Paramore),4,B.o.B,atl hip hop,2010,2022-02-17,93,87,66,-4,4,38,180,11,12,80,2010,Solo,3.0,2010,High (75-89),False,False
+Nothin' on You (feat. Bruno Mars),5,B.o.B,atl hip hop,2010,2022-02-17,104,85,69,-6,9,74,268,39,5,79,2010,Solo,4.47,2010,High (75-89),False,False
+Magic (feat. Rivers Cuomo),6,B.o.B,atl hip hop,2010,2022-02-17,82,93,55,-4,35,79,196,1,34,71,2010,Solo,3.27,2010,Mid (60-74),True,False
+The Time (Dirty Bit),7,Black Eyed Peas,dance pop,2010,2022-02-17,128,81,82,-8,60,44,308,7,7,75,2010,Band/Group,5.13,2010,High (75-89),False,False
+Imma Be,8,Black Eyed Peas,dance pop,2009,2022-02-17,92,52,60,-7,31,41,258,18,37,71,2010,Band/Group,4.3,2000,Mid (60-74),True,False
+Talking to the Moon,9,Bruno Mars,dance pop,2010,2022-02-17,146,59,50,-5,11,8,218,51,3,87,2010,Solo,3.63,2010,High (75-89),False,False
+Just the Way You Are,10,Bruno Mars,dance pop,2010,2022-02-17,109,84,64,-5,6,42,221,1,4,86,2010,Solo,3.68,2010,High (75-89),False,False
+Teach Me How to Dougie,11,Cali Swag District,pop rap,2011,2022-02-17,85,44,85,-5,9,51,237,20,14,71,2010,Band/Group,3.95,2010,Mid (60-74),False,False
+Forget You,12,CeeLo Green,atl hip hop,2010,2022-02-17,127,88,70,-4,16,77,223,13,6,69,2010,Solo,3.72,2010,Mid (60-74),False,False
+Deuces (feat. Tyga & Kevin McCall),13,Chris Brown,dance pop,2011,2022-02-17,74,74,69,-5,8,22,277,3,11,74,2010,Solo,4.62,2010,Mid (60-74),False,False
+Memories (feat. Kid Cudi),14,David Guetta,big room,2009,2022-02-17,130,87,56,-6,25,50,210,0,34,74,2010,Solo,3.5,2000,Mid (60-74),True,False
+Gettin' Over You (feat. Fergie & LMFAO),15,David Guetta,big room,2009,2022-02-17,130,91,62,-5,8,45,188,18,8,55,2010,Solo,3.13,2000,Low (<60),False,False
+"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",16,DJ Khaled,dance pop,2010,2022-02-17,150,78,54,-4,16,28,233,1,19,55,2010,Solo,3.88,2010,Low (<60),False,False
+Over,17,Drake,canadian hip hop,2010,2022-02-17,100,85,35,-6,12,45,234,1,20,72,2010,Solo,3.9,2010,Mid (60-74),False,False
+Find Your Love,18,Drake,canadian hip hop,2010,2022-02-17,96,61,63,-6,3,76,209,2,17,70,2010,Solo,3.48,2010,Mid (60-74),False,False
+Barbra Streisand (Radio Edit),19,Duck Sauce,disco house,2010,2022-02-17,128,93,76,-2,22,46,195,0,10,61,2010,Duo,3.25,2010,Mid (60-74),False,False
+Stereo Love - Radio Edit,20,Edward Maya,romanian house,2010,2022-02-17,127,78,80,-4,8,59,185,3,3,71,2010,Solo,3.08,2010,Mid (60-74),False,True
+Pack Up,21,Eliza Doolittle,lilith,2010,2022-02-17,133,81,67,-6,21,87,191,30,8,46,2010,Solo,3.18,2010,Low (<60),False,False
+Starry Eyed,22,Ellie Goulding,dance pop,2010,2022-02-17,150,81,50,-5,32,60,177,14,4,59,2010,Solo,2.95,2010,Low (<60),False,False
+Love The Way You Lie,23,Eminem,detroit hip hop,2010,2022-02-17,87,93,75,-5,52,64,263,24,23,87,2010,Solo,4.38,2010,High (75-89),False,False
+Not Afraid,24,Eminem,detroit hip hop,2010,2022-02-17,115,95,86,-1,21,67,248,53,26,85,2010,Solo,4.13,2010,High (75-89),False,False
+I Like It,25,Enrique Iglesias,dance pop,2010,2022-02-17,129,94,65,-3,7,70,232,2,8,71,2010,Solo,3.87,2010,Mid (60-74),False,False
+Kickstarts,26,Example,dance pop,2010,2022-02-17,126,84,61,-4,36,66,182,0,6,69,2010,Solo,3.03,2010,Mid (60-74),False,False
+Like A G6,27,Far East Movement,asian american hip hop,2010,2022-02-17,125,84,44,-8,12,78,217,1,45,75,2010,Band/Group,3.62,2010,High (75-89),True,False
+Club Can't Handle Me (feat. David Guetta),28,Flo Rida,dance pop,2010,2022-02-17,128,87,62,-4,6,47,235,3,3,81,2010,Solo,3.92,2010,High (75-89),False,False
+Hot - Malibu Breeze Radio Edit,29,INNA,dance pop,2010,2022-02-17,128,71,81,-8,26,51,224,6,14,43,2010,Solo,3.73,2010,Low (<60),False,False
+Replay,30,Iyaz,dance pop,2009,2022-02-17,91,75,71,-6,17,20,182,17,7,78,2010,Solo,3.03,2000,High (75-89),False,False
+Whatcha Say,31,Jason Derulo,dance pop,2010,2022-02-17,144,71,62,-6,14,71,221,4,8,72,2010,Solo,3.68,2010,Mid (60-74),False,False
+Ridin' Solo,32,Jason Derulo,dance pop,2010,2022-02-17,89,83,44,-4,13,58,216,13,15,70,2010,Solo,3.6,2010,Mid (60-74),False,False
+In My Head,33,Jason Derulo,dance pop,2010,2022-02-17,110,75,76,-4,35,85,199,3,3,67,2010,Solo,3.32,2010,Mid (60-74),False,False
+Down,34,Jay Sean,dance pop,2009,2022-02-17,132,68,73,-4,8,73,213,1,3,83,2010,Solo,3.55,2000,High (75-89),False,False
+Do You Remember,35,Jay Sean,dance pop,2009,2022-02-17,126,67,85,-5,10,82,211,2,7,74,2010,Solo,3.52,2000,Mid (60-74),False,False
+Young Forever,36,JAY-Z,east coast hip hop,2009,2022-02-17,140,69,64,-3,21,10,254,42,7,71,2010,Solo,4.23,2000,Mid (60-74),False,False
+Heartbreak Warfare,37,John Mayer,neo mellow,2009,2022-02-17,97,55,62,-8,30,31,270,19,2,69,2010,Solo,4.5,2000,Mid (60-74),False,False
+Half of My Heart,38,John Mayer,neo mellow,2009,2022-02-17,115,59,68,-9,11,73,250,44,3,68,2010,Solo,4.17,2000,Mid (60-74),False,False
+Baby,39,Justin Bieber,canadian pop,2010,2022-02-17,65,86,73,-5,11,54,214,4,14,86,2010,Solo,3.57,2010,High (75-89),False,False
+California Gurls,40,Katy Perry,dance pop,2012,2022-02-17,125,75,79,-4,16,43,235,0,6,78,2010,Solo,3.92,2010,High (75-89),False,False
+Teenage Dream,41,Katy Perry,dance pop,2010,2022-02-17,120,80,72,-5,13,59,228,2,4,76,2010,Solo,3.8,2010,High (75-89),False,False
+Commander,42,Kelly Rowland,atl hip hop,2011,2022-02-17,125,88,40,-4,36,57,218,2,14,54,2010,Solo,3.63,2010,Low (<60),False,False
+TiK ToK,43,Kesha,dance pop,2010,2022-02-17,120,84,76,-3,29,71,200,10,14,86,2010,Solo,3.33,2010,High (75-89),False,False
+Your Love Is My Drug,44,Kesha,dance pop,2010,2022-02-17,120,61,83,-4,9,76,187,1,10,75,2010,Solo,3.12,2010,High (75-89),False,False
+Take It Off,45,Kesha,dance pop,2010,2022-02-17,125,68,73,-5,9,74,215,0,3,74,2010,Solo,3.58,2010,Mid (60-74),False,False
+Blah Blah Blah (feat. 3OH!3),46,Kesha,dance pop,2010,2022-02-17,120,84,75,-3,42,52,172,8,12,67,2010,Solo,2.87,2010,Mid (60-74),False,False
+Wavin' Flag,47,K'NAAN,reggae fusion,2009,2022-02-17,76,70,63,-6,24,72,221,13,7,63,2010,Solo,3.68,2000,Mid (60-74),False,False
+Live Like We're Dying,48,Kris Allen,idol,2009,2022-02-17,92,89,59,-3,34,94,213,3,4,57,2010,Solo,3.55,2000,Low (<60),False,False
+Bad Romance,49,Lady Gaga,art pop,2009,2022-02-17,119,92,70,-4,8,71,295,0,4,86,2010,Solo,4.92,2000,High (75-89),False,False
+Telephone,50,Lady Gaga,art pop,2009,2022-02-17,122,84,82,-6,11,72,221,1,4,75,2010,Solo,3.68,2000,High (75-89),False,False
+Alejandro,51,Lady Gaga,art pop,2009,2022-02-17,99,79,62,-7,38,36,274,0,5,72,2010,Solo,4.57,2000,Mid (60-74),False,False
+Right Above It,52,Lil Wayne,hip hop,2010,2022-02-17,76,84,38,-4,58,46,272,4,36,74,2010,Solo,4.53,2010,Mid (60-74),True,False
+My Chick Bad,53,Ludacris,atl hip hop,2010,2022-02-17,85,72,62,-7,48,76,217,17,38,73,2010,Solo,3.62,2010,Mid (60-74),True,False
+How Low,54,Ludacris,atl hip hop,2010,2022-02-17,144,50,79,-7,22,42,202,0,5,68,2010,Solo,3.37,2010,Mid (60-74),False,False
+Misery,55,Maroon 5,pop,2010,2022-02-17,103,81,70,-5,22,73,216,0,4,70,2010,Band/Group,3.6,2010,Mid (60-74),False,False
+When We Collide,56,Matt Cardle,talent show,2011,2022-02-17,82,68,44,-6,31,45,226,2,3,52,2010,Solo,3.77,2010,Low (<60),False,False
+Cooler Than Me - Single Mix,57,Mike Posner,dance pop,2010,2022-02-17,130,82,77,-5,69,63,213,18,5,81,2010,Solo,3.55,2010,High (75-89),False,False
+Can't Be Tamed,58,Miley Cyrus,dance pop,2010,2022-02-17,117,91,63,-3,20,74,168,3,14,69,2010,Solo,2.8,2010,Mid (60-74),False,False
+Animal,59,Neon Trees,modern alternative rock,2010,2022-02-17,148,83,48,-6,37,74,212,0,4,76,2010,Band/Group,3.53,2010,High (75-89),False,False
+Fireflies,60,Owl City,indietronica,2009,2022-02-17,180,66,51,-7,12,47,228,3,4,84,2010,Band/Group,3.8,2000,High (75-89),False,False
+She Said,61,Plan B,grime,2010,2022-02-17,147,54,72,-6,16,83,211,30,14,39,2010,Duo,3.52,2010,Low (<60),False,False
+Only Girl (In The World),62,Rihanna,barbadian pop,2010,2022-02-17,126,71,79,-4,6,64,235,11,4,82,2010,Solo,3.92,2010,High (75-89),False,False
+Rude Boy,63,Rihanna,barbadian pop,2009,2022-02-17,174,75,56,-4,8,81,223,11,13,80,2010,Solo,3.72,2000,High (75-89),False,False
+What's My Name?,64,Rihanna,barbadian pop,2010,2022-02-17,100,78,69,-3,8,56,263,18,7,75,2010,Solo,4.38,2010,High (75-89),False,True
+Man Down,65,Rihanna,barbadian pop,2010,2022-02-17,156,91,48,-4,5,54,267,4,19,65,2010,Solo,4.45,2010,Mid (60-74),False,False
+Hard,66,Rihanna,barbadian pop,2009,2022-02-17,182,75,31,-4,65,16,251,1,11,60,2010,Solo,4.18,2000,Mid (60-74),False,False
+Dancing On My Own - Radio Edit,67,Robyn,art pop,2010,2022-02-17,117,93,57,-6,13,22,278,0,3,65,2010,Solo,4.63,2010,Mid (60-74),False,False
+King of Anything,68,Sara Bareilles,acoustic pop,2010,2022-02-17,119,76,68,-4,6,81,207,46,4,66,2010,Solo,3.45,2010,Mid (60-74),False,False
+This Ain't a Love Song,69,Scouting For Girls,dance pop,2017,2022-02-17,177,91,46,-4,38,55,211,0,5,58,2010,Band/Group,3.52,2010,Low (<60),False,False
+Eenie Meenie,70,Sean Kingston,dance pop,2020,2022-02-17,121,64,73,-3,10,84,202,3,3,72,2010,Solo,3.37,2020,Mid (60-74),False,False
+Riverside,71,Sidney Samson,dutch house,2009,2022-02-17,126,98,80,-2,13,29,321,0,5,42,2010,Solo,5.35,2000,Low (<60),False,False
+Alors on danse - Radio Edit,72,Stromae,belgian pop,2010,2022-02-17,120,59,79,-9,7,71,206,10,8,83,2010,Solo,3.43,2010,High (75-89),False,False
+Stuck Like Glue,73,Sugarland,contemporary country,2010,2022-02-17,84,80,70,-5,5,84,248,33,6,73,2010,Duo,4.13,2010,Mid (60-74),False,False
+One - Radio Edit,74,Swedish House Mafia,dance pop,2010,2022-02-17,125,78,80,-7,15,62,170,1,4,62,2010,Band/Group,2.83,2010,Mid (60-74),False,False
+Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,75,Swedish House Mafia,dance pop,2010,2022-02-17,125,93,74,-6,40,66,206,0,7,52,2010,Band/Group,3.43,2010,Low (<60),False,False
+Dynamite,76,Taio Cruz,dance pop,2010,2022-02-17,120,78,75,-4,4,82,203,0,9,85,2010,Solo,3.38,2010,High (75-89),False,False
+Break Your Heart,77,Taio Cruz,dance pop,2010,2022-02-17,122,93,61,-4,9,57,202,3,3,79,2010,Solo,3.37,2010,High (75-89),False,False
+The Flood,78,Take That,boy band,2010,2022-02-17,101,83,51,-6,12,14,289,4,4,63,2010,Band/Group,4.82,2010,Mid (60-74),False,False
+Back To December,79,Taylor Swift,pop,2010,2022-02-17,142,67,53,-5,33,29,293,12,3,71,2010,Solo,4.88,2010,Mid (60-74),False,False
+Mine,80,Taylor Swift,pop,2010,2022-02-17,121,76,62,-3,19,66,231,0,3,70,2010,Solo,3.85,2010,Mid (60-74),False,False
+Today Was A Fairytale,81,Taylor Swift,pop,2011,2022-02-17,158,70,49,-4,17,34,242,3,3,56,2010,Solo,4.03,2010,Low (<60),False,False
+If I Die Young,82,The Band Perry,contemporary country,2010,2022-02-17,131,50,61,-7,28,36,223,35,3,74,2010,Band/Group,3.72,2010,Mid (60-74),False,True
+For the First Time,83,The Script,celtic rock,2011,2022-02-17,174,63,40,-5,18,36,253,3,3,66,2010,Band/Group,4.22,2010,Mid (60-74),False,False
+All Time Low,84,The Wanted,boy band,2010,2022-02-17,134,62,69,-5,8,79,205,35,5,63,2010,Band/Group,3.42,2010,Mid (60-74),False,False
+Seek Bromance (Avicii Vocal Edit),85,Tim Berg,edm,2010,2022-02-17,126,81,49,-3,9,55,201,9,4,55,2010,Solo,3.35,2010,Low (<60),False,False
+Carry Out (Featuring Justin Timberlake),86,Timbaland,dance pop,2009,2022-02-17,116,57,53,-7,26,27,232,11,11,74,2010,Solo,3.87,2000,Mid (60-74),False,False
+If We Ever Meet Again (Featuring Katy Perry),87,Timbaland,dance pop,2009,2022-02-17,126,61,65,-7,6,39,293,0,4,74,2010,Solo,4.88,2000,Mid (60-74),False,False
+Pass Out,88,Tinie Tempah,dance pop,2010,2022-02-17,91,89,69,-3,14,53,268,3,30,51,2010,Solo,4.47,2010,Low (<60),False,False
+Written in the Stars (feat. Eric Turner),89,Tinie Tempah,dance pop,2010,2022-02-17,123,97,62,-3,20,30,208,5,13,51,2010,Solo,3.47,2010,Low (<60),False,False
+"Hey, Soul Sister",90,Train,dance pop,2010,2022-02-17,97,89,67,-4,8,80,217,19,4,87,2010,Band/Group,3.62,2010,High (75-89),False,False
+Billionaire (feat. Bruno Mars),91,Travie McCoy,dance pop,2010,2022-02-17,87,67,63,-6,21,66,211,30,26,77,2010,Solo,3.52,2010,High (75-89),False,False
+Bottoms Up (feat. Nicki Minaj),92,Trey Songz,dance pop,2010,2022-02-17,74,60,84,-5,39,33,242,2,16,78,2010,Solo,4.03,2010,High (75-89),False,False
+Say Aah (feat. Fabolous),93,Trey Songz,dance pop,2009,2022-02-17,93,87,72,-4,83,81,208,0,11,68,2010,Solo,3.47,2000,Mid (60-74),False,False
+What You Know,94,Two Door Cinema Club,indie rock,2010,2022-02-17,139,74,56,-4,8,78,192,0,4,76,2010,Band/Group,3.2,2010,High (75-89),False,False
+DJ Got Us Fallin' In Love (feat. Pitbull),95,Usher,atl hip hop,2010,2022-02-17,120,86,66,-3,8,65,221,3,11,84,2010,Solo,3.68,2010,High (75-89),False,False
+OMG (feat. will.i.am),96,Usher,atl hip hop,2010,2022-02-17,130,75,78,-6,36,33,269,20,3,78,2010,Solo,4.48,2010,High (75-89),False,False
+Hey Daddy (Daddy's Home),97,Usher,atl hip hop,2010,2022-02-17,96,70,59,-4,11,35,224,0,3,65,2010,Solo,3.73,2010,Mid (60-74),False,False
+No Hands (feat. Roscoe Dash & Wale),98,Waka Flocka Flame,atl hip hop,2010,2022-02-17,131,60,76,-6,24,36,264,1,4,63,2010,Solo,4.4,2010,Mid (60-74),False,True
+We No Speak Americano (Edit),99,Yolanda Be Cool,australian dance,2020,2022-02-17,125,81,90,-5,9,75,157,7,5,65,2010,Duo,2.62,2020,Mid (60-74),False,False
+BedRock,100,Young Money,dance pop,2009,2022-02-17,148,66,73,-6,19,56,288,10,30,76,2010,Band/Group,4.8,2000,High (75-89),False,False
+Rolling in the Deep,101,Adele,british soul,2011,2020-06-16,105,77,73,-5,5,51,228,14,3,84,2011,Solo,3.8,2010,High (75-89),False,False
+Set Fire to the Rain,102,Adele,british soul,2011,2020-06-16,108,67,60,-4,11,45,243,0,2,81,2011,Solo,4.05,2010,High (75-89),False,False
+Mr. Saxobeat,103,Alexandra Stan,dance pop,2011,2020-06-16,127,93,72,-4,14,78,195,3,5,69,2011,Solo,3.25,2010,Mid (60-74),False,False
+What the Hell,104,Avril Lavigne,canadian pop,2011,2020-06-16,150,93,58,-4,14,88,221,0,5,80,2011,Solo,3.68,2010,High (75-89),False,False
+Lighters,105,Bad Meets Evil,detroit hip hop,2011,2020-06-16,90,70,68,-8,12,14,304,35,25,74,2011,Duo,5.07,2010,Mid (60-74),False,False
+Love On Top,106,Beyoncé,dance pop,2011,2020-06-16,94,75,65,-5,60,65,267,8,9,79,2011,Solo,4.45,2010,High (75-89),False,False
+Best Thing I Never Had,107,Beyoncé,dance pop,2011,2020-06-16,99,65,55,-4,9,30,254,14,3,74,2011,Solo,4.23,2010,Mid (60-74),False,False
+Skinny Love,108,Birdy,pop,2011,2020-06-16,166,29,38,-8,12,17,201,95,5,77,2011,Solo,3.35,2010,High (75-89),False,False
+Just Can’t Get Enough,109,Black Eyed Peas,dance pop,2010,2020-06-16,94,63,66,-9,11,26,219,19,18,81,2011,Band/Group,3.65,2010,High (75-89),False,False
+Honey Bee,110,Blake Shelton,contemporary country,2011,2020-06-16,206,85,48,-5,12,72,211,0,4,69,2011,Solo,3.52,2010,Mid (60-74),False,False
+Holocene,111,Bon Iver,eau claire indie,2011,2020-06-16,148,30,37,-15,13,15,337,94,3,70,2011,Band/Group,5.62,2010,Mid (60-74),False,False
+I Wanna Go,112,Britney Spears,dance pop,2011,2020-06-16,130,55,70,-7,33,79,210,0,4,71,2011,Solo,3.5,2010,Mid (60-74),False,False
+Till the World Ends,113,Britney Spears,dance pop,2011,2020-06-16,132,71,69,-6,20,45,238,2,7,71,2011,Solo,3.97,2010,Mid (60-74),False,False
+Grenade,114,Bruno Mars,dance pop,2010,2020-06-16,110,56,70,-7,11,25,222,15,5,82,2011,Solo,3.7,2010,High (75-89),False,False
+Marry You,115,Bruno Mars,dance pop,2010,2020-06-16,145,82,62,-5,10,45,230,33,4,79,2011,Solo,3.83,2010,High (75-89),False,False
+The Lazy Song,116,Bruno Mars,dance pop,2010,2020-06-16,175,71,79,-5,10,96,189,30,7,77,2011,Solo,3.15,2010,High (75-89),False,False
+Bounce (feat. Kelis) - Radio Edit,117,Calvin Harris,dance pop,2012,2020-06-16,128,96,78,-2,66,76,222,3,4,67,2011,Solo,3.7,2010,Mid (60-74),False,False
+Blind Faith,118,Chase & Status,dancefloor dnb,2011,2020-06-16,140,85,45,-5,23,40,234,1,5,66,2011,Duo,3.9,2010,Mid (60-74),False,False
+Champion (feat. Chris Brown),119,Chip,grime,2011,2020-06-16,190,93,42,-3,14,52,237,8,24,54,2011,Solo,3.95,2010,Low (<60),False,False
+Look At Me Now (feat. Lil' Wayne & Busta Rhymes),120,Chris Brown,dance pop,2011,2020-06-16,146,68,77,-6,14,54,223,3,18,77,2011,Solo,3.72,2010,High (75-89),False,False
+Yeah 3x,121,Chris Brown,dance pop,2011,2020-06-16,130,88,71,-3,9,70,242,0,4,74,2011,Solo,4.03,2010,Mid (60-74),False,False
+Beautiful People,122,Chris Brown,dance pop,2019,2020-06-16,128,78,42,-6,8,54,226,7,16,59,2011,Solo,3.77,2010,Low (<60),False,False
+Jar of Hearts,123,Christina Perri,dance pop,2011,2020-06-16,75,35,35,-6,12,9,247,73,3,77,2011,Solo,4.12,2010,High (75-89),False,False
+You Make Me Feel... (feat. Sabi),124,Cobra Starship,dance pop,2011,2020-06-16,132,86,67,-3,4,75,216,2,5,75,2011,Band/Group,3.6,2010,High (75-89),False,False
+Paradise,125,Coldplay,permanent wave,2011,2020-06-16,140,59,45,-7,8,21,279,5,3,88,2011,Band/Group,4.65,2010,High (75-89),False,True
+Every Teardrop Is a Waterfall,126,Coldplay,permanent wave,2011,2020-06-16,118,73,43,-7,17,33,241,0,4,75,2011,Band/Group,4.02,2010,High (75-89),False,False
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),127,David Guetta,big room,2011,2020-06-16,130,87,66,-3,23,56,210,3,4,69,2011,Solo,3.5,2010,Mid (60-74),False,False
+Who's That Chick? (feat. Rihanna),128,David Guetta,big room,2010,2020-06-16,128,60,68,-5,5,93,201,0,12,66,2011,Solo,3.35,2010,Mid (60-74),False,False
+Coming Home,129,Diddy - Dirty Money,hip pop,2010,2020-06-16,168,84,39,-2,30,23,239,16,19,74,2011,Duo,3.98,2010,Mid (60-74),False,False
+Louder,130,DJ Fresh,dancefloor dnb,2012,2020-06-16,140,93,39,-1,35,48,207,2,5,40,2011,Solo,3.45,2010,Low (<60),False,False
+I'm On One,131,DJ Khaled,dance pop,2011,2020-06-16,149,81,41,-3,63,44,296,5,32,75,2011,Solo,4.93,2010,High (75-89),False,False
+I Need A Doctor,132,Dr. Dre,g funk,2011,2020-06-16,156,95,59,-5,31,40,284,9,45,77,2011,Solo,4.73,2010,High (75-89),True,False
+Headlines,133,Drake,canadian hip hop,2011,2020-06-16,152,57,64,-7,9,43,236,37,11,80,2011,Solo,3.93,2010,High (75-89),False,False
+The A Team,134,Ed Sheeran,pop,2011,2020-06-16,85,29,64,-10,18,41,258,67,4,80,2011,Solo,4.3,2010,High (75-89),False,False
+Lego House,135,Ed Sheeran,pop,2011,2020-06-16,160,64,59,-8,13,56,185,56,10,77,2011,Solo,3.08,2010,High (75-89),False,False
+Stereo Love - Radio Edit,136,Edward Maya,romanian house,2010,2020-06-16,127,78,80,-4,8,59,185,3,3,71,2011,Solo,3.08,2010,Mid (60-74),False,True
+Tonight (I'm Fuckin' You),137,Enrique Iglesias,dance pop,2010,2020-06-16,126,88,67,-5,14,27,232,3,4,65,2011,Solo,3.87,2010,Mid (60-74),False,False
+Springsteen,138,Eric Church,contemporary country,2011,2020-06-16,104,81,69,-6,19,93,263,10,3,77,2011,Solo,4.38,2010,High (75-89),False,False
+Changed the Way You Kiss Me - Radio Edit,139,Example,dance pop,2011,2020-06-16,127,86,58,-4,9,19,195,1,4,69,2011,Solo,3.25,2010,Mid (60-74),False,False
+Rocketeer,140,Far East Movement,asian american hip hop,2010,2020-06-16,96,85,66,-6,27,36,211,18,5,73,2011,Band/Group,3.52,2010,Mid (60-74),False,False
+Shake It Out,141,Florence + The Machine,baroque pop,2011,2020-06-16,107,80,53,-4,11,22,278,1,4,68,2011,Band/Group,4.63,2010,Mid (60-74),False,False
+Pumped Up Kicks,142,Foster The People,indietronica,2011,2020-06-16,128,71,73,-6,10,97,240,14,3,88,2011,Band/Group,4.0,2010,High (75-89),False,False
+Tongue Tied,143,Grouplove,indie pop,2011,2020-06-16,113,94,56,-6,16,37,218,1,4,84,2011,Band/Group,3.63,2010,High (75-89),False,False
+Stereo Hearts (feat. Adam Levine),144,Gym Class Heroes,dance pop,2011,2020-06-16,90,80,65,-3,27,80,211,3,10,87,2011,Band/Group,3.52,2010,High (75-89),False,False
+Tonight Tonight,145,Hot Chelle Rae,dance pop,2011,2020-06-16,100,78,69,-5,16,81,200,8,12,79,2011,Band/Group,3.33,2010,High (75-89),False,False
+Dirt Road Anthem,146,Jason Aldean,contemporary country,2010,2020-06-16,127,74,68,-5,12,64,229,35,4,77,2011,Solo,3.82,2010,High (75-89),False,False
+It Girl,147,Jason Derulo,dance pop,2011,2020-06-16,92,72,67,-5,10,35,192,2,6,76,2011,Solo,3.2,2010,High (75-89),False,False
+Don't Wanna Go Home,148,Jason Derulo,dance pop,2011,2020-06-16,122,81,67,-5,13,64,206,2,7,68,2011,Solo,3.43,2010,Mid (60-74),False,False
+On The Floor,149,Jennifer Lopez,dance pop,2011,2020-06-16,130,78,73,-5,7,57,285,11,5,84,2011,Solo,4.75,2010,High (75-89),False,False
+Down On Me,150,Jeremih,chicago rap,2010,2020-06-16,160,60,70,-8,11,59,228,4,11,77,2011,Solo,3.8,2010,High (75-89),False,False
+Do It Like A Dude,151,Jessie J,dance pop,2011,2020-06-16,140,84,66,-4,36,38,195,5,5,53,2011,Solo,3.25,2010,Low (<60),False,False
+All Of The Lights,152,Kanye West,chicago rap,2010,2020-06-16,142,80,53,-3,18,22,300,8,7,82,2011,Solo,5.0,2010,High (75-89),False,False
+Last Friday Night (T.G.I.F.),153,Katy Perry,dance pop,2012,2020-06-16,126,82,65,-4,67,77,231,0,4,80,2011,Solo,3.85,2010,High (75-89),False,False
+Firework,154,Katy Perry,dance pop,2010,2020-06-16,124,83,64,-5,11,65,228,14,5,72,2011,Solo,3.8,2010,Mid (60-74),False,False
+E.T.,155,Katy Perry,dance pop,2012,2020-06-16,152,87,62,-5,37,76,230,2,18,71,2011,Solo,3.83,2010,Mid (60-74),False,False
+Motivation,156,Kelly Rowland,atl hip hop,2011,2020-06-16,141,67,74,-6,11,27,231,19,4,70,2011,Solo,3.85,2010,Mid (60-74),False,False
+Pretty Girl Rock,157,Keri Hilson,dance pop,2010,2020-06-16,160,87,67,-5,9,90,244,20,25,72,2011,Solo,4.07,2010,Mid (60-74),False,False
+We R Who We R,158,Kesha,dance pop,2010,2020-06-16,120,82,74,-5,12,65,205,1,4,77,2011,Solo,3.42,2010,High (75-89),False,False
+Blow,159,Kesha,dance pop,2010,2020-06-16,120,73,75,-4,7,81,220,0,4,75,2011,Solo,3.67,2010,High (75-89),False,False
+Earthquake (feat. Tinie Tempah),160,Labrinth,indie poptimism,2012,2020-06-16,153,86,54,-4,28,26,275,11,10,68,2011,Solo,4.58,2010,Mid (60-74),False,False
+Just A Kiss,161,Lady A,contemporary country,2011,2020-06-16,143,64,59,-6,10,33,219,45,3,69,2011,Band/Group,3.65,2010,Mid (60-74),False,False
+Born This Way,162,Lady Gaga,art pop,2011,2020-06-16,124,83,59,-5,33,49,260,0,16,73,2011,Solo,4.33,2010,Mid (60-74),False,False
+The Edge Of Glory,163,Lady Gaga,art pop,2011,2020-06-16,128,77,58,-7,11,36,321,0,4,68,2011,Solo,5.35,2010,Mid (60-74),False,False
+6 Foot 7 Foot,164,Lil Wayne,hip hop,2011,2020-06-16,79,75,37,-5,32,60,249,0,30,77,2011,Solo,4.15,2010,High (75-89),False,False
+How To Love,165,Lil Wayne,hip hop,2011,2020-06-16,154,66,64,-6,11,27,240,0,4,72,2011,Solo,4.0,2010,Mid (60-74),False,False
+Party Rock Anthem,166,LMFAO,dance pop,2011,2020-06-16,130,73,75,-4,27,36,262,2,14,74,2011,Duo,4.37,2010,Mid (60-74),False,False
+Sexy And I Know It,167,LMFAO,dance pop,2011,2020-06-16,130,86,71,-4,19,80,199,10,32,68,2011,Duo,3.32,2010,Mid (60-74),False,True
+The Show Goes On,168,Lupe Fiasco,chicago rap,2011,2020-06-16,143,89,59,-4,16,65,240,2,12,76,2011,Solo,4.0,2010,High (75-89),False,False
+I Follow Rivers - The Magician Remix,169,Lykke Li,art pop,2021,2020-06-25,122,70,79,-6,8,30,280,2,4,67,2011,Solo,4.67,2020,Mid (60-74),False,False
+Midnight City,170,M83,french shoegaze,2011,2020-06-16,105,71,53,-7,18,32,241,2,4,76,2011,Duo,4.02,2010,High (75-89),False,False
+Donald Trump,171,Mac Miller,hip hop,2011,2020-06-16,163,90,64,-7,39,84,166,12,12,67,2011,Solo,2.77,2010,Mid (60-74),False,False
+Buzzin Remix,172,Mann,pop rap,2011,2020-06-16,104,94,69,-4,28,54,224,9,15,53,2011,Solo,3.73,2010,Low (<60),False,False
+"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",173,Maroon 5,pop,2010,2020-06-16,128,76,72,-4,31,62,201,1,5,75,2011,Band/Group,3.35,2010,High (75-89),False,False
+Sure Thing,174,Miguel,dance pop,2010,2020-06-16,81,61,68,-8,19,50,195,3,10,84,2011,Solo,3.25,2010,High (75-89),False,False
+When We Stand Together,175,Nickelback,alternative metal,2011,2020-06-16,188,90,45,-4,4,88,191,0,5,71,2011,Band/Group,3.18,2010,Mid (60-74),False,False
+Super Bass,176,Nicki Minaj,dance pop,2010,2020-06-16,127,86,72,-4,60,67,200,27,20,83,2011,Solo,3.33,2010,High (75-89),False,False
+L.I.F.E.G.O.E.S.O.N.,177,Noah And The Whale,indie folk,2011,2020-06-16,82,75,60,-6,35,61,228,21,4,63,2011,Band/Group,3.8,2010,Mid (60-74),False,False
+Heart Skips a Beat (feat. Rizzle Kicks),178,Olly Murs,dance pop,2011,2020-06-16,111,88,84,-4,8,88,202,14,6,66,2011,Solo,3.37,2010,Mid (60-74),False,False
+Good Life,179,OneRepublic,dance pop,2009,2020-06-16,95,69,63,-8,13,65,253,8,5,78,2011,Band/Group,4.22,2000,High (75-89),False,False
+Raise Your Glass,180,P!nk,dance pop,2010,2020-06-16,122,71,70,-5,3,62,203,0,8,81,2011,Solo,3.38,2010,High (75-89),False,False
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",181,Pitbull,dance pop,2011,2020-06-16,129,94,67,-3,30,53,252,19,16,86,2011,Solo,4.2,2010,High (75-89),False,False
+Hey Baby (Drop It to the Floor) (feat. T-Pain),182,Pitbull,dance pop,2011,2020-06-16,128,91,60,-3,26,76,234,4,9,76,2011,Solo,3.9,2010,High (75-89),False,False
+Read All About It,183,Professor Green,grime,2021,2020-06-16,101,75,66,-6,22,45,236,34,4,35,2011,Solo,3.93,2020,Low (<60),False,False
+The Adventures of Rain Dance Maggie,184,Red Hot Chili Peppers,alternative rock,2011,2020-06-16,106,73,68,-5,26,58,282,0,3,71,2011,Band/Group,4.7,2010,Mid (60-74),False,False
+S&M,185,Rihanna,barbadian pop,2010,2020-06-16,128,68,77,-5,9,84,244,1,4,82,2011,Solo,4.07,2010,High (75-89),False,False
+We Found Love,186,Rihanna,barbadian pop,2011,2020-06-16,128,77,74,-4,11,60,215,3,4,80,2011,Solo,3.58,2010,High (75-89),False,True
+What's My Name?,187,Rihanna,barbadian pop,2010,2020-06-16,100,78,69,-3,8,56,263,18,7,75,2011,Solo,4.38,2010,High (75-89),False,True
+Down With The Trumpets,188,Rizzle Kicks,uk hip hop,2011,2020-06-16,115,88,75,-5,24,79,187,9,8,65,2011,Duo,3.12,2010,Mid (60-74),False,False
+Loca People - Radio Edit,189,Sak Noel,electro house,2011,2020-06-16,128,81,93,-3,5,70,216,0,6,45,2011,Solo,3.6,2010,Low (<60),False,False
+Love You Like A Love Song,190,Selena Gomez & The Scene,dance pop,2011,2020-06-16,117,68,86,-4,7,92,188,8,5,85,2011,Band/Group,3.13,2010,High (75-89),False,False
+Who Says,191,Selena Gomez & The Scene,dance pop,2011,2020-06-16,101,93,68,-3,15,74,196,8,5,81,2011,Band/Group,3.27,2010,High (75-89),False,False
+Sweat - Remix,192,Snoop Dogg,g funk,2011,2020-06-16,130,73,81,-6,8,73,196,6,3,73,2011,Solo,3.27,2010,Mid (60-74),False,False
+Save The World,193,Swedish House Mafia,dance pop,2011,2020-06-16,127,67,51,-8,8,40,213,1,5,70,2011,Band/Group,3.55,2010,Mid (60-74),False,False
+Higher,194,Taio Cruz,dance pop,2011,2020-06-16,128,92,67,-5,13,70,188,0,8,51,2011,Solo,3.13,2010,Low (<60),False,False
+If I Die Young,195,The Band Perry,contemporary country,2010,2020-06-16,131,50,61,-7,28,36,223,35,3,74,2011,Band/Group,3.72,2010,Mid (60-74),False,True
+Glad You Came,196,The Wanted,boy band,2011,2020-06-16,127,85,72,-4,11,45,198,3,6,83,2011,Band/Group,3.3,2010,High (75-89),False,False
+More - RedOne Jimmy Joker Remix,197,Usher,atl hip hop,2010,2020-06-16,125,89,55,-3,35,79,220,0,5,72,2011,Solo,3.67,2010,Mid (60-74),False,False
+No Hands (feat. Roscoe Dash & Wale),198,Waka Flocka Flame,atl hip hop,2010,2020-06-16,131,60,76,-6,24,36,264,1,4,81,2011,Solo,4.4,2010,High (75-89),False,True
+Black and Yellow,199,Wiz Khalifa,dance pop,2011,2020-06-16,164,83,68,-5,27,54,218,6,7,80,2011,Solo,3.63,2010,High (75-89),False,False
+Roll Up,200,Wiz Khalifa,dance pop,2011,2020-06-16,125,81,52,-5,9,60,228,5,19,68,2011,Solo,3.8,2010,Mid (60-74),False,False
+Skyfall,201,Adele,british soul,2012,2020-06-22,76,55,35,-7,11,8,286,42,3,80,2012,Solo,4.77,2010,High (75-89),False,False
+Rumour Has It,202,Adele,british soul,2011,2020-06-22,120,75,61,-5,17,57,223,62,4,72,2012,Solo,3.72,2010,Mid (60-74),False,False
+Years,203,Alesso,dance pop,2013,2020-06-22,128,82,37,-6,17,32,195,0,8,53,2012,Solo,3.25,2010,Low (<60),False,False
+Too Close,204,Alex Clare,modern alternative rock,2011,2020-06-22,126,71,58,-4,11,29,257,1,4,67,2012,Solo,4.28,2010,Mid (60-74),False,False
+Breezeblocks,205,alt-J,indie rock,2012,2020-06-22,150,66,62,-7,21,29,227,10,3,77,2012,Band/Group,3.78,2010,High (75-89),False,False
+R U Mine?,206,Arctic Monkeys,garage rock,2012,2020-06-22,97,79,52,-5,70,68,200,5,3,39,2012,Band/Group,3.33,2010,Low (<60),False,False
+One Day / Reckoning Song (Wankelmut Remix) - Radio Edit,207,Asaf Avidan,israeli pop,2012,2020-06-22,119,67,83,-6,17,53,215,22,6,72,2012,Solo,3.58,2010,Mid (60-74),False,False
+Levels - Radio Edit,208,Avicii,dance pop,2011,2020-06-22,126,89,58,-6,31,46,200,5,3,82,2012,Solo,3.33,2010,High (75-89),False,False
+Silhouettes - Original Radio Edit,209,Avicii,dance pop,2012,2020-06-22,128,80,61,-6,12,84,212,16,5,68,2012,Solo,3.53,2010,Mid (60-74),False,False
+212,210,Azealia Banks,dance pop,2014,2020-06-22,126,77,85,-6,8,62,205,1,26,73,2012,Solo,3.42,2010,Mid (60-74),False,False
+So Good,211,B.o.B,atl hip hop,2012,2020-06-22,86,90,66,-5,22,59,213,4,14,70,2012,Solo,3.55,2010,Mid (60-74),False,False
+Locked out of Heaven,212,Bruno Mars,dance pop,2012,2020-06-11,144,70,73,-4,31,87,233,5,4,91,2012,Solo,3.88,2010,Very High (90+),False,True
+It Will Rain,213,Bruno Mars,dance pop,2011,2020-06-22,150,84,58,-7,8,48,258,34,5,74,2012,Solo,4.3,2010,Mid (60-74),False,False
+Feel So Close - Radio Edit,214,Calvin Harris,dance pop,2012,2020-06-22,128,92,71,-3,20,92,206,0,3,85,2012,Solo,3.43,2010,High (75-89),False,False
+Let's Go (feat. Ne-Yo),215,Calvin Harris,dance pop,2012,2020-06-22,128,88,71,-3,29,88,233,1,6,71,2012,Solo,3.88,2010,Mid (60-74),False,False
+We'll Be Coming Back (feat. Example),216,Calvin Harris,dance pop,2012,2020-06-22,128,95,60,-4,60,57,234,0,9,68,2012,Solo,3.9,2010,Mid (60-74),False,False
+Call Me Maybe,217,Carly Rae Jepsen,canadian pop,2012,2020-06-22,120,58,78,-7,11,66,193,1,4,76,2012,Solo,3.22,2010,High (75-89),False,False
+Blown Away,218,Carrie Underwood,contemporary country,2012,2022-03-22,137,84,53,-3,3,39,240,9,4,68,2012,Solo,4.0,2010,Mid (60-74),False,False
+Want U Back,219,Cher Lloyd,dance pop,2012,2020-06-22,98,89,69,-3,56,56,215,6,9,71,2012,Solo,3.58,2010,Mid (60-74),False,False
+Turn Up the Music,220,Chris Brown,dance pop,2012,2020-06-22,130,84,59,-6,16,64,228,0,10,69,2012,Solo,3.8,2010,Mid (60-74),False,False
+Paradise,221,Coldplay,permanent wave,2011,2020-06-22,140,59,45,-7,8,21,279,5,3,88,2012,Band/Group,4.65,2010,High (75-89),False,True
+Princess of China,222,Coldplay,permanent wave,2011,2020-06-22,85,69,42,-6,29,24,239,0,3,72,2012,Band/Group,3.98,2010,Mid (60-74),False,False
+Turn Me On (feat. Nicki Minaj),223,David Guetta,big room,2011,2020-06-22,128,79,71,-2,57,41,200,5,6,64,2012,Solo,3.33,2010,Mid (60-74),False,False
+In The Dark,224,DEV,dance pop,2012,2020-06-22,125,82,74,-4,33,44,226,0,7,62,2012,Solo,3.77,2010,Mid (60-74),False,False
+Latch,225,Disclosure,edm,2013,2020-06-22,122,74,73,-5,9,54,256,2,9,75,2012,Duo,4.27,2010,High (75-89),False,True
+Hot Right Now - Edit,226,DJ Fresh,dancefloor dnb,2010,2020-06-22,175,96,51,-2,12,39,179,1,4,41,2012,Solo,2.98,2010,Low (<60),False,False
+Take Care,227,Drake,canadian hip hop,2011,2020-06-22,122,52,63,-10,9,30,277,3,27,81,2012,Solo,4.62,2010,High (75-89),False,False
+The Motto,228,Drake,canadian hip hop,2011,2020-06-22,202,44,77,-9,11,39,182,0,36,79,2012,Solo,3.03,2010,High (75-89),True,False
+Lights - Single Version,229,Ellie Goulding,dance pop,2010,2020-06-22,120,80,68,-6,13,78,211,3,4,68,2012,Solo,3.52,2010,Mid (60-74),False,False
+Good Feeling,230,Flo Rida,dance pop,2012,2020-06-22,128,89,71,-4,31,68,248,6,7,81,2012,Solo,4.13,2010,High (75-89),False,False
+Spectrum (Say My Name) - Calvin Harris Remix,231,Florence + The Machine,baroque pop,2012,2020-06-22,126,95,58,-4,10,59,218,0,5,59,2012,Band/Group,3.63,2010,Low (<60),False,False
+Lost,232,Frank Ocean,alternative r&b,2012,2020-06-22,123,60,91,-5,17,50,234,3,23,91,2012,Solo,3.9,2010,Very High (90+),False,False
+Thinkin Bout You,233,Frank Ocean,alternative r&b,2012,2020-06-22,130,34,72,-11,10,20,201,41,5,81,2012,Solo,3.35,2010,High (75-89),False,False
+We Are Young (feat. Janelle Monáe),234,fun.,baroque pop,2012,2020-06-22,184,64,38,-6,8,74,251,2,8,79,2012,Band/Group,4.18,2010,High (75-89),False,False
+Some Nights,235,fun.,baroque pop,2012,2020-06-22,108,74,67,-7,9,39,277,2,5,76,2012,Band/Group,4.62,2010,High (75-89),False,False
+Somebody That I Used To Know,236,Gotye,australian pop,2011,2020-06-22,129,50,86,-7,10,72,245,59,4,81,2012,Solo,4.08,2010,High (75-89),False,False
+Oblivion,237,Grimes,art pop,2012,2020-06-22,156,53,70,-9,9,49,251,12,3,71,2012,Solo,4.18,2010,Mid (60-74),False,False
+Ass Back Home (feat. Neon Hitch),238,Gym Class Heroes,dance pop,2011,2020-06-22,130,84,72,-4,15,65,222,13,5,67,2012,Band/Group,3.7,2010,Mid (60-74),False,False
+I Love It (feat. Charli XCX),239,Icona Pop,candy pop,2013,2020-06-22,126,91,71,-3,15,82,157,1,3,74,2012,Duo,2.62,2010,Mid (60-74),False,True
+It's Time,240,Imagine Dragons,modern rock,2012,2020-06-22,105,88,66,-5,14,86,238,2,4,72,2012,Band/Group,3.97,2010,Mid (60-74),False,False
+On Top Of The World,241,Imagine Dragons,modern rock,2012,2020-06-22,100,93,64,-6,9,76,190,9,15,72,2012,Band/Group,3.17,2010,Mid (60-74),False,False
+Ni**as In Paris,242,JAY-Z,east coast hip hop,2011,2020-06-22,140,86,79,-6,35,78,219,13,31,88,2012,Solo,3.65,2010,High (75-89),False,False
+Boyfriend,243,Justin Bieber,canadian pop,2012,2020-06-22,97,55,72,-6,13,33,171,4,5,68,2012,Solo,2.85,2010,Mid (60-74),False,False
+Mercy,244,Kanye West,chicago rap,2012,2020-06-22,140,50,56,-9,17,43,329,7,41,79,2012,Solo,5.48,2010,High (75-89),True,False
+Brokenhearted,245,Karmin,dance pop,2012,2020-06-22,120,77,77,-3,5,89,227,1,6,70,2012,Duo,3.78,2010,Mid (60-74),False,False
+The One That Got Away,246,Katy Perry,dance pop,2012,2020-06-22,134,79,69,-4,20,86,227,0,4,78,2012,Solo,3.78,2010,High (75-89),False,False
+Part Of Me,247,Katy Perry,dance pop,2012,2020-06-22,130,92,68,-5,7,77,216,0,4,78,2012,Solo,3.6,2010,High (75-89),False,False
+Swimming Pools (Drank) - Extended Version,248,Kendrick Lamar,conscious hip hop,2012,2020-06-22,74,49,72,-8,60,26,314,12,40,76,2012,Solo,5.23,2010,High (75-89),True,False
+m.A.A.d city,249,Kendrick Lamar,conscious hip hop,2012,2020-06-22,91,73,49,-7,44,22,350,5,27,73,2012,Solo,5.83,2010,Mid (60-74),False,False
+Die Young,250,Kesha,dance pop,2012,2020-06-25,128,70,71,-5,22,80,212,0,5,83,2012,Solo,3.53,2010,High (75-89),False,False
+C'Mon,251,Kesha,dance pop,2012,2020-06-22,126,78,56,-5,10,29,214,1,10,67,2012,Solo,3.57,2010,Mid (60-74),False,False
+Ride,252,Lana Del Rey,art pop,2012,2020-06-22,94,69,37,-6,38,19,289,13,3,64,2012,Solo,4.82,2010,Mid (60-74),False,False
+Video Games,253,Lana Del Rey,art pop,2012,2020-06-22,122,25,39,-10,9,18,282,81,3,63,2012,Solo,4.7,2010,Mid (60-74),False,False
+Born To Die,254,Lana Del Rey,art pop,2012,2020-06-22,86,63,39,-7,20,40,286,20,4,62,2012,Solo,4.77,2010,Mid (60-74),False,False
+BURN IT DOWN,255,Linkin Park,alternative metal,2012,2020-06-22,110,97,59,-4,7,59,230,1,5,79,2012,Band/Group,3.83,2010,High (75-89),False,False
+Sexy And I Know It,256,LMFAO,dance pop,2011,2020-06-22,130,86,71,-4,19,80,199,10,32,68,2012,Duo,3.32,2010,Mid (60-74),False,True
+Battle Scars (with Guy Sebastian),257,Lupe Fiasco,chicago rap,2012,2020-06-22,168,81,52,-5,11,49,250,19,29,74,2012,Solo,4.17,2010,Mid (60-74),False,False
+Primadonna,258,MARINA,art pop,2012,2020-06-22,128,69,66,-3,9,43,221,9,3,84,2012,Solo,3.68,2010,High (75-89),False,False
+How to Be a Heartbreaker,259,MARINA,art pop,2012,2020-06-22,140,90,69,-5,11,85,221,1,5,77,2012,Solo,3.68,2010,High (75-89),False,False
+One More Night,260,Maroon 5,pop,2012,2020-06-22,93,82,72,-3,8,61,219,4,3,74,2012,Band/Group,3.65,2010,Mid (60-74),False,False
+Payphone,261,Maroon 5,pop,2012,2020-06-22,110,76,74,-5,37,52,231,1,4,69,2012,Band/Group,3.85,2010,Mid (60-74),False,False
+Adorn,262,Miguel,dance pop,2012,2020-06-22,179,58,63,-6,19,24,193,5,18,72,2012,Solo,3.22,2010,Mid (60-74),False,False
+Madness,263,Muse,modern rock,2012,2020-06-22,180,42,50,-8,11,22,281,13,7,72,2012,Band/Group,4.68,2010,Mid (60-74),False,False
+Everybody Talks,264,Neon Trees,modern alternative rock,2012,2020-06-22,155,92,47,-4,31,73,177,0,6,85,2012,Band/Group,2.95,2010,High (75-89),False,False
+Starships,265,Nicki Minaj,dance pop,2011,2020-06-22,125,72,75,-2,25,75,211,14,8,78,2012,Solo,3.52,2010,High (75-89),False,False
+Pound The Alarm,266,Nicki Minaj,dance pop,2012,2020-06-22,125,86,73,-4,2,59,206,4,6,69,2012,Solo,3.43,2010,Mid (60-74),False,False
+Dirty Paws,267,Of Monsters and Men,folk-pop,2012,2021-08-09,112,65,36,-7,6,13,278,11,3,74,2012,Band/Group,4.63,2010,Mid (60-74),False,False
+Troublemaker (feat. Flo Rida),268,Olly Murs,dance pop,2012,2020-06-22,106,86,76,-4,13,97,186,2,6,80,2012,Solo,3.1,2010,High (75-89),False,False
+What Makes You Beautiful,269,One Direction,boy band,2012,2020-06-22,125,79,73,-2,6,89,200,1,7,88,2012,Band/Group,3.33,2010,High (75-89),False,False
+Live While We're Young,270,One Direction,boy band,2012,2020-06-22,126,86,66,-2,14,93,200,5,5,79,2012,Band/Group,3.33,2010,High (75-89),False,False
+Million Voices - Radio Edit,271,Otto Knows,edm,2012,2020-06-22,126,89,58,-6,7,7,193,0,4,75,2012,Solo,3.22,2010,High (75-89),False,False
+Good Time,272,Owl City,indietronica,2012,2020-06-22,126,87,56,-4,37,68,206,2,14,82,2012,Band/Group,3.43,2010,High (75-89),False,False
+Blow Me (One Last Kiss),273,P!nk,dance pop,2012,2020-06-22,114,92,60,-3,28,73,256,0,4,71,2012,Solo,4.27,2010,Mid (60-74),False,False
+Take a Walk,274,Passion Pit,alternative dance,2012,2020-06-22,101,76,57,-6,32,45,264,3,4,74,2012,Band/Group,4.4,2010,Mid (60-74),False,False
+"Gone, Gone, Gone",275,Phillip Phillips,folk-pop,2013,2020-06-22,118,64,66,-6,11,50,210,13,4,76,2012,Solo,3.5,2010,High (75-89),False,False
+Home,276,Phillip Phillips,folk-pop,2013,2021-08-09,121,83,61,-6,12,32,210,3,3,73,2012,Solo,3.5,2010,Mid (60-74),False,True
+Gangnam Style (강남스타일),277,PSY,k-pop,2012,2020-06-22,132,94,73,-3,9,75,219,0,29,77,2012,Solo,3.65,2010,High (75-89),False,False
+We Found Love,278,Rihanna,barbadian pop,2011,2020-06-22,128,77,74,-4,11,60,215,3,4,80,2012,Solo,3.58,2010,High (75-89),False,True
+Where Have You Been,279,Rihanna,barbadian pop,2011,2020-06-22,128,85,72,-6,22,44,243,0,9,76,2012,Solo,4.05,2010,High (75-89),False,False
+R.I.P. (feat. Tinie Tempah),280,Rita Ora,dance pop,2012,2020-06-22,72,83,61,-3,65,35,228,3,5,52,2012,Solo,3.8,2010,Low (<60),False,False
+Mama Do The Hump,281,Rizzle Kicks,uk hip hop,2011,2020-06-22,98,89,72,-4,7,56,216,1,13,61,2012,Duo,3.6,2010,Mid (60-74),False,False
+Candy,282,Robbie Williams,dance pop,2012,2020-06-22,116,79,72,-7,7,88,201,4,4,73,2012,Solo,3.35,2010,Mid (60-74),False,False
+Feel the Love (feat. John Newman),283,Rudimental,dance pop,2013,2020-06-22,180,71,39,-7,69,24,245,0,6,52,2012,Band/Group,4.08,2010,Low (<60),False,False
+Hands on the Wheel (feat. Asap Rocky),284,ScHoolboy Q,gangster rap,2012,2020-06-22,128,78,65,-7,7,18,197,2,11,67,2012,Solo,3.28,2010,Mid (60-74),False,False
+Bangarang (feat. Sirah),285,Skrillex,brostep,2011,2020-06-29,110,97,72,-2,32,58,215,1,20,75,2012,Solo,3.58,2010,High (75-89),False,False
+"Young, Wild & Free (feat. Bruno Mars)",286,Snoop Dogg,g funk,2011,2020-06-22,95,66,72,-6,12,53,207,5,14,82,2012,Solo,3.45,2010,High (75-89),False,False
+Don't You Worry Child - Radio Edit,287,Swedish House Mafia,dance pop,2012,2020-06-22,129,84,61,-3,12,44,213,11,5,81,2012,Band/Group,3.55,2010,High (75-89),False,False
+I Knew You Were Trouble.,288,Taylor Swift,pop,2012,2020-06-22,77,47,62,-7,3,68,220,0,4,82,2012,Solo,3.67,2010,High (75-89),False,True
+We Are Never Ever Getting Back Together,289,Taylor Swift,pop,2012,2020-06-22,86,68,63,-6,12,75,193,1,9,80,2012,Solo,3.22,2010,High (75-89),False,False
+Ho Hey,290,The Lumineers,folk-pop,2012,2020-06-22,80,47,69,-9,9,35,163,79,3,77,2012,Band/Group,2.72,2010,High (75-89),False,True
+Chasing The Sun,291,The Wanted,boy band,2012,2020-06-22,128,73,64,-6,50,68,199,24,10,74,2012,Band/Group,3.32,2010,Mid (60-74),False,False
+Angels,292,The xx,downtempo,2012,2020-06-22,92,16,42,-18,10,34,172,95,4,68,2012,Band/Group,2.87,2010,Mid (60-74),False,False
+Drive By,293,Train,dance pop,2012,2020-06-22,122,84,77,-3,8,72,196,0,3,82,2012,Band/Group,3.27,2010,High (75-89),False,False
+50 Ways to Say Goodbye,294,Train,dance pop,2012,2020-06-22,140,94,59,-3,14,74,248,0,5,73,2012,Band/Group,4.13,2010,Mid (60-74),False,False
+Heart Attack,295,Trey Songz,dance pop,2012,2020-06-22,150,86,61,-5,23,48,233,6,13,61,2012,Solo,3.88,2010,Mid (60-74),False,False
+Rack City,296,Tyga,dance pop,2012,2020-06-22,99,34,93,-11,19,27,203,4,37,67,2012,Solo,3.38,2010,Mid (60-74),True,False
+Faded,297,Tyga,dance pop,2012,2020-06-22,95,67,83,-8,35,34,207,1,19,63,2012,Solo,3.45,2010,Mid (60-74),False,False
+Climax,298,Usher,atl hip hop,2012,2020-06-22,136,48,65,-9,16,33,233,55,8,65,2012,Solo,3.88,2010,Mid (60-74),False,False
+Anna Sun,299,WALK THE MOON,dance pop,2012,2021-08-09,140,84,47,-7,24,34,321,0,5,68,2012,Band/Group,5.35,2010,Mid (60-74),False,False
+"Work Hard, Play Hard",300,Wiz Khalifa,dance pop,2012,2020-06-22,140,67,79,-4,30,49,219,4,5,67,2012,Solo,3.65,2010,Mid (60-74),False,False
+We Own It (Fast & Furious),301,2 Chainz,atl hip hop,2013,2020-06-11,172,90,56,-5,5,56,228,5,40,75,2013,Solo,3.8,2010,High (75-89),True,False
+"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",302,A$AP Rocky,east coast hip hop,2013,2020-06-11,96,69,85,-7,11,66,234,2,28,81,2013,Solo,3.9,2010,High (75-89),False,False
+Why'd You Only Call Me When You're High?,303,Arctic Monkeys,garage rock,2013,2020-06-11,92,63,69,-6,10,80,161,5,4,90,2013,Band/Group,2.68,2010,Very High (90+),False,False
+Do I Wanna Know?,304,Arctic Monkeys,garage rock,2013,2020-06-11,85,53,55,-8,22,41,272,19,3,89,2013,Band/Group,4.53,2010,High (75-89),False,False
+The Way,305,Ariana Grande,dance pop,2013,2020-06-11,82,88,65,-3,8,86,227,29,11,71,2013,Solo,3.78,2010,Mid (60-74),False,False
+Wake Me Up,306,Avicii,dance pop,2013,2020-06-11,124,78,53,-6,16,64,247,0,5,89,2013,Solo,4.12,2010,High (75-89),False,False
+I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,307,Avicii,dance pop,2012,2020-06-11,128,79,51,-4,32,64,208,33,4,73,2013,Solo,3.47,2010,Mid (60-74),False,False
+Here's to Never Growing Up,308,Avril Lavigne,canadian pop,2013,2020-06-11,165,87,48,-3,41,74,214,1,9,75,2013,Solo,3.57,2010,High (75-89),False,False
+Sail,309,AWOLNATION,la indie,2011,2020-06-11,119,44,83,-10,10,27,259,44,6,80,2013,Band/Group,4.32,2010,High (75-89),False,False
+Harlem Shake,310,Baauer,bass trap,2013,2020-06-11,138,79,45,-5,42,28,197,1,5,63,2013,Solo,3.28,2010,Mid (60-74),False,False
+Pompeii,311,Bastille,metropopolis,2013,2020-06-11,127,72,68,-6,27,57,214,8,4,80,2013,Band/Group,3.57,2010,High (75-89),False,False
+Of The Night,312,Bastille,metropopolis,2013,2020-06-11,125,83,67,-7,9,35,214,2,4,66,2013,Band/Group,3.57,2010,Mid (60-74),False,False
+Get Up (Rattle),313,Bingo Players,big room,2013,2020-06-11,128,98,80,-3,26,80,167,2,7,61,2013,Duo,2.78,2010,Mid (60-74),False,False
+Sure Be Cool If You Did,314,Blake Shelton,contemporary country,2013,2020-06-11,137,73,58,-5,11,58,216,26,4,61,2013,Solo,3.6,2010,Mid (60-74),False,False
+Ready or Not,315,Bridgit Mendler,dance pop,2012,2020-06-11,93,87,72,-4,11,75,201,0,5,77,2013,Solo,3.35,2010,High (75-89),False,False
+Work Bitch,316,Britney Spears,dance pop,2013,2020-06-11,128,82,63,-7,7,85,248,16,16,76,2013,Solo,4.13,2010,High (75-89),False,False
+Locked out of Heaven,317,Bruno Mars,dance pop,2012,2020-06-11,144,70,73,-4,31,87,233,5,4,91,2013,Solo,3.88,2010,Very High (90+),False,True
+When I Was Your Man,318,Bruno Mars,dance pop,2012,2020-06-11,73,28,61,-9,9,39,214,93,4,89,2013,Solo,3.57,2010,High (75-89),False,False
+Treasure,319,Bruno Mars,dance pop,2012,2020-06-11,116,69,87,-5,32,94,179,4,4,83,2013,Solo,2.98,2010,High (75-89),False,False
+Sweet Nothing (feat. Florence Welch),320,Calvin Harris,dance pop,2012,2020-06-11,128,93,57,-4,6,58,213,20,11,76,2013,Solo,3.55,2010,High (75-89),False,False
+I Need Your Love (feat. Ellie Goulding),321,Calvin Harris,dance pop,2012,2020-06-11,125,87,70,-5,24,58,235,41,5,75,2013,Solo,3.92,2010,High (75-89),False,False
+Thinking About You (feat. Ayah Marar),322,Calvin Harris,dance pop,2012,2020-06-11,128,87,73,-4,10,75,248,0,4,71,2013,Solo,4.13,2010,Mid (60-74),False,False
+Drinking from the Bottle (feat. Tinie Tempah),323,Calvin Harris,dance pop,2012,2020-06-11,128,89,67,-4,5,53,240,5,5,67,2013,Solo,4.0,2010,Mid (60-74),False,False
+Safe And Sound,324,Capital Cities,metropopolis,2013,2020-06-11,118,82,66,-5,10,77,193,0,3,87,2013,Duo,3.22,2010,High (75-89),False,False
+3005,325,Childish Gambino,atl hip hop,2013,2020-06-11,166,45,47,-7,9,64,234,11,33,83,2013,Solo,3.9,2010,High (75-89),False,False
+Fine China,326,Chris Brown,dance pop,2014,2020-06-11,104,73,65,-5,12,59,213,4,6,66,2013,Solo,3.55,2010,Mid (60-74),False,False
+The Mother We Share,327,CHVRCHES,electropop,2013,2020-06-11,174,69,46,-6,13,34,191,3,3,61,2013,Band/Group,3.18,2010,Mid (60-74),False,False
+Body Party,328,Ciara,dance pop,2013,2020-06-11,134,58,58,-6,60,12,234,1,6,70,2013,Solo,3.9,2010,Mid (60-74),False,False
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,329,Daft Punk,electro,2013,2020-06-11,116,81,79,-9,10,86,248,4,4,88,2013,Duo,4.13,2010,High (75-89),False,False
+Lose Yourself to Dance (feat. Pharrell Williams),330,Daft Punk,electro,2013,2020-06-11,100,66,83,-8,8,67,354,8,6,74,2013,Duo,5.9,2010,Mid (60-74),False,False
+Play Hard (feat. Ne-Yo & Akon),331,David Guetta,big room,2011,2020-06-11,130,92,69,-2,33,80,201,17,5,65,2013,Solo,3.35,2010,Mid (60-74),False,False
+Heart Attack,332,Demi Lovato,dance pop,2013,2020-06-11,174,79,50,-5,24,50,211,7,10,85,2013,Solo,3.52,2010,High (75-89),False,False
+White Noise,333,Disclosure,edm,2013,2020-06-11,120,85,68,-6,35,87,278,1,5,54,2013,Duo,4.63,2010,Low (<60),False,False
+"Hold On, We're Going Home",334,Drake,canadian hip hop,2013,2020-06-11,100,41,78,-7,7,29,228,0,9,76,2013,Solo,3.8,2010,High (75-89),False,False
+Started From the Bottom,335,Drake,canadian hip hop,2013,2020-06-11,86,52,79,-8,16,58,174,3,16,71,2013,Solo,2.9,2010,Mid (60-74),False,False
+Need U (100%) (feat. A*M*E) - Radio Edit,336,Duke Dumont,destroy techno,2013,2020-06-11,124,85,67,-5,39,46,174,0,5,65,2013,Solo,2.9,2010,Mid (60-74),False,False
+The Monster,337,Eminem,detroit hip hop,2013,2020-06-11,110,85,78,-4,12,62,250,5,7,81,2013,Solo,4.17,2010,High (75-89),False,False
+Berzerk,338,Eminem,detroit hip hop,2013,2020-06-11,95,87,74,-4,26,68,239,2,33,72,2013,Solo,3.98,2010,Mid (60-74),False,False
+My Songs Know What You Did In The Dark (Light Em Up),339,Fall Out Boy,emo,2013,2020-06-11,152,92,56,-4,54,57,187,3,6,77,2013,Band/Group,3.12,2010,High (75-89),False,False
+I Cry,340,Flo Rida,dance pop,2012,2020-06-11,126,82,69,-5,32,76,224,1,4,69,2013,Solo,3.73,2010,Mid (60-74),False,False
+Cruise,341,Florida Georgia Line,contemporary country,2012,2020-06-11,148,95,46,-3,5,88,209,2,4,63,2013,Duo,3.48,2010,Mid (60-74),False,False
+I Love It (feat. Charli XCX),342,Icona Pop,candy pop,2013,2020-06-11,126,91,71,-3,15,82,157,1,3,74,2013,Duo,2.62,2010,Mid (60-74),False,True
+Demons,343,Imagine Dragons,modern rock,2012,2020-06-11,90,71,51,-3,33,43,175,19,3,78,2013,Band/Group,2.92,2010,High (75-89),False,False
+Radioactive,344,Imagine Dragons,modern rock,2012,2020-06-11,136,78,45,-4,67,24,187,11,6,77,2013,Band/Group,3.12,2010,High (75-89),False,False
+Power Trip (feat. Miguel),345,J. Cole,conscious hip hop,2013,2020-06-11,100,61,67,-7,43,48,241,32,22,81,2013,Solo,4.02,2010,High (75-89),False,False
+Talk Dirty (feat. 2 Chainz),346,Jason Derulo,dance pop,2013,2020-06-11,100,65,76,-7,31,76,178,3,23,71,2013,Solo,2.97,2010,Mid (60-74),False,True
+The Other Side,347,Jason Derulo,dance pop,2013,2020-06-11,128,84,56,-4,14,52,227,5,10,66,2013,Solo,3.78,2010,Mid (60-74),False,False
+Holy Grail,348,JAY-Z,east coast hip hop,2013,2020-06-11,145,53,68,-7,26,16,338,6,8,68,2013,Solo,5.63,2010,Mid (60-74),False,False
+Love Me Again,349,John Newman,dance pop,2013,2020-06-11,126,89,50,-5,10,21,240,0,4,69,2013,Solo,4.0,2010,Mid (60-74),False,False
+Beauty And A Beat,350,Justin Bieber,canadian pop,2012,2020-06-11,128,84,60,-5,7,53,228,0,6,78,2013,Solo,3.8,2010,High (75-89),False,False
+Mirrors,351,Justin Timberlake,dance pop,2013,2020-06-11,77,51,57,-7,9,51,484,23,5,83,2013,Solo,8.07,2010,High (75-89),False,False
+Suit & Tie (feat. Jay-Z),352,Justin Timberlake,dance pop,2013,2020-06-11,102,60,80,-4,16,36,326,10,22,72,2013,Solo,5.43,2010,Mid (60-74),False,False
+Black Skinhead,353,Kanye West,chicago rap,2013,2020-06-11,130,81,77,-6,17,33,188,0,28,80,2013,Solo,3.13,2010,High (75-89),False,False
+This Is How We Do,354,Katy Perry,dance pop,2013,2020-06-11,96,64,69,-6,15,80,204,2,5,66,2013,Solo,3.4,2010,Mid (60-74),False,False
+Sonnentanz - Sun Don't Shine,355,Klangkarussell,austrian pop,2013,2020-06-11,120,54,59,-8,11,17,236,11,9,56,2013,Duo,3.93,2010,Low (<60),False,False
+All I Want,356,Kodaline,irish pop,2013,2020-06-11,187,41,19,-10,8,16,306,17,5,86,2013,Band/Group,5.1,2010,High (75-89),False,False
+High Hopes,357,Kodaline,irish pop,2013,2020-06-11,77,49,49,-6,19,22,230,58,3,73,2013,Band/Group,3.83,2010,Mid (60-74),False,False
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,358,Lana Del Rey,art pop,2013,2020-06-11,126,81,57,-6,13,11,215,2,6,78,2013,Solo,3.58,2010,High (75-89),False,False
+Love Me,359,Lil Wayne,hip hop,2013,2020-06-11,125,63,67,-6,9,50,255,1,3,73,2013,Solo,4.25,2010,Mid (60-74),False,False
+Somewhere Only We Know,360,Lily Allen,dance pop,2014,2020-06-11,81,29,31,-11,10,29,209,93,3,56,2013,Solo,3.48,2010,Low (<60),False,False
+Royals,361,Lorde,art pop,2013,2020-06-11,85,43,67,-10,13,34,190,12,12,83,2013,Solo,3.17,2010,High (75-89),False,False
+Team,362,Lorde,art pop,2013,2020-06-11,100,58,69,-7,31,42,193,17,9,82,2013,Solo,3.22,2010,High (75-89),False,True
+Can't Hold Us (feat. Ray Dalton),363,Macklemore & Ryan Lewis,dance pop,2012,2020-06-11,146,92,64,-4,9,85,258,3,8,87,2013,Duo,4.3,2010,High (75-89),False,False
+Thrift Shop (feat. Wanz),364,Macklemore & Ryan Lewis,dance pop,2012,2020-06-11,95,53,78,-7,5,67,236,6,29,79,2013,Duo,3.93,2010,High (75-89),False,False
+Same Love (feat. Mary Lambert),365,Macklemore & Ryan Lewis,dance pop,2012,2020-06-11,85,47,69,-9,10,30,319,72,17,69,2013,Duo,5.32,2010,Mid (60-74),False,False
+Daylight,366,Maroon 5,pop,2012,2020-06-11,120,68,66,-6,21,33,225,0,3,66,2013,Band/Group,3.75,2010,Mid (60-74),False,False
+Animals - Radio Edit,367,Martin Garrix,dance pop,2016,2020-06-11,128,91,59,-5,7,4,176,0,4,64,2013,Solo,2.93,2010,Mid (60-74),False,False
+It's a Beautiful Day,368,Michael Bublé,adult standards,2013,2020-06-11,144,80,53,-4,30,78,199,6,4,71,2013,Solo,3.32,2010,Mid (60-74),False,False
+We Can't Stop,369,Miley Cyrus,dance pop,2013,2020-06-11,80,62,61,-6,37,48,231,1,3,83,2013,Solo,3.85,2010,High (75-89),False,False
+I Will Wait,370,Mumford & Sons,modern folk rock,2012,2020-06-11,131,76,48,-5,31,45,277,1,3,73,2013,Band/Group,4.62,2010,Mid (60-74),False,False
+La La La,371,Naughty Boy,tropical house,2013,2020-06-11,125,68,75,-4,11,25,221,11,3,63,2013,Solo,3.68,2010,Mid (60-74),False,False
+Hey Porsche,372,Nelly,dance pop,2013,2020-06-11,116,79,73,-5,65,95,209,15,3,49,2013,Solo,3.48,2010,Low (<60),False,False
+Little Talks,373,Of Monsters and Men,folk-pop,2012,2020-06-11,103,76,46,-5,15,42,267,2,3,85,2013,Band/Group,4.45,2010,High (75-89),False,False
+Best Song Ever,374,One Direction,boy band,2013,2020-06-11,118,88,65,-3,8,49,200,2,5,81,2013,Band/Group,3.33,2010,High (75-89),False,False
+One Way or Another (Teenage Kicks),375,One Direction,boy band,2013,2020-06-11,162,87,49,-3,59,41,157,3,7,71,2013,Band/Group,2.62,2010,Mid (60-74),False,False
+True Love (feat. Lily Allen),376,P!nk,dance pop,2012,2021-10-19,192,82,46,-5,11,58,231,0,31,76,2013,Solo,3.85,2010,High (75-89),False,False
+Still into You,377,Paramore,candy pop,2013,2020-06-11,136,92,60,-4,6,77,216,1,4,85,2013,Band/Group,3.6,2010,High (75-89),False,False
+Ain't It Fun,378,Paramore,candy pop,2013,2020-06-25,104,89,61,-4,2,67,297,15,9,78,2013,Band/Group,4.95,2010,High (75-89),False,True
+Home,379,Phillip Phillips,folk-pop,2013,2020-06-11,121,83,61,-6,12,32,210,3,3,73,2013,Solo,3.5,2010,Mid (60-74),False,True
+Feel This Moment (feat. Christina Aguilera),380,Pitbull,dance pop,2012,2020-06-11,136,76,67,-4,34,54,230,4,16,82,2013,Solo,3.83,2010,High (75-89),False,False
+Don't Stop the Party (feat. TJR),381,Pitbull,dance pop,2012,2020-06-11,127,96,72,-4,38,95,206,1,9,69,2013,Solo,3.43,2010,Mid (60-74),False,False
+Blurred Lines,382,Robin Thicke,contemporary r&b,2013,2020-06-11,120,50,86,-8,8,88,263,0,5,61,2013,Solo,4.38,2010,Mid (60-74),False,False
+Waiting All Night (feat. Ella Eyre),383,Rudimental,dance pop,2013,2020-06-11,175,73,54,-5,43,28,293,0,5,50,2013,Solo,4.88,2010,Low (<60),False,False
+Reload - Radio Edit,384,Sebastian Ingrosso,dance pop,2013,2020-06-11,128,72,49,-5,6,43,221,7,5,73,2013,Solo,3.68,2010,Mid (60-74),False,False
+Come & Get It,385,Selena Gomez,dance pop,2013,2020-06-11,80,79,55,-4,8,57,232,1,5,75,2013,Solo,3.87,2010,High (75-89),False,False
+Look Right Through - MK Vocal Edit,386,Storm Queen,deep disco house,2013,2020-06-11,120,82,83,-8,28,51,148,0,8,44,2013,Solo,2.47,2010,Low (<60),False,False
+Papaoutai,387,Stromae,belgian pop,2013,2020-06-11,116,81,73,-7,6,25,232,3,8,60,2013,Solo,3.87,2010,Mid (60-74),False,False
+I Knew You Were Trouble.,388,Taylor Swift,pop,2012,2020-06-11,77,47,62,-7,3,68,220,0,4,82,2013,Solo,3.67,2010,High (75-89),False,True
+22,389,Taylor Swift,pop,2012,2020-06-11,104,73,66,-7,5,67,232,0,4,74,2013,Solo,3.87,2010,Mid (60-74),False,False
+Everything Has Changed,390,Taylor Swift,pop,2012,2020-06-11,80,46,62,-7,31,44,245,36,3,71,2013,Solo,4.08,2010,Mid (60-74),False,False
+Chocolate,391,The 1975,modern alternative rock,2013,2020-06-11,100,94,59,-4,38,68,225,0,5,66,2013,Band/Group,3.75,2010,Mid (60-74),False,False
+Ho Hey,392,The Lumineers,folk-pop,2012,2020-06-11,80,47,69,-9,9,35,163,79,3,77,2013,Band/Group,2.72,2010,High (75-89),False,True
+Sweater Weather,393,The Neighbourhood,modern alternative rock,2013,2020-06-11,124,81,61,-3,10,40,240,5,3,95,2013,Band/Group,4.0,2010,Very High (90+),False,False
+What About Us,394,The Saturdays,bubblegum dance,2013,2020-06-11,124,68,70,-5,21,69,221,1,6,67,2013,Band/Group,3.68,2010,Mid (60-74),False,False
+Another Love,395,Tom Odell,chill pop,2013,2020-06-11,123,54,45,-9,9,13,244,70,4,94,2013,Solo,4.07,2010,Very High (90+),False,False
+Bad (feat. Rihanna) - Remix,396,Wale,gangster rap,2013,2020-06-11,114,70,81,-7,11,45,239,31,7,67,2013,Solo,3.98,2010,Mid (60-74),False,False
+Scream & Shout,397,will.i.am,dance pop,2013,2020-06-11,130,69,77,-7,13,50,283,2,7,83,2013,Solo,4.72,2010,High (75-89),False,False
+#thatPOWER,398,will.i.am,dance pop,2013,2020-06-11,128,61,80,-6,7,40,280,0,6,74,2013,Solo,4.67,2010,Mid (60-74),False,False
+The Fox (What Does the Fox Say?),399,Ylvis,comic,2013,2020-06-11,128,87,70,-4,12,55,214,11,5,68,2013,Duo,3.57,2010,Mid (60-74),False,False
+Clarity,400,Zedd,complextro,2012,2020-06-11,128,78,51,-3,7,18,271,4,7,80,2013,Solo,4.52,2010,High (75-89),False,False
+She Looks So Perfect,401,5 Seconds of Summer,boy band,2014,2020-06-10,160,95,49,-4,33,44,202,0,13,78,2014,Band/Group,3.37,2010,High (75-89),False,False
+Amnesia,402,5 Seconds of Summer,boy band,2014,2020-06-10,102,50,57,-5,21,11,237,3,3,71,2014,Band/Group,3.95,2010,Mid (60-74),False,False
+Heroes (we could be),403,Alesso,dance pop,2014,2020-06-10,126,75,52,-4,24,35,210,4,6,58,2014,Solo,3.5,2010,Low (<60),False,False
+The Man,404,Aloe Blacc,pop soul,2014,2020-06-10,82,77,31,-7,21,49,255,3,7,63,2014,Solo,4.25,2010,Mid (60-74),False,False
+Best Day Of My Life,405,American Authors,indie poptimism,2014,2020-06-10,100,90,67,-2,6,54,194,6,3,83,2014,Band/Group,3.23,2010,High (75-89),False,False
+Love Me Harder,406,Ariana Grande,dance pop,2014,2020-06-10,99,71,47,-4,8,24,236,1,3,80,2014,Solo,3.93,2010,High (75-89),False,True
+Problem,407,Ariana Grande,dance pop,2014,2020-06-10,103,81,66,-5,16,63,194,2,15,78,2014,Solo,3.23,2010,High (75-89),False,False
+Break Free,408,Ariana Grande,dance pop,2014,2020-06-10,130,70,69,-5,20,28,215,1,5,80,2014,Solo,3.58,2010,High (75-89),False,False
+Hey Brother,409,Avicii,dance pop,2013,2020-06-10,125,78,55,-5,8,46,255,3,4,82,2014,Solo,4.25,2010,High (75-89),False,False
+Shower,410,Becky G,dance pop,2014,2020-06-10,120,53,70,-8,28,12,206,3,5,83,2014,Solo,3.43,2010,High (75-89),False,False
+Drunk in Love (feat. Jay-Z),411,Beyoncé,dance pop,2014,2020-06-10,140,62,59,-7,18,40,323,1,5,75,2014,Solo,5.38,2010,High (75-89),False,False
+Hot N*gga,412,Bobby Shmurda,nyc rap,2014,2020-06-10,168,51,79,-7,6,18,195,5,42,78,2014,Solo,3.25,2010,High (75-89),True,False
+Summer,413,Calvin Harris,dance pop,2014,2020-06-10,128,86,60,-4,14,74,223,2,3,86,2014,Solo,3.72,2010,High (75-89),False,False
+Blame (feat. John Newman),414,Calvin Harris,dance pop,2014,2020-06-10,128,86,41,-4,34,35,213,3,8,81,2014,Solo,3.55,2010,High (75-89),False,False
+Under Control (feat. Hurts),415,Calvin Harris,dance pop,2014,2020-06-10,126,92,54,-3,12,51,184,13,8,77,2014,Solo,3.07,2010,High (75-89),False,False
+Boom Clap,416,Charli XCX,art pop,2014,2020-06-10,92,91,66,-2,19,58,170,15,8,54,2014,Solo,2.83,2010,Low (<60),False,False
+Loyal (feat. Lil Wayne & Tyga),417,Chris Brown,dance pop,2014,2020-06-10,99,52,84,-6,19,62,265,2,5,78,2014,Solo,4.42,2010,High (75-89),False,False
+New Flame (feat. Usher & Rick Ross),418,Chris Brown,dance pop,2014,2020-06-10,142,63,70,-4,10,45,244,5,4,73,2014,Solo,4.07,2010,Mid (60-74),False,False
+Rather Be (feat. Jess Glynne),419,Clean Bandit,dance pop,2014,2020-06-10,121,59,80,-7,19,55,228,16,4,77,2014,Band/Group,3.8,2010,High (75-89),False,False
+First,420,Cold War Kids,alternative rock,2014,2020-06-10,78,69,47,-4,52,56,200,2,3,71,2014,Band/Group,3.33,2010,Mid (60-74),False,False
+Magic,421,Coldplay,permanent wave,2014,2020-06-10,93,48,74,-9,11,35,285,3,4,78,2014,Band/Group,4.75,2010,High (75-89),False,False
+A Sky Full of Stars,422,Coldplay,permanent wave,2014,2020-06-10,125,68,55,-6,21,16,268,1,3,85,2014,Band/Group,4.47,2010,High (75-89),False,False
+Bad (feat. Vassy) - Radio Edit,423,David Guetta,big room,2014,2020-06-10,128,97,61,-4,33,41,171,0,9,56,2014,Solo,2.85,2010,Low (<60),False,False
+Lovers on the Sun (feat. Sam Martin),424,David Guetta,big room,2014,2020-06-10,125,89,65,-3,38,57,204,9,4,53,2014,Solo,3.4,2010,Low (<60),False,False
+Latch,425,Disclosure,edm,2013,2020-06-10,122,74,73,-5,9,54,256,2,9,75,2014,Duo,4.27,2010,High (75-89),False,True
+Turn Down for What,426,DJ Snake,dance pop,2013,2020-06-10,100,80,82,-4,6,8,214,0,16,76,2014,Solo,3.57,2010,High (75-89),False,False
+You Know You Like It,427,DJ Snake,dance pop,2014,2020-06-10,196,73,41,-5,31,25,247,1,19,75,2014,Solo,4.12,2010,High (75-89),False,True
+I Got U,428,Duke Dumont,destroy techno,2014,2020-06-10,121,76,64,-8,9,46,286,0,4,65,2014,Solo,4.77,2010,Mid (60-74),False,False
+Cool Kids,429,Echosmith,dance pop,2013,2020-06-10,130,67,72,-6,12,79,238,4,3,76,2014,Band/Group,3.97,2010,High (75-89),False,False
+Don't,430,Ed Sheeran,pop,2014,2020-06-10,95,61,81,-7,64,85,220,1,7,78,2014,Solo,3.67,2010,High (75-89),False,False
+Sing,431,Ed Sheeran,pop,2014,2020-06-10,120,67,82,-4,6,94,235,30,5,75,2014,Solo,3.92,2010,High (75-89),False,False
+Ugly Heart,432,G.R.L.,dance pop,2014,2020-06-10,125,79,65,-5,32,45,198,2,5,70,2014,Band/Group,3.3,2010,Mid (60-74),False,False
+Budapest,433,George Ezra,folk-pop,2014,2020-06-10,128,46,72,-8,11,39,201,8,3,83,2014,Solo,3.35,2010,High (75-89),False,False
+Blame It on Me,434,George Ezra,folk-pop,2014,2021-08-09,104,76,54,-3,34,42,196,47,3,73,2014,Solo,3.27,2010,Mid (60-74),False,False
+Ready For Your Love,435,Gorgon City,deep groove house,2014,2020-06-10,122,75,68,-7,33,47,199,5,15,51,2014,Duo,3.32,2010,Low (<60),False,False
+Fancy,436,Iggy Azalea,australian hip hop,2014,2020-06-10,95,72,91,-4,5,38,200,9,7,74,2014,Solo,3.33,2010,Mid (60-74),False,False
+Black Widow,437,Iggy Azalea,australian hip hop,2014,2020-06-10,164,72,74,-4,11,52,209,19,12,71,2014,Solo,3.48,2010,Mid (60-74),False,False
+Talk Dirty (feat. 2 Chainz),438,Jason Derulo,dance pop,2013,2020-06-10,100,65,76,-7,31,76,178,3,23,71,2014,Solo,2.97,2010,Mid (60-74),False,True
+Wiggle (feat. Snoop Dogg),439,Jason Derulo,dance pop,2013,2020-06-10,82,62,70,-7,16,72,193,8,25,63,2014,Solo,3.22,2010,Mid (60-74),False,False
+Trumpets,440,Jason Derulo,dance pop,2013,2020-06-10,82,69,64,-5,10,64,217,56,26,69,2014,Solo,3.62,2010,Mid (60-74),False,False
+Don't Tell 'Em,441,Jeremih,chicago rap,2015,2020-06-10,98,53,86,-5,11,39,267,39,10,80,2014,Solo,4.45,2010,High (75-89),False,False
+Bang Bang,442,Jessie J,dance pop,2014,2020-06-10,150,79,71,-3,38,75,199,26,9,83,2014,Solo,3.32,2010,High (75-89),False,False
+All of Me,443,John Legend,neo soul,2013,2020-06-10,120,26,42,-7,13,33,270,92,3,90,2014,Solo,4.5,2010,Very High (90+),False,False
+Not a Bad Thing,444,Justin Timberlake,dance pop,2013,2020-06-10,86,56,31,-9,13,11,688,53,7,61,2014,Solo,11.47,2010,Mid (60-74),False,False
+Dark Horse,445,Katy Perry,dance pop,2013,2020-06-10,132,59,65,-6,17,35,216,0,5,79,2014,Solo,3.6,2010,High (75-89),False,False
+Show Me (feat. Chris Brown),446,Kid Ink,dance pop,2014,2020-06-10,98,51,71,-7,14,66,218,4,5,74,2014,Solo,3.63,2010,Mid (60-74),False,False
+Hideaway,447,Kiesza,electropop,2014,2020-06-10,123,72,84,-4,8,20,252,9,5,70,2014,Solo,4.2,2010,Mid (60-74),False,False
+Jubel - Radio Edit,448,Klingande,deep house,2013,2020-06-29,125,52,69,-7,14,10,202,65,3,55,2014,Duo,3.37,2010,Low (<60),False,False
+Jealous,449,Labrinth,indie poptimism,2014,2020-06-10,117,15,44,-9,11,10,288,87,5,82,2014,Solo,4.8,2010,High (75-89),False,False
+Prayer in C - Robin Schulz Radio Edit,450,Lilly Wood and The Prick,french indie pop,2014,2020-06-10,123,88,76,-6,60,80,189,2,3,77,2014,Duo,3.15,2010,High (75-89),False,False
+Team,451,Lorde,art pop,2013,2020-06-10,100,58,69,-7,31,42,193,17,9,82,2014,Solo,3.22,2010,High (75-89),False,True
+Rude,452,MAGIC!,reggae fusion,2014,2020-06-10,144,76,77,-5,31,93,225,4,4,85,2014,Band/Group,3.75,2010,High (75-89),False,False
+Maps,453,Maroon 5,pop,2014,2020-06-10,120,71,74,-6,6,88,190,2,3,87,2014,Band/Group,3.17,2010,High (75-89),False,False
+Animals,454,Maroon 5,pop,2014,2020-06-10,190,74,28,-6,59,33,231,0,9,85,2014,Band/Group,3.85,2010,High (75-89),False,False
+Sugar,455,Maroon 5,pop,2014,2020-06-10,120,79,75,-7,9,88,235,6,3,85,2014,Band/Group,3.92,2010,High (75-89),False,False
+All About That Bass,456,Meghan Trainor,dance pop,2015,2020-06-10,134,89,81,-4,12,96,188,6,5,78,2014,Solo,3.13,2010,High (75-89),False,False
+Stolen Dance,457,Milky Chance,german pop,2014,2020-06-10,114,58,89,-9,8,73,314,43,4,78,2014,Band/Group,5.23,2010,High (75-89),False,False
+Classic,458,MKTO,dance pop,2012,2020-06-10,102,79,72,-5,16,76,175,4,12,87,2014,Duo,2.92,2010,High (75-89),False,False
+Waves - Robin Schulz Radio Edit,459,Mr. Probz,dutch hip hop,2014,2020-06-10,120,51,83,-9,8,45,208,1,4,82,2014,Solo,3.47,2010,High (75-89),False,False
+Somebody,460,Natalie La Rose,chicago rap,2014,2020-06-10,105,52,83,-9,7,74,190,0,4,71,2014,Solo,3.17,2010,Mid (60-74),False,True
+Jealous - Remix,461,Nick Jonas,dance pop,2015,2020-06-10,93,71,68,-4,44,45,222,1,8,71,2014,Solo,3.7,2010,Mid (60-74),False,False
+Anaconda,462,Nicki Minaj,dance pop,2014,2020-06-10,130,61,96,-6,21,65,260,7,18,70,2014,Solo,4.33,2010,Mid (60-74),False,False
+Am I Wrong,463,Nico & Vinz,pop rap,2014,2020-06-10,120,68,73,-6,55,78,246,18,3,82,2014,Duo,4.1,2010,High (75-89),False,False
+CoCo,464,O.T. Genasis,pop rap,2014,2020-06-10,120,63,89,-6,31,18,240,0,13,66,2014,Solo,4.0,2010,Mid (60-74),False,False
+Gecko (Overdrive) - Radio Edit,465,Oliver Heldens,dance pop,2014,2020-06-10,125,89,61,-5,34,76,165,1,6,73,2014,Solo,2.75,2010,Mid (60-74),False,False
+Wrapped Up,466,Olly Murs,dance pop,2014,2020-06-10,122,84,79,-5,16,92,186,9,6,68,2014,Solo,3.1,2010,Mid (60-74),False,False
+Post to Be (feat. Chris Brown & Jhene Aiko),467,Omarion,dance pop,2014,2020-06-10,97,68,73,-6,21,70,227,7,4,60,2014,Solo,3.78,2010,Mid (60-74),False,True
+Night Changes,468,One Direction,boy band,2014,2020-06-10,120,52,67,-8,12,37,227,86,4,88,2014,Band/Group,3.78,2010,High (75-89),False,False
+Steal My Girl,469,One Direction,boy band,2014,2020-06-10,77,77,54,-6,11,55,228,0,3,84,2014,Band/Group,3.8,2010,High (75-89),False,False
+Counting Stars,470,OneRepublic,dance pop,2014,2020-06-10,122,71,66,-5,12,48,258,7,4,80,2014,Band/Group,4.3,2010,High (75-89),False,False
+Love Runs Out,471,OneRepublic,dance pop,2014,2020-06-19,120,94,72,-4,10,74,224,17,6,65,2014,Band/Group,3.73,2010,Mid (60-74),False,False
+Only Love Can Hurt Like This,472,Paloma Faith,british soul,2014,2020-08-20,91,89,57,-5,33,30,233,10,8,85,2014,Solo,3.88,2010,High (75-89),False,False
+Ain't It Fun,473,Paramore,candy pop,2013,2020-06-10,104,89,61,-4,2,67,297,15,9,78,2014,Band/Group,4.95,2010,High (75-89),False,True
+High (feat. Nicole Millar),474,Peking Duk,aussietronica,2014,2020-06-29,100,80,53,-4,29,38,228,0,5,54,2014,Band/Group,3.8,2010,Low (<60),False,False
+"Happy - From ""Despicable Me 2""",475,Pharrell Williams,pop rap,2014,2020-06-10,160,82,65,-5,9,96,233,22,18,85,2014,Solo,3.88,2010,High (75-89),False,False
+Timber (feat. Ke$ha),476,Pitbull,dance pop,2012,2020-06-10,130,96,58,-4,14,79,204,3,10,86,2014,Solo,3.4,2010,High (75-89),False,False
+Me And My Broken Heart,477,Rixton,pop,2014,2020-06-10,174,78,55,-4,13,55,194,0,3,83,2014,Duo,3.23,2010,High (75-89),False,False
+My Love (feat. Jess Glynne),478,Route 94,deep groove house,2014,2020-06-10,120,62,81,-8,7,73,260,0,5,78,2014,Solo,4.33,2010,High (75-89),False,False
+Stay With Me,479,Sam Smith,dance pop,2014,2020-06-10,84,42,42,-6,11,18,173,59,4,86,2014,Solo,2.88,2010,High (75-89),False,False
+Money On My Mind,480,Sam Smith,dance pop,2014,2020-06-10,134,84,69,-5,23,74,193,20,18,67,2014,Solo,3.22,2010,Mid (60-74),False,False
+Collard Greens,481,ScHoolboy Q,gangster rap,2014,2020-06-10,154,57,83,-5,21,65,300,3,6,84,2014,Solo,5.0,2010,High (75-89),False,False
+Man Of The Year,482,ScHoolboy Q,gangster rap,2014,2020-06-10,112,87,75,-5,20,37,216,1,4,76,2014,Solo,3.6,2010,High (75-89),False,False
+Geronimo,483,Sheppard,australian indie,2015,2020-06-10,142,78,71,-6,12,46,218,46,8,69,2014,Band/Group,3.63,2010,Mid (60-74),False,True
+Chandelier,484,Sia,australian dance,2015,2020-06-10,117,79,40,-3,7,57,216,2,5,73,2014,Solo,3.6,2010,Mid (60-74),False,False
+Elastic Heart,485,Sia,australian dance,2015,2020-06-10,130,79,42,-5,15,50,257,1,5,68,2014,Solo,4.28,2010,Mid (60-74),False,False
+Nobody To Love,486,Sigma,dance pop,2014,2020-06-10,88,91,52,-3,20,23,190,0,4,55,2014,Solo,3.17,2010,Low (<60),False,False
+Style,487,Taylor Swift,pop,2014,2020-06-10,95,79,59,-6,12,49,231,0,4,66,2014,Solo,3.85,2010,Mid (60-74),False,True
+Bad Blood,488,Taylor Swift,pop,2014,2020-06-10,170,79,65,-6,20,29,212,9,19,60,2014,Solo,3.53,2010,Mid (60-74),False,True
+Shake It Off,489,Taylor Swift,pop,2014,2020-06-10,160,79,65,-5,15,94,219,6,17,77,2014,Solo,3.65,2010,High (75-89),False,False
+#SELFIE,490,The Chainsmokers,dance pop,2014,2020-06-10,128,92,79,-3,8,66,184,1,25,69,2014,Duo,3.07,2010,Mid (60-74),False,False
+Superheroes,491,The Script,celtic rock,2014,2020-06-10,167,89,49,-4,7,64,245,0,4,79,2014,Band/Group,4.08,2010,High (75-89),False,False
+Wasted,492,Tiësto,big room,2014,2020-06-10,112,82,64,-6,20,39,190,0,3,68,2014,Solo,3.17,2010,Mid (60-74),False,False
+Red Lights,493,Tiësto,big room,2014,2020-06-11,125,83,65,-5,12,55,262,0,4,72,2014,Solo,4.37,2010,Mid (60-74),False,False
+2 On (feat. ScHoolboy Q),494,Tinashe,alternative r&b,2014,2020-06-10,101,60,74,-8,11,43,227,15,11,77,2014,Solo,3.78,2010,High (75-89),False,False
+Habits (Stay High),495,Tove Lo,art pop,2014,2020-06-10,110,65,73,-4,8,35,209,7,3,78,2014,Solo,3.48,2010,High (75-89),False,False
+Talking Body,496,Tove Lo,art pop,2014,2020-06-10,120,76,74,-5,8,11,238,10,3,72,2014,Solo,3.97,2010,Mid (60-74),False,True
+Na Na,497,Trey Songz,dance pop,2015,2020-06-10,97,48,67,-6,10,24,232,33,4,68,2014,Solo,3.87,2010,Mid (60-74),False,True
+Riptide,498,Vance Joy,folk-pop,2014,2020-06-10,102,73,48,-7,15,51,204,43,4,83,2014,Solo,3.4,2010,High (75-89),False,False
+Stay The Night - Featuring Hayley Williams Of Paramore,499,Zedd,complextro,2012,2020-06-10,128,74,60,-3,9,46,217,11,4,69,2014,Solo,3.62,2010,Mid (60-74),False,False
+Faded,500,ZHU,edm,2014,2020-06-10,125,48,87,-7,11,61,223,1,5,66,2014,Solo,3.72,2010,Mid (60-74),False,False
+Ghost Town,501,Adam Lambert,dance pop,2015,2020-06-22,120,74,70,-6,17,27,208,19,5,69,2015,Solo,3.47,2010,Mid (60-74),False,False
+Here,502,Alessia Cara,canadian contemporary r&b,2015,2020-06-22,120,82,38,-4,8,33,199,8,10,71,2015,Solo,3.32,2010,Mid (60-74),False,True
+"Honey, I'm Good.",503,Andy Grammer,dance pop,2014,2020-06-19,122,78,75,-7,35,60,199,3,5,78,2015,Solo,3.32,2010,High (75-89),False,False
+Love Me Harder,504,Ariana Grande,dance pop,2014,2020-06-19,99,71,47,-4,8,24,236,1,3,79,2015,Solo,3.93,2010,High (75-89),False,True
+The Nights,505,Avicii,dance pop,2014,2020-06-19,126,84,53,-5,25,65,177,2,4,89,2015,Solo,2.95,2010,High (75-89),False,False
+Waiting For Love,506,Avicii,dance pop,2015,2020-06-19,128,74,58,-4,20,61,231,31,5,84,2015,Solo,3.85,2010,High (75-89),False,False
+7/11,507,Beyoncé,dance pop,2014,2020-06-19,136,71,75,-5,13,56,214,1,13,74,2015,Solo,3.57,2010,Mid (60-74),False,False
+I Don't Fuck With You,508,Big Sean,detroit hip hop,2015,2020-06-19,98,73,82,-5,33,40,284,4,6,80,2015,Solo,4.73,2010,High (75-89),False,False
+Electric Love,509,BØRNS,modern rock,2015,2020-06-19,120,80,61,-8,26,52,218,1,5,86,2015,Solo,3.63,2010,High (75-89),False,False
+Don't,510,Bryson Tiller,kentucky hip hop,2015,2020-06-19,97,36,77,-6,10,19,198,22,20,83,2015,Solo,3.3,2010,High (75-89),False,True
+Outside (feat. Ellie Goulding),511,Calvin Harris,dance pop,2014,2020-06-19,128,82,65,-4,32,42,227,21,4,82,2015,Solo,3.78,2010,High (75-89),False,False
+How Deep Is Your Love,512,Calvin Harris,dance pop,2015,2020-06-19,122,87,74,-4,39,34,213,4,7,80,2015,Solo,3.55,2010,High (75-89),False,False
+Ayo,513,Chris Brown,dance pop,2015,2020-06-19,98,56,82,-5,9,68,225,4,4,76,2015,Solo,3.75,2010,High (75-89),False,False
+Cool for the Summer,514,Demi Lovato,dance pop,2015,2020-06-19,114,61,58,-6,14,34,215,0,4,78,2015,Solo,3.58,2010,High (75-89),False,False
+Confident,515,Demi Lovato,dance pop,2015,2020-06-19,130,75,59,-6,9,34,206,0,7,69,2015,Solo,3.43,2010,Mid (60-74),False,False
+Five More Hours,516,Deorro,dance pop,2017,2020-06-19,128,88,70,-3,82,50,212,3,22,74,2015,Solo,3.53,2010,Mid (60-74),False,False
+Omen - Radio Edit,517,Disclosure,edm,2015,2020-06-19,106,79,67,-5,36,62,197,12,14,68,2015,Duo,3.28,2010,Mid (60-74),False,False
+You Know You Like It,518,DJ Snake,dance pop,2014,2020-06-19,196,73,41,-5,31,25,247,1,19,74,2015,Solo,4.12,2010,Mid (60-74),False,True
+Hotline Bling,519,Drake,canadian hip hop,2016,2020-06-19,135,63,89,-8,5,55,267,0,6,82,2015,Solo,4.45,2010,High (75-89),False,False
+Jumpman,520,Drake,canadian hip hop,2015,2020-06-19,142,55,85,-7,33,66,206,6,19,76,2015,Solo,3.43,2010,High (75-89),False,False
+Thinking out Loud,521,Ed Sheeran,pop,2014,2020-06-19,79,45,78,-6,18,59,282,47,3,86,2015,Solo,4.7,2010,High (75-89),False,False
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",522,Ellie Goulding,dance pop,2015,2020-06-19,190,61,26,-7,13,28,253,25,5,83,2015,Solo,4.22,2010,High (75-89),False,False
+On My Mind,523,Ellie Goulding,dance pop,2015,2020-06-22,155,71,70,-7,9,74,213,26,5,69,2015,Solo,3.55,2010,Mid (60-74),False,False
+Centuries,524,Fall Out Boy,emo,2015,2020-06-19,176,86,39,-3,10,56,228,0,7,84,2015,Band/Group,3.8,2010,High (75-89),False,False
+679 (feat. Remy Boyz),525,Fetty Wap,new jersey rap,2015,2020-06-19,190,72,62,-6,63,60,197,0,32,79,2015,Solo,3.28,2010,High (75-89),False,False
+Trap Queen,526,Fetty Wap,new jersey rap,2015,2020-06-19,148,87,75,-4,35,82,222,2,13,78,2015,Solo,3.7,2010,High (75-89),False,False
+My Way (feat. Monty),527,Fetty Wap,new jersey rap,2015,2020-06-19,128,74,75,-3,15,54,213,0,5,71,2015,Solo,3.55,2010,Mid (60-74),False,False
+My House,528,Flo Rida,dance pop,2015,2020-06-19,94,70,69,-5,13,74,192,2,5,81,2015,Solo,3.2,2010,High (75-89),False,True
+GDFR (feat. Sage the Gemini & Lookas),529,Flo Rida,dance pop,2015,2020-06-19,146,83,66,-4,7,69,190,0,7,75,2015,Solo,3.17,2010,High (75-89),False,False
+Mountain at My Gates,530,Foals,indie rock,2015,2021-08-09,104,93,50,-5,25,62,244,0,5,69,2015,Band/Group,4.07,2010,Mid (60-74),False,False
+Runaway (U & I),531,Galantis,dance pop,2015,2020-06-19,126,81,51,-4,9,38,227,1,5,79,2015,Duo,3.78,2010,High (75-89),False,False
+Barcelona,532,George Ezra,folk-pop,2014,2021-08-09,94,57,63,-9,11,18,189,32,3,70,2015,Solo,3.15,2010,Mid (60-74),False,False
+Love Myself,533,Hailee Steinfeld,dance pop,2016,2020-06-19,123,76,62,-7,42,32,219,0,7,75,2015,Solo,3.65,2010,High (75-89),False,False
+Take Me to Church,534,Hozier,irish singer-songwriter,2014,2020-06-19,129,66,57,-5,12,44,242,63,5,80,2015,Solo,4.03,2010,High (75-89),False,False
+Where Are Ü Now (with Justin Bieber),535,Jack Ü,edm,2015,2020-06-19,139,78,43,-4,8,20,250,4,6,78,2015,Duo,4.17,2010,High (75-89),False,False
+oui,536,Jeremih,chicago rap,2015,2020-06-19,79,72,42,-4,11,60,238,21,10,82,2015,Solo,3.97,2010,High (75-89),False,False
+Classic Man (feat. Roman GianArthur),537,Jidenna,ghanaian hip hop,2015,2020-08-11,94,59,79,-6,29,59,226,19,3,63,2015,Solo,3.77,2010,Mid (60-74),False,False
+What Do You Mean?,538,Justin Bieber,canadian pop,2015,2020-06-19,125,57,85,-8,8,79,206,59,10,81,2015,Solo,3.43,2010,High (75-89),False,False
+Way down We Go,539,KALEO,icelandic indie,2016,2021-08-09,163,51,49,-8,10,34,214,58,12,81,2015,Band/Group,3.57,2010,High (75-89),False,False
+King Kunta,540,Kendrick Lamar,conscious hip hop,2015,2020-06-19,107,66,88,-5,15,49,235,1,10,79,2015,Solo,3.92,2010,High (75-89),False,False
+Stole the Show,541,Kygo,edm,2016,2020-06-19,100,64,64,-8,32,48,223,27,23,78,2015,Solo,3.72,2010,High (75-89),False,True
+Nothing Left (feat. Will Heard),542,Kygo,edm,2015,2020-06-19,154,58,68,-7,37,35,237,26,4,59,2015,Solo,3.95,2010,Low (<60),False,False
+High By The Beach,543,Lana Del Rey,art pop,2015,2021-08-09,132,49,54,-11,12,10,258,24,3,71,2015,Solo,4.3,2010,Mid (60-74),False,False
+Hurt Me,544,Låpsley,electropop,2016,2020-06-19,138,73,66,-5,16,59,231,69,13,55,2015,Solo,3.85,2010,Low (<60),False,False
+Closer,545,Lemaitre,alternative dance,2017,2021-08-09,92,79,58,-4,12,36,271,0,3,64,2015,Duo,4.52,2010,Mid (60-74),False,False
+Lot to Learn,546,Luke Christopher,indie pop rap,2015,2020-06-19,82,85,41,-4,7,60,248,9,20,66,2015,Solo,4.13,2010,Mid (60-74),False,False
+Lean On,547,Major Lazer,dance pop,2015,2020-06-19,98,81,72,-3,56,27,177,0,6,76,2015,Trio,2.95,2010,High (75-89),False,False
+Light It Up - Remix,548,Major Lazer,dance pop,2015,2020-06-19,108,88,75,-4,23,75,166,4,7,71,2015,Trio,2.77,2010,Mid (60-74),False,False
+Uptown Funk (feat. Bruno Mars),549,Mark Ronson,dance pop,2015,2020-06-19,115,61,86,-7,3,93,270,1,8,86,2015,Solo,4.5,2010,High (75-89),False,False
+Intoxicated - Radio Edit,550,Martin Solveig,dance pop,2015,2020-06-19,125,69,79,-4,10,50,160,0,4,62,2015,Solo,2.67,2010,Mid (60-74),False,False
+All Eyes on You (feat. Chris Brown & Nicki Minaj),551,Meek Mill,hip hop,2015,2020-06-19,78,66,59,-5,12,25,224,2,20,73,2015,Solo,3.73,2010,Mid (60-74),False,False
+Believe,552,Mumford & Sons,modern folk rock,2015,2020-06-19,114,62,36,-7,22,42,221,3,4,61,2015,Band/Group,3.68,2010,Mid (60-74),False,False
+Somebody,553,Natalie La Rose,chicago rap,2014,2020-06-19,105,52,83,-9,7,74,190,0,4,69,2015,Solo,3.17,2010,Mid (60-74),False,True
+That's How You Know (feat. Kid Ink & Bebe Rexha),554,Nico & Vinz,pop rap,2015,2020-06-22,104,44,77,-6,12,74,186,44,4,62,2015,Duo,3.1,2010,Mid (60-74),False,False
+Drive,555,Oh Wonder,electropop,2015,2021-08-09,142,46,66,-8,8,38,196,71,10,65,2015,Duo,3.27,2010,Mid (60-74),False,False
+Post to Be (feat. Chris Brown & Jhene Aiko),556,Omarion,dance pop,2014,2020-06-19,97,68,73,-6,21,70,227,7,4,76,2015,Solo,3.78,2010,High (75-89),False,True
+Drag Me Down,557,One Direction,boy band,2015,2020-06-19,138,70,73,-6,7,60,192,11,4,84,2015,Band/Group,3.2,2010,High (75-89),False,False
+Perfect,558,One Direction,boy band,2015,2020-06-19,100,82,65,-5,12,40,230,6,8,81,2015,Band/Group,3.83,2010,High (75-89),False,False
+Sunset Lover,559,Petit Biscuit,new french touch,2015,2020-06-19,91,47,78,-9,11,24,238,73,5,75,2015,Solo,3.97,2010,High (75-89),False,False
+Wish You Were Mine - Radio Edit,560,Philip George,deep groove house,2014,2020-06-19,123,83,65,-4,10,41,178,1,3,70,2015,Solo,2.97,2010,Mid (60-74),False,False
+Time of Our Lives,561,Pitbull,dance pop,2014,2020-06-19,124,80,72,-6,69,72,229,9,6,85,2015,Solo,3.82,2010,High (75-89),False,False
+No Type,562,Rae Sremmurd,hip hop,2015,2020-06-19,125,49,89,-8,9,24,200,2,16,77,2015,Duo,3.33,2010,High (75-89),False,False
+"Flex (Ooh, Ooh, Ooh)",563,Rich Homie Quan,atl hip hop,2015,2020-06-19,82,61,73,-8,19,89,177,4,5,70,2015,Solo,2.95,2010,Mid (60-74),False,False
+FourFiveSeconds,564,Rihanna,barbadian pop,2015,2020-06-19,206,27,58,-6,13,35,188,88,5,82,2015,Solo,3.13,2010,High (75-89),False,False
+Bitch Better Have My Money,565,Rihanna,barbadian pop,2015,2020-06-19,103,73,78,-5,26,40,219,5,6,78,2015,Solo,3.65,2010,High (75-89),False,False
+Chill Bill (feat. J. Davi$ & Spooks),566,Rob $tone,san diego rap,2016,2020-06-19,108,43,89,-10,9,23,177,3,14,81,2015,Solo,2.95,2010,High (75-89),False,True
+Sugar (feat. Francesco Yates),567,Robin Schulz,dance pop,2015,2020-06-19,123,82,64,-5,16,64,219,2,6,81,2015,Solo,3.65,2010,High (75-89),False,False
+Lay It All on Me (feat. Ed Sheeran),568,Rudimental,dance pop,2015,2020-06-19,123,75,67,-7,19,48,242,14,4,55,2015,Band/Group,4.03,2010,Low (<60),False,False
+Like I Can,569,Sam Smith,dance pop,2014,2020-06-19,100,63,66,-7,12,48,167,34,4,85,2015,Solo,2.78,2010,High (75-89),False,False
+You Don't Own Me (feat. G-Eazy),570,SAYGRACE,dance pop,2015,2020-06-19,186,66,34,-6,6,29,199,17,10,60,2015,Solo,3.32,2010,Mid (60-74),False,True
+Same Old Love,571,Selena Gomez,dance pop,2015,2020-06-22,98,59,67,-4,21,44,229,2,3,70,2015,Solo,3.82,2010,Mid (60-74),False,True
+Hands To Myself,572,Selena Gomez,dance pop,2015,2020-06-19,111,50,81,-7,34,47,201,1,12,68,2015,Solo,3.35,2010,Mid (60-74),False,True
+Good For You,573,Selena Gomez,dance pop,2015,2020-06-22,89,68,61,-6,9,21,222,18,5,62,2015,Solo,3.7,2010,Mid (60-74),False,False
+Geronimo,574,Sheppard,australian indie,2015,2020-06-22,142,78,71,-6,12,46,218,46,8,68,2015,Band/Group,3.63,2010,Mid (60-74),False,True
+Easy Love,575,Sigala,dance pop,2018,2020-06-19,124,94,68,-4,12,65,230,18,6,70,2015,Solo,3.83,2010,Mid (60-74),False,False
+All My Friends (feat. Tinashe & Chance the Rapper),576,Snakehips,edm,2015,2020-06-22,95,52,68,-6,11,18,230,12,14,77,2015,Duo,3.83,2010,High (75-89),False,True
+The Less I Know The Better,577,Tame Impala,australian psych,2015,2020-06-19,117,74,64,-4,17,79,216,1,3,88,2015,Band/Group,3.6,2010,High (75-89),False,False
+Blank Space,578,Taylor Swift,pop,2014,2020-06-19,96,68,75,-5,13,58,232,9,6,79,2015,Solo,3.87,2010,High (75-89),False,False
+Wildest Dreams,579,Taylor Swift,pop,2014,2020-06-19,140,67,55,-7,11,47,220,7,7,76,2015,Solo,3.67,2010,High (75-89),False,False
+Bad Blood,580,Taylor Swift,pop,2015,2020-06-19,170,66,65,-7,14,22,200,3,11,75,2015,Solo,3.33,2010,High (75-89),False,True
+Style,581,Taylor Swift,pop,2014,2020-06-19,95,79,60,-6,12,46,231,0,4,75,2015,Solo,3.85,2010,High (75-89),False,True
+Spirits,582,The Strumbellas,canadian indie,2016,2021-08-09,81,66,56,-6,11,79,204,16,3,75,2015,Band/Group,3.4,2010,High (75-89),False,False
+The Hills,583,The Weeknd,canadian contemporary r&b,2015,2020-06-19,113,56,59,-7,14,14,242,7,5,88,2015,Solo,4.03,2010,High (75-89),False,False
+Can't Feel My Face,584,The Weeknd,canadian contemporary r&b,2015,2020-06-19,108,77,71,-6,11,58,214,11,4,83,2015,Solo,3.57,2010,High (75-89),False,False
+"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",585,The Weeknd,canadian contemporary r&b,2014,2020-06-19,120,38,66,-6,10,43,252,39,3,81,2015,Solo,4.2,2010,High (75-89),False,False
+In The Night,586,The Weeknd,canadian contemporary r&b,2015,2020-06-19,168,68,51,-5,5,54,236,8,7,76,2015,Solo,3.93,2010,High (75-89),False,False
+Die A Happy Man,587,Thomas Rhett,contemporary country,2015,2020-06-19,166,39,60,-9,12,40,227,42,3,77,2015,Solo,3.78,2010,High (75-89),False,False
+Talking Body,588,Tove Lo,art pop,2014,2020-06-19,120,76,74,-5,8,11,238,10,3,71,2015,Solo,3.97,2010,Mid (60-74),False,True
+Antidote,589,Travis Scott,hip hop,2015,2020-06-19,131,53,71,-5,12,13,263,1,3,78,2015,Solo,4.38,2010,High (75-89),False,False
+Slow Motion,590,Trey Songz,dance pop,2015,2020-06-19,95,41,73,-8,11,29,198,68,4,75,2015,Solo,3.3,2010,High (75-89),False,False
+Na Na,591,Trey Songz,dance pop,2015,2020-06-19,97,48,67,-6,10,24,232,33,4,67,2015,Solo,3.87,2010,Mid (60-74),False,True
+YOUTH,592,Troye Sivan,australian pop,2015,2020-06-19,92,74,63,-4,8,59,185,6,4,70,2015,Solo,3.08,2010,Mid (60-74),False,False
+Stressed Out,593,Twenty One Pilots,modern rock,2015,2020-06-19,170,64,73,-6,6,65,202,5,14,88,2015,Duo,3.37,2010,High (75-89),False,False
+I Don't Mind (feat. Juicy J),594,Usher,atl hip hop,2014,2020-06-19,113,46,87,-8,9,46,252,21,18,73,2015,Solo,4.2,2010,Mid (60-74),False,False
+Shut Up and Dance,595,WALK THE MOON,dance pop,2014,2020-06-19,128,87,58,-4,26,62,199,1,6,86,2015,Band/Group,3.32,2010,High (75-89),False,False
+See You Again (feat. Charlie Puth),596,Wiz Khalifa,dance pop,2015,2020-06-19,80,48,69,-8,6,28,230,37,8,85,2015,Solo,3.83,2010,High (75-89),False,False
+Renegades,597,X Ambassadors,modern alternative rock,2015,2020-06-19,90,86,53,-6,23,53,195,1,9,80,2015,Band/Group,3.25,2010,High (75-89),False,True
+Unsteady,598,X Ambassadors,modern alternative rock,2015,2020-06-19,117,67,39,-6,12,20,194,18,6,78,2015,Band/Group,3.23,2010,High (75-89),False,True
+King,599,Years & Years,dance pop,2015,2020-06-19,120,86,56,-4,38,43,215,6,4,66,2015,Band/Group,3.58,2010,Mid (60-74),False,False
+I Want You To Know,600,Zedd,complextro,2015,2020-06-19,130,85,58,-3,14,37,240,1,6,70,2015,Solo,4.0,2010,Mid (60-74),False,False
+When We Were Young,601,Adele,british soul,2015,2020-06-08,144,60,38,-6,10,27,291,30,5,79,2016,Solo,4.85,2010,High (75-89),False,False
+Send My Love (To Your New Lover),602,Adele,british soul,2015,2020-06-08,164,53,69,-8,17,57,223,4,9,77,2016,Solo,3.72,2010,High (75-89),False,False
+Hello,603,Adele,british soul,2015,2020-06-08,79,43,58,-6,9,29,296,33,3,77,2016,Solo,4.93,2010,High (75-89),False,False
+Here,604,Alessia Cara,canadian contemporary r&b,2015,2020-06-08,120,82,38,-4,8,33,199,8,10,71,2016,Solo,3.32,2010,Mid (60-74),False,True
+Alarm,605,Anne-Marie,dance pop,2016,2020-06-08,147,59,76,-5,18,81,206,8,23,62,2016,Solo,3.43,2010,Mid (60-74),False,False
+Into You,606,Ariana Grande,dance pop,2016,2020-06-08,108,73,62,-6,14,37,244,2,11,73,2016,Solo,4.07,2010,Mid (60-74),False,False
+Side To Side,607,Ariana Grande,dance pop,2016,2020-06-08,159,74,65,-6,24,61,226,5,23,72,2016,Solo,3.77,2010,Mid (60-74),False,False
+Dangerous Woman,608,Ariana Grande,dance pop,2016,2020-06-08,134,60,66,-5,36,29,236,5,4,72,2016,Solo,3.93,2010,Mid (60-74),False,False
+Hurts So Good,609,Astrid S,alt z,2021,2020-06-08,120,63,67,-5,9,42,209,8,5,77,2016,Solo,3.48,2020,High (75-89),False,False
+Good Grief,610,Bastille,metropopolis,2016,2021-08-09,120,76,73,-5,31,88,206,15,7,70,2016,Band/Group,3.43,2010,Mid (60-74),False,False
+Sorry,611,Beyoncé,dance pop,2016,2020-08-11,130,60,78,-7,25,36,233,0,5,72,2016,Solo,3.88,2010,Mid (60-74),False,False
+Don't,612,Bryson Tiller,kentucky hip hop,2015,2020-08-11,97,36,77,-6,10,19,198,22,20,83,2016,Solo,3.3,2010,High (75-89),False,True
+Exchange,613,Bryson Tiller,kentucky hip hop,2015,2020-06-08,160,43,53,-11,14,28,195,11,19,81,2016,Solo,3.25,2010,High (75-89),False,False
+Dancing On My Own,614,Calum Scott,neo mellow,2018,2020-06-08,113,17,68,-9,10,23,260,84,3,84,2016,Solo,4.33,2010,High (75-89),False,False
+This Is What You Came For (feat. Rihanna),615,Calvin Harris,dance pop,2016,2020-06-08,124,93,63,-3,15,47,222,20,3,84,2016,Solo,3.7,2010,High (75-89),False,False
+My Way,616,Calvin Harris,dance pop,2016,2020-06-08,120,91,82,-3,16,54,219,9,4,78,2016,Solo,3.65,2010,High (75-89),False,False
+We Don't Talk Anymore (feat. Selena Gomez),617,Charlie Puth,dance pop,2016,2020-06-08,100,56,73,-8,18,35,218,62,13,73,2016,Solo,3.63,2010,Mid (60-74),False,False
+One Call Away,618,Charlie Puth,dance pop,2016,2020-06-08,91,61,67,-5,12,47,194,40,3,70,2016,Solo,3.23,2010,Mid (60-74),False,False
+Dangerously,619,Charlie Puth,dance pop,2016,2021-08-17,112,52,70,-8,20,23,199,36,4,58,2016,Solo,3.32,2010,Low (<60),False,False
+Sex,620,Cheat Codes,dance pop,2016,2020-06-08,102,69,51,-6,14,21,228,0,17,66,2016,Trio,3.8,2010,Mid (60-74),False,False
+Back To Sleep,621,Chris Brown,dance pop,2015,2020-06-08,93,65,65,-5,9,72,201,4,24,65,2016,Solo,3.35,2010,Mid (60-74),False,False
+Tears (feat. Louisa Johnson),622,Clean Bandit,dance pop,2016,2020-06-08,130,77,61,-4,16,30,226,4,4,65,2016,Band/Group,3.77,2010,Mid (60-74),False,False
+Hymn for the Weekend,623,Coldplay,permanent wave,2015,2020-06-08,90,69,49,-6,33,41,258,21,4,86,2016,Band/Group,4.3,2010,High (75-89),False,False
+Adventure of a Lifetime,624,Coldplay,permanent wave,2015,2020-06-08,112,92,64,-4,15,53,264,0,4,79,2016,Band/Group,4.4,2010,High (75-89),False,False
+This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),625,David Guetta,big room,2016,2020-06-08,110,92,37,-3,9,37,207,0,5,72,2016,Solo,3.45,2010,Mid (60-74),False,False
+"Sit Still, Look Pretty",626,Daya,alt z,2016,2020-06-08,182,74,66,-4,11,54,202,14,27,76,2016,Solo,3.37,2010,High (75-89),False,False
+Hide Away,627,Daya,alt z,2016,2020-06-08,95,80,89,-5,7,46,192,23,8,72,2016,Solo,3.2,2010,Mid (60-74),False,False
+Let Me Love You,628,DJ Snake,dance pop,2016,2020-06-08,100,72,65,-5,14,16,206,9,3,86,2016,Solo,3.43,2010,High (75-89),False,False
+Middle,629,DJ Snake,dance pop,2016,2020-06-25,105,70,58,-5,5,22,221,1,4,79,2016,Solo,3.68,2010,High (75-89),False,False
+Cake By The Ocean,630,DNCE,dance pop,2016,2020-06-08,119,75,77,-5,4,90,219,15,5,84,2016,Band/Group,3.65,2010,High (75-89),False,False
+Too Good,631,Drake,canadian hip hop,2016,2020-06-08,118,65,79,-8,10,40,263,5,10,78,2016,Solo,4.38,2010,High (75-89),False,False
+Hotter Than Hell,632,Dua Lipa,dance pop,2017,2020-06-08,110,87,53,-4,6,53,188,1,9,70,2016,Solo,3.13,2010,Mid (60-74),False,False
+DUELE EL CORAZON (feat. Wisin),633,Enrique Iglesias,dance pop,2016,2020-06-08,91,91,72,-3,14,87,200,9,10,72,2016,Solo,3.33,2010,Mid (60-74),False,False
+Work from Home (feat. Ty Dolla $ign),634,Fifth Harmony,dance pop,2016,2020-06-08,105,59,80,-6,6,59,214,10,4,81,2016,Band/Group,3.57,2010,High (75-89),False,False
+All In My Head (Flex) (feat. Fetty Wap),635,Fifth Harmony,dance pop,2016,2020-06-08,95,79,69,-5,5,76,211,2,5,67,2016,Band/Group,3.52,2010,Mid (60-74),False,False
+My House,636,Flo Rida,dance pop,2015,2020-06-08,94,70,69,-5,13,74,192,2,5,81,2016,Solo,3.2,2010,High (75-89),False,True
+Say It (feat. Tove Lo),637,Flume,australian dance,2016,2020-06-29,75,53,60,-7,6,26,263,7,3,64,2016,Solo,4.38,2010,Mid (60-74),False,False
+Pink + White,638,Frank Ocean,alternative r&b,2016,2020-06-08,160,55,54,-7,42,55,185,67,10,84,2016,Solo,3.08,2010,High (75-89),False,False
+Low Life (feat. The Weeknd),639,Future,atl hip hop,2016,2020-06-08,144,33,72,-8,15,10,314,34,7,78,2016,Solo,5.23,2010,High (75-89),False,False
+No Money,640,Galantis,dance pop,2016,2020-06-08,126,92,67,-4,24,80,189,3,4,72,2016,Duo,3.15,2010,Mid (60-74),False,False
+"i hate u, i love u (feat. olivia o'brien)",641,Garrett Nash,electropop,2016,2020-06-08,93,28,49,-13,10,18,251,69,30,82,2016,Solo,4.18,2010,High (75-89),False,False
+"Me, Myself & I",642,G-Eazy,indie pop rap,2015,2020-06-08,112,67,76,-7,16,39,251,2,10,82,2016,Solo,4.18,2010,High (75-89),False,False
+Starving,643,Hailee Steinfeld,dance pop,2016,2020-06-08,100,62,73,-4,11,51,182,38,6,81,2016,Solo,3.03,2010,High (75-89),False,False
+Can I Be Him,644,James Arthur,pop,2016,2020-06-08,108,54,70,-6,9,48,247,31,5,80,2016,Solo,4.12,2010,High (75-89),False,False
+When You Love Someone,645,James TW,neo mellow,2019,2020-06-08,126,45,68,-6,5,35,217,26,3,79,2016,Solo,3.62,2010,High (75-89),False,False
+Love Me Now,646,John Legend,neo soul,2016,2020-06-08,123,77,42,-4,11,72,210,57,9,59,2016,Solo,3.5,2010,Low (<60),False,False
+Perfect Strangers,647,Jonas Blue,dance pop,2018,2020-06-08,118,86,73,-4,21,70,197,39,5,80,2016,Solo,3.28,2010,High (75-89),False,False
+Fast Car,648,Jonas Blue,dance pop,2018,2020-06-08,114,58,67,-7,31,55,212,47,6,77,2016,Solo,3.53,2010,High (75-89),False,False
+Love Yourself,649,Justin Bieber,canadian pop,2015,2020-06-08,100,38,61,-10,28,52,234,84,44,87,2016,Solo,3.9,2010,High (75-89),True,False
+Sorry,650,Justin Bieber,canadian pop,2015,2020-06-08,100,76,65,-4,30,41,201,8,5,85,2016,Solo,3.35,2010,High (75-89),False,False
+"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",651,Justin Timberlake,dance pop,2016,2020-06-08,113,83,67,-6,10,70,238,1,7,77,2016,Solo,3.97,2010,High (75-89),False,False
+Gold,652,Kiiara,alt z,2020,2020-06-08,113,41,60,-9,13,41,226,62,34,64,2016,Solo,3.77,2020,Mid (60-74),True,False
+Stole the Show,653,Kygo,edm,2016,2020-06-08,100,64,64,-8,32,48,223,27,23,78,2016,Solo,3.72,2010,High (75-89),False,True
+Stay (feat. Maty Noyes),654,Kygo,edm,2015,2020-06-08,103,74,65,-8,17,38,239,4,4,65,2016,Solo,3.98,2010,Mid (60-74),False,False
+"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",655,Lil Wayne,hip hop,2016,2020-06-08,169,79,50,-4,65,74,243,26,32,80,2016,Solo,4.05,2010,High (75-89),False,False
+Shout Out to My Ex,656,Little Mix,dance pop,2016,2020-06-08,126,75,77,-4,11,80,246,2,9,81,2016,Band/Group,4.1,2010,High (75-89),False,False
+7 Years,657,Lukas Graham,danish pop,2016,2020-06-08,120,47,77,-6,39,34,237,29,5,83,2016,Band/Group,3.95,2010,High (75-89),False,False
+Alaska,658,Maggie Rogers,indie pop,2019,2021-08-09,104,39,85,-11,11,18,188,41,5,70,2016,Solo,3.13,2010,Mid (60-74),False,False
+Cold Water,659,Major Lazer,dance pop,2016,2020-06-08,93,80,61,-5,16,50,185,7,4,72,2016,Trio,3.08,2010,Mid (60-74),False,False
+You & Me,660,Marc E. Bassy,pop,2017,2020-06-08,84,64,45,-8,19,61,218,4,28,69,2016,Solo,3.63,2010,Mid (60-74),False,False
+Alone,661,Marshmello,brostep,2016,2021-08-17,142,95,63,-4,11,42,274,2,3,76,2016,Solo,4.57,2010,High (75-89),False,False
+In the Name of Love,662,Martin Garrix,dance pop,2016,2020-06-08,134,52,50,-6,45,17,196,11,4,81,2016,Solo,3.27,2010,High (75-89),False,False
+NO,663,Meghan Trainor,dance pop,2017,2020-06-08,92,80,56,-4,74,66,214,1,21,75,2016,Solo,3.57,2010,High (75-89),False,False
+The Ocean (feat. Shy Martin),664,Mike Perry,dance pop,2016,2020-06-08,90,57,63,-6,10,19,183,2,3,75,2016,Solo,3.05,2010,High (75-89),False,False
+I Took A Pill In Ibiza - Seeb Remix,665,Mike Posner,dance pop,2016,2020-06-08,102,71,66,-7,8,71,198,4,11,81,2016,Solo,3.3,2010,High (75-89),False,False
+Final Song,666,MØ,art pop,2016,2020-06-08,105,67,70,-6,8,25,236,1,3,70,2016,Solo,3.93,2010,Mid (60-74),False,False
+This Town,667,Niall Horan,dance pop,2016,2020-06-08,112,41,68,-8,12,20,233,70,3,64,2016,Solo,3.88,2010,Mid (60-74),False,False
+Close,668,Nick Jonas,dance pop,2016,2020-06-08,124,62,65,-5,14,40,234,25,8,74,2016,Solo,3.9,2010,Mid (60-74),False,False
+History,669,Olivia Holt,alt z,2016,2020-06-08,101,63,77,-7,12,54,204,10,5,64,2016,Solo,3.4,2010,Mid (60-74),False,False
+History,670,One Direction,boy band,2015,2020-06-08,87,70,66,-4,6,80,187,4,5,77,2016,Band/Group,3.12,2010,High (75-89),False,False
+Wherever I Go,671,OneRepublic,dance pop,2016,2021-11-25,100,68,54,-6,24,35,170,10,4,68,2016,Band/Group,2.83,2010,Mid (60-74),False,False
+"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",672,P!nk,dance pop,2016,2020-06-29,163,70,63,-6,11,52,215,1,15,73,2016,Solo,3.58,2010,Mid (60-74),False,False
+Not Nice,673,PARTYNEXTDOOR,pop,2016,2020-06-08,128,50,60,-9,12,73,203,3,8,67,2016,Solo,3.38,2010,Mid (60-74),False,False
+Needed Me,674,Rihanna,barbadian pop,2016,2020-06-08,111,31,67,-8,8,30,192,11,24,84,2016,Solo,3.2,2010,High (75-89),False,False
+Work,675,Rihanna,barbadian pop,2016,2020-06-08,92,53,73,-6,9,56,219,8,9,80,2016,Solo,3.65,2010,High (75-89),False,False
+Lost Boy,676,Ruth B.,alt z,2015,2020-06-08,124,6,71,-15,9,35,275,97,5,77,2016,Solo,4.58,2010,High (75-89),False,False
+You Don't Own Me (feat. G-Eazy),677,SAYGRACE,dance pop,2016,2020-06-08,186,64,33,-6,6,26,201,16,9,74,2016,Solo,3.35,2010,Mid (60-74),False,True
+Same Old Love,678,Selena Gomez,dance pop,2015,2020-06-08,98,59,67,-4,21,44,229,2,3,70,2016,Solo,3.82,2010,Mid (60-74),False,True
+Hands To Myself,679,Selena Gomez,dance pop,2015,2020-06-08,111,50,81,-7,34,47,201,1,12,68,2016,Solo,3.35,2010,Mid (60-74),False,True
+Treat You Better,680,Shawn Mendes,canadian pop,2017,2020-06-08,83,82,44,-4,11,75,188,11,34,86,2016,Solo,3.13,2010,High (75-89),True,False
+I Know What You Did Last Summer,681,Shawn Mendes,canadian pop,2015,2020-06-08,114,76,69,-5,15,74,224,10,9,77,2016,Solo,3.73,2010,High (75-89),False,False
+The Greatest (feat. Kendrick Lamar),682,Sia,australian dance,2016,2020-06-08,192,73,67,-6,6,73,210,1,27,73,2016,Solo,3.5,2010,Mid (60-74),False,False
+Cheap Thrills (feat. Sean Paul),683,Sia,australian dance,2016,2020-06-08,90,80,59,-5,8,73,225,6,22,73,2016,Solo,3.75,2010,Mid (60-74),False,False
+Sweet Lovin' - Radio Edit,684,Sigala,dance pop,2018,2020-06-08,125,85,68,-3,34,71,202,21,7,69,2016,Solo,3.37,2010,Mid (60-74),False,False
+All My Friends (feat. Tinashe & Chance the Rapper),685,Snakehips,edm,2015,2020-06-08,95,52,68,-6,11,18,230,12,14,77,2016,Duo,3.83,2010,High (75-89),False,True
+Just Hold On,686,Steve Aoki,dance pop,2018,2020-06-08,115,93,65,-4,6,39,199,0,8,61,2016,Solo,3.32,2010,Mid (60-74),False,False
+Somebody Else,687,The 1975,modern alternative rock,2016,2020-06-08,101,79,61,-6,15,47,348,20,6,76,2016,Band/Group,5.8,2010,High (75-89),False,False
+The Sound,688,The 1975,modern alternative rock,2016,2021-08-09,121,94,65,-5,45,55,249,9,8,63,2016,Band/Group,4.15,2010,Mid (60-74),False,False
+Closer,689,The Chainsmokers,dance pop,2016,2020-06-08,95,52,75,-6,11,66,245,41,3,88,2016,Duo,4.08,2010,High (75-89),False,False
+Don't Let Me Down,690,The Chainsmokers,dance pop,2016,2020-06-08,160,87,53,-5,14,42,208,16,17,83,2016,Duo,3.47,2010,High (75-89),False,False
+Roses,691,The Chainsmokers,dance pop,2015,2020-06-08,100,80,71,-7,31,34,227,4,6,78,2016,Duo,3.78,2010,High (75-89),False,False
+Ophelia,692,The Lumineers,folk-pop,2016,2020-06-08,76,57,66,-7,9,57,160,61,3,79,2016,Band/Group,2.67,2010,High (75-89),False,False
+Starboy,693,The Weeknd,canadian contemporary r&b,2016,2020-06-08,186,59,68,-7,14,49,230,14,28,88,2016,Solo,3.83,2010,High (75-89),False,False
+Once In a While,694,Timeflies,dance pop,2016,2020-06-25,105,69,79,-6,62,35,215,1,14,65,2016,Duo,3.58,2010,Mid (60-74),False,False
+Girls Like (feat. Zara Larsson),695,Tinie Tempah,dance pop,2016,2020-06-08,120,80,92,-3,8,54,196,37,5,67,2016,Solo,3.27,2010,Mid (60-74),False,False
+Cool Girl,696,Tove Lo,art pop,2016,2020-06-08,102,69,67,-7,8,20,199,31,11,69,2016,Solo,3.32,2010,Mid (60-74),False,False
+Renegades,697,X Ambassadors,modern alternative rock,2015,2021-05-06,90,86,53,-6,23,53,195,1,9,80,2016,Band/Group,3.25,2010,High (75-89),False,True
+Unsteady,698,X Ambassadors,modern alternative rock,2015,2020-06-08,117,67,39,-6,12,20,194,18,6,78,2016,Band/Group,3.23,2010,High (75-89),False,True
+Never Forget You,699,Zara Larsson,dance pop,2017,2020-06-08,146,73,58,-6,27,28,213,0,5,78,2016,Solo,3.55,2010,High (75-89),False,False
+PILLOWTALK,700,ZAYN,dance pop,2016,2020-06-08,125,70,58,-4,9,44,203,12,5,82,2016,Solo,3.38,2010,High (75-89),False,False
+It's A Vibe,701,2 Chainz,atl hip hop,2017,2021-01-28,73,50,82,-7,11,53,210,3,15,77,2017,Solo,3.5,2010,High (75-89),False,False
+Bank Account,702,21 Savage,atl hip hop,2017,2021-01-28,75,35,88,-8,9,38,220,2,35,82,2017,Solo,3.67,2010,High (75-89),True,False
+Drowning (feat. Kodak Black),703,A Boogie Wit da Hoodie,melodic rap,2017,2021-01-28,129,81,84,-5,12,81,209,50,6,79,2017,Solo,3.48,2010,High (75-89),False,False
+Plain Jane,704,A$AP Ferg,gangster rap,2017,2021-01-28,170,84,80,-5,9,52,174,7,28,79,2017,Solo,2.9,2010,High (75-89),False,False
+Weak,705,AJR,modern rock,2017,2021-01-28,124,64,67,-5,19,70,201,12,5,71,2017,Trio,3.35,2010,Mid (60-74),False,False
+Caroline,706,Aminé,hip hop,2017,2021-01-28,120,34,94,-10,26,71,210,17,51,80,2017,Solo,3.5,2010,High (75-89),True,False
+More Than You Know,707,Axwell /\ Ingrosso,dance pop,2017,2021-01-28,123,74,65,-5,31,57,203,3,3,83,2017,Duo,3.38,2010,High (75-89),False,False
+Rolex,708,Ayo & Teo,social media pop,2017,2021-01-28,145,89,80,-3,27,79,239,8,4,73,2017,Duo,3.98,2010,Mid (60-74),False,False
+Bounce Back,709,Big Sean,detroit hip hop,2017,2021-01-28,82,57,78,-6,13,27,222,11,14,76,2017,Solo,3.7,2010,High (75-89),False,False
+Man's Not Hot,710,Big Shaq,london rap,2017,2021-01-28,135,88,91,-4,11,59,186,11,24,67,2017,Solo,3.1,2010,Mid (60-74),False,False
+Bored,711,Billie Eilish,art pop,2017,2021-09-20,120,32,61,-13,8,11,181,90,5,88,2017,Solo,3.02,2010,High (75-89),False,False
+do re mi,712,blackbear,electropop,2017,2021-01-28,111,59,75,-6,12,17,212,1,5,77,2017,Solo,3.53,2010,High (75-89),False,False
+That's What I Like,713,Bruno Mars,dance pop,2016,2021-01-28,134,56,85,-5,9,86,207,1,4,86,2017,Solo,3.45,2010,High (75-89),False,False
+24K Magic,714,Bruno Mars,dance pop,2016,2021-01-28,107,80,82,-4,15,63,226,3,8,82,2017,Solo,3.77,2010,High (75-89),False,False
+"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",715,Calvin Harris,dance pop,2017,2021-01-28,101,75,89,-3,9,87,223,6,6,81,2017,Solo,3.72,2010,High (75-89),False,False
+Slide (feat. Frank Ocean & Migos),716,Calvin Harris,dance pop,2017,2021-01-28,104,80,74,-3,25,51,231,50,5,77,2017,Solo,3.85,2010,High (75-89),False,False
+Havana (feat. Young Thug),717,Camila Cabello,dance pop,2018,2021-01-28,105,52,77,-4,13,39,217,18,3,84,2017,Solo,3.62,2010,High (75-89),False,False
+Bodak Yellow,718,Cardi B,dance pop,2018,2021-01-28,125,70,93,-6,23,49,224,7,10,77,2017,Solo,3.73,2010,High (75-89),False,True
+No Promises (feat. Demi Lovato),719,Cheat Codes,dance pop,2017,2021-01-28,113,62,74,-7,11,58,223,6,16,66,2017,Trio,3.72,2010,Mid (60-74),False,False
+Redbone,720,Childish Gambino,atl hip hop,2016,2021-01-28,160,34,74,-11,10,58,327,17,12,87,2017,Solo,5.45,2010,High (75-89),False,False
+Rockabye (feat. Sean Paul & Anne-Marie),721,Clean Bandit,dance pop,2016,2021-01-28,102,76,72,-4,18,74,251,41,5,80,2017,Band/Group,4.18,2010,High (75-89),False,False
+Sorry Not Sorry,722,Demi Lovato,dance pop,2017,2021-01-28,144,64,71,-7,26,89,204,2,23,81,2017,Solo,3.4,2010,High (75-89),False,False
+"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",723,DJ Khaled,dance pop,2017,2021-01-28,81,67,60,-4,13,82,289,5,4,70,2017,Solo,4.82,2010,Mid (60-74),False,False
+Wild Thoughts (feat. Rihanna & Bryson Tiller),724,DJ Khaled,dance pop,2017,2021-01-28,98,68,61,-3,13,62,205,3,8,70,2017,Solo,3.42,2010,Mid (60-74),False,False
+Passionfruit,725,Drake,canadian hip hop,2017,2021-01-28,112,46,81,-11,11,36,299,26,4,86,2017,Solo,4.98,2010,High (75-89),False,False
+Fake Love,726,Drake,canadian hip hop,2017,2021-01-28,134,48,93,-9,18,61,211,11,29,78,2017,Solo,3.52,2010,High (75-89),False,False
+Perfect,727,Ed Sheeran,pop,2017,2021-01-28,95,45,60,-6,11,17,263,16,2,89,2017,Solo,4.38,2010,High (75-89),False,False
+Shape of You,728,Ed Sheeran,pop,2017,2021-01-28,96,65,83,-3,9,93,234,58,8,89,2017,Solo,3.9,2010,High (75-89),False,False
+Sit Next to Me,729,Foster The People,indietronica,2017,2021-06-25,97,74,64,-5,69,66,243,12,3,75,2017,Band/Group,4.05,2010,High (75-89),False,False
+Unforgettable,730,French Montana,gangster rap,2017,2021-01-28,98,77,73,-5,10,73,234,3,12,86,2017,Solo,3.9,2010,High (75-89),False,False
+Mask Off,731,Future,atl hip hop,2017,2021-01-28,150,43,83,-9,17,28,205,1,43,84,2017,Solo,3.42,2010,High (75-89),True,False
+Him & I (with Halsey),732,G-Eazy,indie pop rap,2017,2021-01-28,88,73,59,-6,31,19,269,5,9,80,2017,Solo,4.48,2010,High (75-89),False,True
+No Limit,733,G-Eazy,indie pop rap,2017,2021-01-28,176,77,84,-4,9,41,245,1,24,76,2017,Solo,4.08,2010,High (75-89),False,False
+Most Girls,734,Hailee Steinfeld,dance pop,2017,2021-01-28,103,57,76,-7,9,42,204,5,8,77,2017,Solo,3.4,2010,High (75-89),False,False
+Now Or Never,735,Halsey,dance pop,2017,2021-01-28,110,59,67,-5,13,45,215,11,4,71,2017,Solo,3.58,2010,Mid (60-74),False,False
+NUMB,736,Hayden James,aussietronica,2019,2021-06-25,148,56,62,-7,9,40,217,18,4,64,2017,Solo,3.62,2010,Mid (60-74),False,False
+Believer,737,Imagine Dragons,modern rock,2017,2021-01-28,125,78,78,-4,8,67,204,6,13,91,2017,Band/Group,3.4,2010,Very High (90+),False,False
+Thunder,738,Imagine Dragons,modern rock,2017,2021-01-28,168,82,61,-5,15,29,187,1,4,87,2017,Band/Group,3.12,2010,High (75-89),False,False
+Whatever It Takes,739,Imagine Dragons,modern rock,2017,2021-01-28,135,66,67,-5,12,56,201,4,3,84,2017,Band/Group,3.35,2010,High (75-89),False,False
+HUMBLE.,740,Kendrick Lamar,conscious hip hop,2017,2021-01-28,150,62,91,-7,10,42,177,0,10,87,2017,Solo,2.95,2010,High (75-89),False,False
+LOVE. FEAT. ZACARI.,741,Kendrick Lamar,conscious hip hop,2017,2021-01-28,126,59,80,-7,15,78,213,26,9,85,2017,Solo,3.55,2010,High (75-89),False,True
+DNA.,742,Kendrick Lamar,conscious hip hop,2017,2021-01-28,140,52,64,-7,8,42,186,0,36,83,2017,Solo,3.1,2010,High (75-89),True,False
+ELEMENT.,743,Kendrick Lamar,conscious hip hop,2017,2021-01-28,190,71,75,-5,25,48,209,20,49,76,2017,Solo,3.48,2010,High (75-89),True,False
+Young Dumb & Broke,744,Khalid,pop,2017,2021-01-28,137,54,80,-6,17,39,203,20,4,84,2017,Solo,3.38,2010,High (75-89),False,False
+Location,745,Khalid,pop,2017,2021-01-28,80,45,74,-11,9,33,219,33,43,83,2017,Solo,3.65,2010,High (75-89),True,False
+Tunnel Vision,746,Kodak Black,florida rap,2017,2021-01-28,172,49,50,-8,12,23,268,6,29,78,2017,Solo,4.47,2010,High (75-89),False,False
+iSpy (feat. Lil Yachty),747,KYLE,pop,2016,2021-01-28,75,65,75,-7,23,67,253,38,29,76,2017,Solo,4.22,2010,High (75-89),False,False
+Lust For Life (with The Weeknd),748,Lana Del Rey,art pop,2017,2021-01-28,100,66,50,-9,36,26,264,60,5,73,2017,Solo,4.4,2010,Mid (60-74),False,False
+Strip That Down (feat. Quavo),749,Liam Payne,dance pop,2019,2021-01-28,106,50,87,-5,8,55,202,20,5,75,2017,Solo,3.37,2010,High (75-89),False,False
+Save That Shit,750,Lil Peep,emo rap,2017,2021-01-28,106,58,53,-9,42,14,232,3,3,82,2017,Solo,3.87,2010,High (75-89),False,False
+Gucci Gang,751,Lil Pump,emo rap,2017,2021-01-28,120,52,94,-7,12,70,124,24,6,69,2017,Solo,2.07,2010,Mid (60-74),False,False
+XO Tour Llif3,752,Lil Uzi Vert,melodic rap,2017,2021-01-28,155,75,73,-6,11,40,183,0,23,86,2017,Solo,3.05,2010,High (75-89),False,False
+Touch (feat. Kid Ink),753,Little Mix,dance pop,2016,2021-01-28,102,75,64,-4,49,55,203,4,11,59,2017,Band/Group,3.38,2010,Low (<60),False,False
+1-800-273-8255,754,Logic,conscious hip hop,2017,2021-01-28,100,57,62,-8,19,36,250,57,5,82,2017,Solo,4.17,2010,High (75-89),False,False
+Liability,755,Lorde,art pop,2017,2021-06-25,76,23,59,-11,10,38,172,92,13,79,2017,Solo,2.87,2010,High (75-89),False,False
+Green Light,756,Lorde,art pop,2017,2021-01-28,129,72,59,-8,9,25,235,2,10,78,2017,Solo,3.92,2010,High (75-89),False,False
+"Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",757,Lorde,art pop,2017,2021-06-25,107,55,78,-5,13,18,214,23,8,71,2017,Solo,3.57,2010,Mid (60-74),False,False
+broken,758,lovelytheband,indie poptimism,2018,2021-06-25,123,73,67,-6,4,51,205,0,4,76,2017,Band/Group,3.42,2010,High (75-89),False,False
+Despacito,759,Luis Fonsi,latin,2019,2021-01-28,178,80,66,-5,7,84,229,20,15,83,2017,Solo,3.82,2010,High (75-89),False,False
+Bad Things (with Camila Cabello),760,Machine Gun Kelly,ohio hip hop,2017,2021-01-28,138,69,70,-5,19,31,239,21,15,76,2017,Solo,3.98,2010,High (75-89),False,False
+Glorious (feat. Skylar Grey),761,Macklemore,pop rap,2017,2021-01-28,140,79,73,-5,11,36,220,3,5,78,2017,Solo,3.67,2010,High (75-89),False,False
+Cold (feat. Future),762,Maroon 5,pop,2018,2021-01-28,100,72,69,-6,5,41,234,14,11,68,2017,Band/Group,3.9,2010,Mid (60-74),False,False
+Don't Wanna Know (feat. Kendrick Lamar),763,Maroon 5,pop,2018,2021-01-28,100,61,78,-6,10,42,214,34,7,66,2017,Band/Group,3.57,2010,Mid (60-74),False,False
+Little Dark Age,764,MGMT,alternative dance,2018,2022-03-08,98,71,71,-6,10,62,300,1,4,85,2017,Band/Group,5.0,2010,High (75-89),False,False
+Bad and Boujee (feat. Lil Uzi Vert),765,Migos,atl hip hop,2017,2021-01-28,127,67,93,-5,12,17,343,6,24,78,2017,Trio,5.72,2010,High (75-89),False,False
+Slippery (feat. Gucci Mane),766,Migos,atl hip hop,2017,2021-01-28,142,68,92,-6,10,75,304,31,26,74,2017,Trio,5.07,2010,Mid (60-74),False,False
+T-Shirt,767,Migos,atl hip hop,2017,2021-01-28,139,69,87,-4,16,49,242,24,22,71,2017,Trio,4.03,2010,Mid (60-74),False,False
+Sky Walker (feat. Travis Scott),768,Miguel,dance pop,2017,2021-01-28,146,51,67,-11,9,18,259,17,4,78,2017,Solo,4.32,2010,High (75-89),False,False
+Malibu,769,Miley Cyrus,dance pop,2017,2021-01-28,140,78,57,-6,8,34,232,8,6,77,2017,Solo,3.87,2010,High (75-89),False,False
+Nights With You,770,MØ,art pop,2017,2021-06-25,120,67,76,-4,38,60,197,40,10,61,2017,Solo,3.28,2010,Mid (60-74),False,False
+Slow Hands,771,Niall Horan,dance pop,2017,2021-01-28,86,43,74,-7,6,85,188,1,5,79,2017,Solo,3.13,2010,High (75-89),False,False
+Magnolia,772,Playboi Carti,atl hip hop,2017,2021-01-28,163,58,79,-7,35,44,182,1,29,82,2017,Solo,3.03,2010,High (75-89),False,False
+Chameleon,773,PNAU,alternative dance,2017,2021-01-28,120,93,72,-3,30,20,198,0,4,48,2017,Trio,3.3,2010,Low (<60),False,False
+Feel It Still,774,Portugal. The Man,indie rock,2017,2021-01-28,79,80,80,-5,7,75,163,4,5,81,2017,Band/Group,2.72,2010,High (75-89),False,False
+Congratulations,775,Post Malone,dfw rap,2016,2021-01-28,123,80,63,-4,25,49,220,22,4,85,2017,Solo,3.67,2010,High (75-89),False,False
+I Fall Apart,776,Post Malone,dfw rap,2016,2021-01-28,144,54,56,-5,20,29,223,7,4,83,2017,Solo,3.72,2010,High (75-89),False,False
+Swang,777,Rae Sremmurd,hip hop,2016,2021-01-28,140,31,68,-9,10,17,208,20,6,80,2017,Duo,3.47,2010,High (75-89),False,False
+Black Beatles,778,Rae Sremmurd,hip hop,2016,2021-01-28,146,63,79,-6,13,36,292,14,6,80,2017,Duo,4.87,2010,High (75-89),False,False
+Chill Bill (feat. J. Davi$ & Spooks),779,Rob $tone,san diego rap,2016,2021-01-28,108,43,89,-10,9,23,177,3,14,81,2017,Solo,2.95,2010,High (75-89),False,True
+Losin Control,780,Russ,hawaiian hip hop,2017,2021-01-28,97,25,76,-7,10,21,238,52,14,79,2017,Solo,3.97,2010,High (75-89),False,False
+Too Good At Goodbyes,781,Sam Smith,dance pop,2017,2021-01-28,92,37,68,-8,17,48,201,64,4,77,2017,Solo,3.35,2010,High (75-89),False,False
+No Lie,782,Sean Paul,dance pop,2018,2021-01-28,102,88,74,-3,21,46,221,5,12,89,2017,Solo,3.68,2010,High (75-89),False,False
+Fetish (feat. Gucci Mane),783,Selena Gomez,dance pop,2017,2021-08-17,123,62,71,-4,6,27,186,2,6,74,2017,Solo,3.1,2010,Mid (60-74),False,False
+Broccoli,784,Shelley FKA DRAM,alternative r&b,2016,2021-01-28,146,53,89,-7,6,71,225,24,13,64,2017,Solo,3.75,2010,Mid (60-74),False,False
+Don't Leave,785,Snakehips,edm,2017,2021-01-28,122,70,66,-3,26,34,215,22,8,68,2017,Duo,3.58,2010,Mid (60-74),False,False
+Love Galore (feat. Travis Scott),786,SZA,pop,2017,2021-01-28,135,59,80,-6,16,41,275,11,7,81,2017,Solo,4.58,2010,High (75-89),False,False
+Look What You Made Me Do,787,Taylor Swift,pop,2017,2021-01-28,128,71,77,-6,13,51,212,20,12,81,2017,Solo,3.53,2010,High (75-89),False,False
+...Ready For It?,788,Taylor Swift,pop,2017,2021-01-28,160,76,61,-7,20,42,208,5,14,78,2017,Solo,3.47,2010,High (75-89),False,False
+Something Just Like This,789,The Chainsmokers,dance pop,2017,2021-01-28,103,64,62,-7,16,45,247,5,3,87,2017,Duo,4.12,2010,High (75-89),False,False
+Paris,790,The Chainsmokers,dance pop,2017,2021-01-28,100,66,65,-6,9,22,222,2,3,77,2017,Duo,3.7,2010,High (75-89),False,False
+All Night,791,The Vamps,boy band,2017,2021-01-28,145,80,54,-5,33,51,198,0,4,78,2017,Duo,3.3,2010,High (75-89),False,False
+Middle Of The Night,792,The Vamps,boy band,2017,2021-01-28,130,75,59,-4,8,40,175,0,6,65,2017,Duo,2.92,2010,Mid (60-74),False,False
+I Feel It Coming,793,The Weeknd,canadian contemporary r&b,2016,2021-01-28,93,82,77,-6,7,59,269,43,12,82,2017,Solo,4.48,2010,High (75-89),False,False
+goosebumps,794,Travis Scott,hip hop,2016,2021-01-28,130,73,84,-3,15,43,244,8,5,88,2017,Solo,4.07,2010,High (75-89),False,False
+BUTTERFLY EFFECT,795,Travis Scott,hip hop,2018,2021-01-28,141,63,76,-6,11,19,191,5,5,81,2017,Solo,3.18,2010,High (75-89),False,False
+Jocelyn Flores,796,XXXTENTACION,emo rap,2017,2021-01-28,134,39,87,-9,30,44,119,47,24,89,2017,Solo,1.98,2010,High (75-89),False,False
+Rake It Up (feat. Nicki Minaj),797,Yo Gotti,dirty south rap,2017,2021-01-28,150,44,91,-8,14,53,276,2,34,73,2017,Solo,4.6,2010,Mid (60-74),True,False
+I Would Like,798,Zara Larsson,dance pop,2017,2021-01-28,121,71,49,-4,8,30,227,9,5,62,2017,Solo,3.78,2010,Mid (60-74),False,False
+Juju on That Beat (TZ Anthem),799,Zay Hilfigerrr,hip hop,2016,2021-01-28,161,89,81,-4,39,78,144,0,28,62,2017,Solo,2.4,2010,Mid (60-74),False,False
+Stay,800,Zedd,complextro,2017,2021-01-28,102,62,69,-5,12,54,210,25,6,80,2017,Solo,3.5,2010,High (75-89),False,False
+Youngblood,801,5 Seconds of Summer,boy band,2018,2020-06-22,120,85,60,-5,12,15,203,2,46,74,2018,Band/Group,3.38,2010,Mid (60-74),True,False
+FEFE,802,6ix9ine,emo rap,2018,2020-06-22,126,39,93,-9,14,38,179,9,41,75,2018,Solo,2.98,2010,High (75-89),True,False
+GUMMO,803,6ix9ine,emo rap,2018,2020-06-22,157,78,66,-5,13,64,158,6,17,67,2018,Solo,2.63,2010,Mid (60-74),False,False
+God is a woman,804,Ariana Grande,dance pop,2018,2020-06-22,145,66,60,-6,24,27,198,2,6,83,2018,Solo,3.3,2010,High (75-89),False,False
+no tears left to cry,805,Ariana Grande,dance pop,2018,2020-06-22,122,71,70,-6,29,35,206,4,6,82,2018,Solo,3.43,2010,High (75-89),False,False
+Jumanji,806,B Young,afroswing,2018,2020-06-22,96,47,79,-10,10,60,173,28,25,65,2018,Solo,2.88,2010,Mid (60-74),False,False
+Answerphone (feat. Yxng Bane),807,Banx & Ranx,basshall,2018,2020-06-22,113,83,67,-4,45,45,191,4,9,60,2018,Duo,3.18,2010,Mid (60-74),False,False
+Mine,808,Bazzi,dance pop,2018,2020-06-22,143,79,71,-4,45,72,131,2,7,80,2018,Solo,2.18,2010,High (75-89),False,False
+Eastside (with Halsey & Khalid),809,benny blanco,electropop,2018,2020-06-22,89,68,56,-8,12,32,174,56,32,80,2018,Solo,2.9,2010,High (75-89),False,False
+lovely (with Khalid),810,Billie Eilish,art pop,2018,2020-06-22,115,30,35,-10,10,12,200,93,3,91,2018,Solo,3.33,2010,Very High (90+),False,True
+Look Alive (feat. Drake),811,BlocBoy JB,memphis hip hop,2018,2020-06-22,140,58,92,-7,11,60,181,0,27,78,2018,Solo,3.02,2010,High (75-89),False,False
+Finesse - Remix; feat. Cardi B,812,Bruno Mars,dance pop,2017,2020-06-22,105,86,70,-5,2,93,217,2,10,78,2018,Solo,3.62,2010,High (75-89),False,False
+One Kiss (with Dua Lipa),813,Calvin Harris,dance pop,2018,2020-06-22,124,86,79,-3,8,59,215,4,11,86,2018,Solo,3.58,2010,High (75-89),False,False
+Never Be the Same,814,Camila Cabello,dance pop,2018,2020-06-22,130,71,64,-4,14,24,227,18,7,79,2018,Solo,3.78,2010,High (75-89),False,False
+I Like It,815,Cardi B,dance pop,2018,2020-06-22,136,73,82,-4,37,65,253,10,13,83,2018,Solo,4.22,2010,High (75-89),False,False
+Bodak Yellow,816,Cardi B,dance pop,2018,2020-06-22,125,70,93,-6,23,49,224,7,10,77,2018,Solo,3.73,2010,High (75-89),False,True
+Be Careful,817,Cardi B,dance pop,2018,2020-06-22,152,57,82,-8,10,54,211,3,41,72,2018,Solo,3.52,2010,Mid (60-74),True,False
+Miss You (with Major Lazer & Tory Lanez),818,Cashmere Cat,dance pop,2018,2021-06-15,100,64,75,-5,11,45,186,25,9,61,2018,Solo,3.1,2010,Mid (60-74),False,False
+How Long,819,Charlie Puth,dance pop,2018,2020-06-22,110,56,85,-5,4,81,201,21,8,77,2018,Solo,3.35,2010,High (75-89),False,False
+Done for Me (feat. Kehlani),820,Charlie Puth,dance pop,2018,2021-08-17,112,63,86,-4,7,70,180,19,7,72,2018,Solo,3.0,2010,Mid (60-74),False,False
+The Way I Am,821,Charlie Puth,dance pop,2018,2021-08-17,115,77,76,-6,6,64,186,31,19,68,2018,Solo,3.1,2010,Mid (60-74),False,False
+This Is America,822,Childish Gambino,atl hip hop,2018,2020-06-22,120,46,85,-6,35,55,226,12,14,75,2018,Solo,3.77,2010,High (75-89),False,False
+Tequila,823,Dan + Shay,contemporary country,2018,2020-06-22,86,58,49,-6,13,49,197,3,3,75,2018,Duo,3.28,2010,High (75-89),False,False
+Nevermind,824,Dennis Lloyd,israeli pop,2017,2020-06-22,100,69,60,-8,41,8,157,16,20,79,2018,Solo,2.62,2010,High (75-89),False,False
+No Brainer,825,DJ Khaled,dance pop,2018,2020-06-22,136,76,55,-5,9,64,260,7,34,71,2018,Solo,4.33,2010,Mid (60-74),True,False
+God's Plan,826,Drake,canadian hip hop,2018,2020-06-22,77,45,75,-9,55,36,199,3,11,86,2018,Solo,3.32,2010,High (75-89),False,False
+Nonstop,827,Drake,canadian hip hop,2018,2020-06-22,155,41,91,-8,10,42,239,2,12,82,2018,Solo,3.98,2010,High (75-89),False,False
+Nice For What,828,Drake,canadian hip hop,2018,2020-06-22,93,91,59,-6,12,76,211,9,7,81,2018,Solo,3.52,2010,High (75-89),False,False
+In My Feelings,829,Drake,canadian hip hop,2018,2020-06-22,91,63,84,-6,40,35,218,6,13,80,2018,Solo,3.63,2010,High (75-89),False,False
+I'm Upset,830,Drake,canadian hip hop,2018,2020-06-22,150,59,90,-8,8,49,214,28,34,73,2018,Solo,3.57,2010,Mid (60-74),True,False
+IDGAF,831,Dua Lipa,dance pop,2017,2020-06-22,97,54,84,-6,8,51,218,4,9,83,2018,Solo,3.63,2010,High (75-89),False,False
+In My Mind,832,Dynoro,edm,2018,2020-06-22,126,77,69,-5,12,16,185,18,15,83,2018,Solo,3.08,2010,High (75-89),False,False
+Trip,833,Ella Mai,dance pop,2018,2020-06-22,80,61,48,-6,11,36,214,23,14,77,2018,Solo,3.57,2010,High (75-89),False,False
+Boo'd Up,834,Ella Mai,dance pop,2017,2020-06-22,82,78,56,-5,8,24,256,9,5,73,2018,Solo,4.27,2010,Mid (60-74),False,False
+River (feat. Ed Sheeran),835,Eminem,detroit hip hop,2017,2020-06-22,90,75,75,-6,7,66,221,14,52,77,2018,Solo,3.68,2010,High (75-89),True,False
+German,836,EO,afroswing,2018,2020-06-22,103,58,86,-6,19,85,171,81,7,71,2018,Solo,2.85,2010,Mid (60-74),False,False
+Let's Fall in Love for the Night,837,FINNEAS,alt z,2018,2021-06-15,128,41,74,-8,17,37,190,80,10,77,2018,Solo,3.17,2010,High (75-89),False,False
+Simple,838,Florida Georgia Line,contemporary country,2019,2020-06-22,200,88,36,-4,15,86,185,8,10,75,2018,Duo,3.08,2010,High (75-89),False,False
+Him & I (with Halsey),839,G-Eazy,indie pop rap,2017,2020-06-22,88,73,59,-6,31,19,269,5,9,80,2018,Solo,4.48,2010,High (75-89),False,True
+Shotgun,840,George Ezra,folk-pop,2018,2020-06-22,116,74,67,-5,24,75,201,29,5,81,2018,Solo,3.35,2010,High (75-89),False,False
+Paradise,841,George Ezra,folk-pop,2018,2020-06-22,138,88,64,-4,21,91,222,21,4,73,2018,Solo,3.7,2010,Mid (60-74),False,False
+we fell in love in october,842,girl in red,bedroom pop,2018,2021-03-02,130,37,57,-13,16,24,184,11,3,88,2018,Solo,3.07,2010,High (75-89),False,False
+"Let Me Go (with Alesso, Florida Georgia Line & watt)",843,Hailee Steinfeld,dance pop,2017,2020-06-22,103,71,66,-4,8,74,175,3,5,81,2018,Solo,2.92,2010,High (75-89),False,False
+Bad At Love,844,Halsey,dance pop,2017,2020-06-22,118,75,68,-4,9,61,181,6,3,77,2018,Solo,3.02,2010,High (75-89),False,False
+The Greatest Show,845,Hugh Jackman,hollywood,2017,2020-06-22,158,82,42,-7,7,40,302,0,11,77,2018,Band/Group,5.03,2010,High (75-89),False,False
+Natural,846,Imagine Dragons,modern rock,2018,2020-06-22,100,61,70,-6,8,22,189,22,4,85,2018,Band/Group,3.15,2010,High (75-89),False,False
+Make Me Feel,847,Janelle Monáe,afrofuturism,2018,2021-06-15,115,41,86,-7,33,70,194,13,18,68,2018,Solo,3.23,2010,Mid (60-74),False,False
+You Make It Easy,848,Jason Aldean,contemporary country,2018,2020-06-22,132,57,38,-5,11,41,197,14,3,74,2018,Solo,3.28,2010,Mid (60-74),False,False
+"King's Dead (with Kendrick Lamar, Future & James Blake)",849,Jay Rock,conscious hip hop,2018,2020-06-22,137,71,65,-5,13,38,230,0,30,76,2018,Solo,3.83,2010,High (75-89),False,False
+Rise,850,Jonas Blue,dance pop,2018,2020-06-22,106,79,69,-5,20,66,194,33,3,74,2018,Solo,3.23,2010,Mid (60-74),False,False
+Lucid Dreams,851,Juice WRLD,chicago rap,2018,2020-06-22,84,57,51,-7,34,22,240,35,20,89,2018,Solo,4.0,2010,High (75-89),False,False
+LOVE. FEAT. ZACARI.,852,Kendrick Lamar,conscious hip hop,2017,2020-08-11,126,59,80,-7,15,78,213,26,9,85,2018,Solo,3.55,2010,High (75-89),False,True
+All The Stars (with SZA),853,Kendrick Lamar,conscious hip hop,2018,2020-06-22,97,63,70,-5,9,55,232,6,6,85,2018,Solo,3.87,2010,High (75-89),False,False
+Love Lies (with Normani),854,Khalid,pop,2018,2020-06-22,144,65,71,-6,13,34,202,10,4,78,2018,Solo,3.37,2010,High (75-89),False,False
+1950,855,King Princess,alt z,2018,2021-06-10,72,54,60,-7,16,27,225,65,11,77,2018,Solo,3.75,2010,High (75-89),False,False
+I Like Me Better,856,Lauv,dance pop,2018,2020-06-22,92,51,75,-8,10,42,197,54,25,86,2018,Solo,3.28,2010,High (75-89),False,False
+Yes Indeed,857,Lil Baby,atl hip hop,2018,2020-06-22,120,35,96,-9,11,56,142,4,53,84,2018,Solo,2.37,2010,High (75-89),True,False
+Freaky Friday (feat. Chris Brown),858,Lil Dicky,comedy rap,2018,2020-06-22,133,60,76,-5,11,76,217,15,22,74,2018,Solo,3.62,2010,Mid (60-74),False,False
+Everyday,859,Logic,conscious hip hop,2018,2021-08-17,150,74,67,-4,8,42,205,4,4,74,2018,Solo,3.42,2010,Mid (60-74),False,False
+Body,860,Loud Luxury,dance pop,2017,2020-06-22,122,76,75,-4,5,58,163,5,4,77,2018,Duo,2.72,2010,High (75-89),False,False
+Bad Vibe,861,M.O,afroswing,2018,2020-06-22,110,70,81,-4,10,76,214,18,4,58,2018,Band/Group,3.57,2010,Low (<60),False,False
+"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",862,Machine Gun Kelly,ohio hip hop,2017,2021-05-06,82,72,65,-5,5,22,203,0,21,77,2018,Solo,3.38,2010,High (75-89),False,False
+Corazón (feat. Nego do Borel),863,Maluma,latin,2018,2020-06-22,198,74,72,-6,20,75,185,33,25,74,2018,Solo,3.08,2010,Mid (60-74),False,False
+Wait,864,Maroon 5,pop,2018,2020-06-22,126,60,66,-5,11,45,191,10,6,64,2018,Band/Group,3.18,2010,Mid (60-74),False,False
+Happier,865,Marshmello,brostep,2018,2020-06-22,100,79,69,-3,17,67,214,19,5,86,2018,Solo,3.57,2010,High (75-89),False,False
+Silence,866,Marshmello,brostep,2017,2020-06-22,142,76,52,-3,17,29,181,26,9,84,2018,Solo,3.02,2010,High (75-89),False,False
+FRIENDS,867,Marshmello,brostep,2018,2020-06-22,95,88,63,-2,13,53,203,21,5,83,2018,Solo,3.38,2010,High (75-89),False,False
+Spotlight,868,Marshmello,brostep,2018,2021-08-17,150,82,55,-4,74,62,178,1,15,76,2018,Solo,2.97,2010,High (75-89),False,False
+Walk It Talk It,869,Migos,atl hip hop,2018,2020-06-22,146,63,91,-5,11,40,276,9,18,79,2018,Trio,4.6,2010,High (75-89),False,False
+MotorSport,870,Migos,atl hip hop,2018,2020-08-11,138,52,90,-5,33,19,303,3,18,77,2018,Trio,5.05,2010,High (75-89),False,False
+Stir Fry,871,Migos,atl hip hop,2018,2020-06-22,182,82,82,-5,16,51,190,0,27,75,2018,Trio,3.17,2010,High (75-89),False,False
+17,872,MK,dance pop,2017,2020-06-22,122,83,70,-7,7,67,196,0,7,69,2018,Solo,3.27,2010,Mid (60-74),False,False
+Let You Down,873,NF,hip hop,2017,2020-06-22,148,71,66,-6,18,46,212,31,12,84,2018,Solo,3.53,2010,High (75-89),False,False
+Te Boté - Remix,874,Nio Garcia,latin,2018,2020-06-22,97,68,90,-3,6,44,418,54,21,81,2018,Solo,6.97,2010,High (75-89),False,False
+Ric Flair Drip (with Metro Boomin),875,Offset,atl hip hop,2017,2020-06-22,100,43,88,-8,11,33,173,15,21,85,2018,Solo,2.88,2010,High (75-89),False,False
+Vaina Loca,876,Ozuna,latin,2018,2020-06-22,94,81,75,-4,20,56,176,32,8,77,2018,Solo,2.93,2010,High (75-89),False,False
+Déjala Que Vuelva (feat. Manuel Turizo),877,Piso 21,colombian pop,2018,2020-06-22,170,79,68,-4,8,84,220,5,8,76,2018,Band/Group,3.67,2010,High (75-89),False,False
+rockstar (feat. 21 Savage),878,Post Malone,dfw rap,2018,2020-06-22,160,52,59,-6,13,13,218,12,7,87,2018,Solo,3.63,2010,High (75-89),False,False
+Better Now,879,Post Malone,dfw rap,2018,2020-06-22,145,58,68,-6,14,34,231,33,4,84,2018,Solo,3.85,2010,High (75-89),False,True
+Psycho (feat. Ty Dolla $ign),880,Post Malone,dfw rap,2018,2020-06-22,140,56,75,-8,11,46,221,55,11,82,2018,Solo,3.68,2010,High (75-89),False,False
+Powerglide (feat. Juicy J) - From SR3MM,881,Rae Sremmurd,hip hop,2018,2020-06-22,174,83,71,-5,12,58,332,2,15,71,2018,Duo,5.53,2010,Mid (60-74),False,False
+Plug Walk,882,Rich The Kid,atl hip hop,2018,2020-06-22,95,52,88,-7,11,16,175,20,14,77,2018,Solo,2.92,2010,High (75-89),False,False
+Mo Bamba,883,Sheck Wes,rap,2018,2020-08-11,146,63,73,-5,25,26,184,19,3,81,2018,Solo,3.07,2010,High (75-89),False,False
+Strangers,884,Sigrid,dance pop,2019,2020-06-22,115,72,76,-6,8,13,234,1,4,64,2018,Solo,3.9,2010,Mid (60-74),False,False
+Delicate,885,Taylor Swift,pop,2017,2020-06-22,95,40,75,-10,9,5,232,22,7,81,2018,Solo,3.87,2010,High (75-89),False,False
+It's Not Living (If It's Not With You),886,The 1975,modern alternative rock,2018,2021-06-15,121,84,62,-5,6,53,248,0,3,75,2018,Band/Group,4.13,2010,High (75-89),False,False
+This Feeling,887,The Chainsmokers,dance pop,2018,2022-01-24,105,57,57,-8,9,45,198,6,4,78,2018,Duo,3.3,2010,High (75-89),False,False
+Sick Boy,888,The Chainsmokers,dance pop,2018,2022-01-24,90,58,66,-8,12,45,193,11,5,74,2018,Duo,3.22,2010,Mid (60-74),False,False
+Call Out My Name,889,The Weeknd,canadian contemporary r&b,2018,2020-06-22,134,59,46,-5,31,18,228,17,4,85,2018,Solo,3.8,2010,High (75-89),False,False
+Pray For Me (with Kendrick Lamar),890,The Weeknd,canadian contemporary r&b,2018,2020-06-22,101,68,74,-5,11,19,211,8,9,74,2018,Solo,3.52,2010,Mid (60-74),False,False
+Jackie Chan,891,Tiësto,big room,2018,2020-06-22,128,83,75,-3,6,69,216,37,5,76,2018,Solo,3.6,2010,High (75-89),False,False
+SICKO MODE,892,Travis Scott,hip hop,2018,2020-06-22,155,73,83,-4,12,45,313,1,22,86,2018,Solo,5.22,2010,High (75-89),False,True
+Taste (feat. Offset),893,Tyga,dance pop,2018,2020-06-22,98,56,88,-7,10,34,233,2,12,78,2018,Solo,3.88,2010,High (75-89),False,False
+Saturday Sun,894,Vance Joy,folk-pop,2018,2021-06-15,100,86,64,-4,22,71,215,48,5,75,2018,Solo,3.58,2010,High (75-89),False,False
+SAD!,895,XXXTENTACION,emo rap,2018,2020-06-22,75,61,74,-5,12,47,167,26,14,88,2018,Solo,2.78,2010,High (75-89),False,False
+Moonlight,896,XXXTENTACION,emo rap,2018,2020-06-22,128,54,92,-6,10,71,135,56,8,87,2018,Solo,2.25,2010,High (75-89),False,False
+changes,897,XXXTENTACION,emo rap,2018,2020-06-22,65,31,67,-10,10,52,122,88,3,84,2018,Solo,2.03,2010,High (75-89),False,False
+If You're Over Me,898,Years & Years,dance pop,2018,2020-06-22,104,85,65,-5,6,62,189,6,9,60,2018,Band/Group,3.15,2010,Mid (60-74),False,False
+"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",899,YG,cali rap,2018,2020-06-22,204,35,75,-8,9,11,237,1,33,73,2018,Solo,3.95,2010,Mid (60-74),False,False
+The Middle,900,Zedd,complextro,2018,2020-06-22,107,66,75,-3,11,44,185,17,4,84,2018,Solo,3.08,2010,High (75-89),False,False
+a lot,901,21 Savage,atl hip hop,2018,2020-06-22,146,64,84,-8,34,27,289,4,9,83,2019,Solo,4.82,2010,High (75-89),False,False
+Easier,902,5 Seconds of Summer,boy band,2020,2020-06-22,176,46,56,-4,11,62,158,48,26,74,2019,Band/Group,2.63,2020,Mid (60-74),False,False
+Swervin (feat. 6ix9ine),903,A Boogie Wit da Hoodie,melodic rap,2018,2020-06-22,93,66,58,-5,11,43,189,2,30,80,2019,Solo,3.15,2010,High (75-89),False,False
+Look Back at It,904,A Boogie Wit da Hoodie,melodic rap,2018,2020-06-22,96,59,79,-5,15,54,179,41,4,78,2019,Solo,2.98,2010,High (75-89),False,False
+Ladbroke Grove,905,AJ Tracey,grime,2019,2020-08-20,134,84,90,-9,10,73,191,9,21,73,2019,Solo,3.18,2010,Mid (60-74),False,False
+China,906,Anuel AA,latin,2019,2020-06-22,105,81,79,-4,8,61,302,8,9,80,2019,Solo,5.03,2010,High (75-89),False,False
+Secreto,907,Anuel AA,latin,2019,2020-06-22,92,80,81,-4,14,71,259,60,13,79,2019,Solo,4.32,2010,High (75-89),False,False
+7 rings,908,Ariana Grande,dance pop,2019,2020-06-22,140,32,78,-11,9,33,179,59,33,88,2019,Solo,2.98,2010,High (75-89),False,False
+"thank u, next",909,Ariana Grande,dance pop,2019,2020-06-22,107,65,72,-6,10,41,207,23,7,85,2019,Solo,3.45,2010,High (75-89),False,False
+"break up with your girlfriend, i'm bored",910,Ariana Grande,dance pop,2019,2020-06-22,170,55,73,-5,11,34,190,4,9,81,2019,Solo,3.17,2010,High (75-89),False,False
+boyfriend (with Social House),911,Ariana Grande,dance pop,2019,2020-06-22,190,80,40,-4,16,70,186,12,46,81,2019,Solo,3.1,2010,High (75-89),True,False
+On A Roll,912,Ashley O,pop,2019,2020-06-22,125,81,74,-6,5,39,154,8,9,62,2019,Solo,2.57,2010,Mid (60-74),False,False
+Callaita,913,Bad Bunny,latin,2019,2020-06-22,176,62,61,-5,24,24,251,60,31,86,2019,Solo,4.18,2010,High (75-89),False,False
+MIA (feat. Drake),914,Bad Bunny,latin,2018,2020-06-22,97,54,82,-6,10,16,210,1,6,82,2019,Solo,3.5,2010,High (75-89),False,False
+lovely (with Khalid),915,Billie Eilish,art pop,2018,2020-06-22,115,30,35,-10,10,12,200,93,3,91,2019,Solo,3.33,2010,Very High (90+),False,True
+bad guy,916,Billie Eilish,art pop,2019,2020-06-22,135,43,70,-11,10,56,194,33,38,88,2019,Solo,3.23,2010,High (75-89),True,False
+when the party's over,917,Billie Eilish,art pop,2019,2020-06-22,83,11,37,-14,9,20,196,98,10,85,2019,Solo,3.27,2010,High (75-89),False,False
+bury a friend,918,Billie Eilish,art pop,2019,2020-06-22,120,39,91,-15,11,20,193,74,33,80,2019,Solo,3.22,2010,High (75-89),False,False
+Kill This Love,919,BLACKPINK,k-pop,2019,2020-06-22,132,84,76,-5,23,65,191,32,19,79,2019,Band/Group,3.18,2010,High (75-89),False,False
+The Git Up,920,Blanco Brown,black americana,2019,2020-06-22,98,68,85,-9,27,81,201,7,11,74,2019,Solo,3.35,2010,Mid (60-74),False,False
+Thotiana,921,Blueface,cali rap,2018,2020-06-22,104,38,91,-13,11,39,129,18,27,71,2019,Solo,2.15,2010,Mid (60-74),False,False
+Boy With Luv (feat. Halsey),922,BTS,k-pop,2019,2020-06-22,120,86,65,-5,19,80,230,9,8,86,2019,Band/Group,3.83,2010,High (75-89),False,False
+Please Me,923,Cardi B,dance pop,2019,2020-06-22,134,57,75,-7,8,65,201,6,8,79,2019,Solo,3.35,2010,High (75-89),False,False
+Money,924,Cardi B,dance pop,2018,2020-06-22,130,59,95,-7,11,22,184,1,29,78,2019,Solo,3.07,2010,High (75-89),False,False
+Suge,925,DaBaby,north carolina hip hop,2019,2020-06-22,75,66,88,-6,13,84,163,6,43,77,2019,Solo,2.72,2010,High (75-89),True,False
+Location (feat. Burna Boy),926,Dave,uk hip hop,2019,2020-06-22,110,50,81,-6,10,55,241,27,30,81,2019,Solo,4.02,2010,High (75-89),False,False
+Juicy,927,Doja Cat,dance pop,2019,2020-06-22,170,66,79,-3,7,46,202,9,7,62,2019,Solo,3.37,2010,Mid (60-74),False,False
+3 Nights,928,Dominic Fike,alternative pop rock,2018,2020-06-22,152,52,82,-7,10,88,178,22,9,84,2019,Solo,2.97,2010,High (75-89),False,False
+Money In The Grave (Drake ft. Rick Ross),929,Drake,canadian hip hop,2019,2020-06-22,101,50,83,-4,12,10,205,10,5,82,2019,Solo,3.42,2010,High (75-89),False,False
+Don't Start Now,930,Dua Lipa,dance pop,2019,2020-06-22,124,79,79,-5,10,68,183,1,8,84,2019,Solo,3.05,2010,High (75-89),False,False
+Take Me Back to London (feat. Stormzy),931,Ed Sheeran,pop,2019,2020-06-22,138,76,89,-6,16,61,190,22,22,71,2019,Solo,3.17,2010,Mid (60-74),False,False
+Cross Me (feat. Chance the Rapper & PnB Rock),932,Ed Sheeran,pop,2019,2020-06-22,95,79,75,-6,7,61,206,21,12,69,2019,Solo,3.43,2010,Mid (60-74),False,False
+Antisocial (with Travis Scott),933,Ed Sheeran,pop,2019,2020-06-22,152,82,72,-5,36,91,162,13,5,68,2019,Solo,2.7,2010,Mid (60-74),False,False
+Leave Me Alone,934,Flipp Dinero,melodic rap,2019,2020-06-22,150,74,79,-3,18,74,196,11,9,75,2019,Solo,3.27,2010,High (75-89),False,False
+Lost in the Fire (feat. The Weeknd),935,Gesaffelstein,dark clubbing,2019,2021-10-28,101,67,66,-12,12,17,202,9,4,89,2019,Solo,3.37,2010,High (75-89),False,False
+Without Me,936,Halsey,dance pop,2018,2020-06-22,136,49,75,-7,9,53,202,30,7,82,2019,Solo,3.37,2010,High (75-89),False,False
+emotions,937,iann dior,melodic rap,2019,2021-08-17,81,63,63,-6,14,16,131,1,4,77,2019,Solo,2.18,2010,High (75-89),False,False
+gone girl,938,iann dior,melodic rap,2019,2021-08-17,95,71,68,-6,7,36,137,16,3,75,2019,Solo,2.28,2010,High (75-89),False,False
+MIDDLE CHILD,939,J. Cole,conscious hip hop,2019,2020-06-22,124,36,84,-12,27,46,214,15,28,85,2019,Solo,3.57,2010,High (75-89),False,False
+All Day And Night,940,Jax Jones,dance pop,2019,2020-06-22,122,78,59,-4,16,52,169,27,9,64,2019,Solo,2.82,2010,Mid (60-74),False,False
+Sorry,941,Joel Corry,dance pop,2019,2020-06-22,125,79,74,-5,32,85,189,5,6,68,2019,Solo,3.15,2010,Mid (60-74),False,False
+Sucker,942,Jonas Brothers,boy band,2019,2020-06-22,138,73,84,-5,11,95,181,4,6,84,2019,Band/Group,3.02,2010,High (75-89),False,False
+Only Human,943,Jonas Brothers,boy band,2019,2020-06-22,94,50,80,-6,6,87,183,11,7,76,2019,Band/Group,3.05,2010,High (75-89),False,False
+Robbery,944,Juice WRLD,chicago rap,2019,2020-06-22,80,69,62,-5,15,57,240,33,5,84,2019,Solo,4.0,2010,High (75-89),False,False
+Good as You,945,Kane Brown,black americana,2019,2020-06-22,154,52,63,-6,14,77,192,40,4,70,2019,Solo,3.2,2010,Mid (60-74),False,False
+Nights Like This (feat. Ty Dolla $ign),946,Kehlani,dance pop,2019,2020-06-22,146,73,61,-5,15,29,202,37,15,80,2019,Solo,3.37,2010,High (75-89),False,False
+Better,947,Khalid,pop,2018,2020-06-22,98,55,60,-10,10,11,229,8,10,81,2019,Solo,3.82,2010,High (75-89),False,False
+Talk (feat. Disclosure),948,Khalid,pop,2019,2020-06-22,136,40,90,-9,6,35,198,5,13,76,2019,Solo,3.3,2010,High (75-89),False,False
+ZEZE (feat. Travis Scott & Offset),949,Kodak Black,florida rap,2018,2020-06-22,98,60,86,-6,9,50,229,5,18,82,2019,Solo,3.82,2010,High (75-89),False,False
+Shallow,950,Lady Gaga,art pop,2018,2020-06-22,96,39,57,-6,23,32,216,37,3,87,2019,Solo,3.6,2010,High (75-89),False,False
+Doin' Time,951,Lana Del Rey,art pop,2019,2020-06-22,145,56,64,-11,9,52,202,40,4,83,2019,Solo,3.37,2010,High (75-89),False,False
+i'm so tired...,952,Lauv,dance pop,2020,2020-06-22,102,73,60,-7,24,53,163,18,20,81,2019,Solo,2.72,2020,High (75-89),False,False
+Someone You Loved,953,Lewis Capaldi,pop,2019,2020-06-22,110,41,50,-6,11,45,182,75,3,89,2019,Solo,3.03,2010,High (75-89),False,False
+Grace,954,Lewis Capaldi,pop,2019,2020-06-22,104,56,72,-6,17,49,186,44,3,72,2019,Solo,3.1,2010,Mid (60-74),False,False
+Old Town Road - Remix,955,Lil Nas X,lgbtq+ hip hop,2019,2020-06-22,136,62,88,-6,11,64,157,5,10,83,2019,Solo,2.62,2010,High (75-89),False,False
+Old Town Road,956,Lil Nas X,lgbtq+ hip hop,2019,2020-06-22,136,53,91,-6,10,51,113,6,13,80,2019,Solo,1.88,2010,High (75-89),False,False
+Panini,957,Lil Nas X,lgbtq+ hip hop,2019,2020-06-22,154,59,70,-6,12,48,115,34,8,76,2019,Solo,1.92,2010,High (75-89),False,False
+Ransom,958,Lil Tecca,melodic rap,2019,2020-06-22,180,64,75,-6,7,23,131,2,29,83,2019,Solo,2.18,2010,High (75-89),False,False
+Truth Hurts,959,Lizzo,dance pop,2019,2020-06-22,158,62,72,-3,12,41,173,11,11,80,2019,Solo,2.88,2010,High (75-89),False,False
+Good as Hell,960,Lizzo,dance pop,2019,2020-06-22,96,92,68,-3,44,54,160,26,9,77,2019,Solo,2.67,2010,High (75-89),False,False
+Soltera - Remix,961,Lunay,latin,2019,2020-06-22,92,78,80,-4,44,80,266,36,4,74,2019,Solo,4.43,2010,Mid (60-74),False,False
+Light On,962,Maggie Rogers,indie pop,2019,2020-06-22,102,57,66,-6,13,40,234,20,5,72,2019,Solo,3.9,2010,Mid (60-74),False,False
+Nothing Breaks Like a Heart (feat. Miley Cyrus),963,Mark Ronson,dance pop,2018,2020-06-22,114,79,60,-6,39,24,217,1,7,84,2019,Solo,3.62,2010,High (75-89),False,False
+Here With Me,964,Marshmello,brostep,2019,2020-06-22,100,56,79,-4,16,18,156,6,4,77,2019,Solo,2.6,2010,High (75-89),False,False
+One Thing Right,965,Marshmello,brostep,2019,2020-06-22,88,63,66,-2,58,44,182,6,5,77,2019,Solo,3.03,2010,High (75-89),False,False
+Piece Of Your Heart,966,MEDUZA,edm,2019,2020-06-22,124,74,68,-7,7,63,153,4,3,81,2019,Band/Group,2.55,2010,High (75-89),False,False
+Going Bad (feat. Drake),967,Meek Mill,hip hop,2018,2020-06-22,86,50,89,-6,25,54,181,26,9,83,2019,Solo,3.02,2010,High (75-89),False,False
+Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),968,Megan Thee Stallion,dance pop,2019,2020-06-22,99,81,87,-5,21,57,199,0,16,73,2019,Solo,3.32,2010,Mid (60-74),False,False
+Slide Away,969,Miley Cyrus,dance pop,2019,2020-06-22,148,54,53,-7,25,29,234,17,3,74,2019,Solo,3.9,2010,Mid (60-74),False,False
+Pure Water (with Migos),970,Mustard,cali rap,2019,2020-06-22,202,56,68,-6,34,14,192,17,13,80,2019,Solo,3.2,2010,High (75-89),False,False
+Shotta Flow (feat. Blueface) [Remix],971,NLE Choppa,memphis hip hop,2019,2020-06-22,120,51,89,-5,14,57,177,3,42,74,2019,Solo,2.95,2010,Mid (60-74),True,False
+Motivation,972,Normani,dance pop,2019,2020-06-22,171,89,60,-4,30,88,194,2,10,76,2019,Solo,3.23,2010,High (75-89),False,False
+Options,973,NSG,afro dancehall,2020,2020-08-20,102,62,84,-5,10,76,240,39,9,62,2019,Band/Group,4.0,2020,Mid (60-74),False,False
+Clout (feat. Cardi B),974,Offset,atl hip hop,2019,2020-06-22,140,62,92,-7,12,42,206,23,10,73,2019,Solo,3.43,2010,Mid (60-74),False,False
+High Hopes,975,Panic! At The Disco,modern rock,2018,2020-06-22,82,90,58,-3,6,68,191,19,6,85,2019,Band/Group,3.18,2010,High (75-89),False,False
+Adan y Eva,976,Paulo Londra,argentine hip hop,2019,2020-06-22,172,71,77,-4,7,72,257,32,34,76,2019,Solo,4.28,2010,High (75-89),True,False
+Pop Out (feat. Lil Tjay),977,Polo G,chicago rap,2019,2020-06-22,168,64,77,-7,7,26,167,15,47,83,2019,Solo,2.78,2010,High (75-89),True,False
+Circles,978,Post Malone,dfw rap,2019,2020-06-22,120,76,70,-3,9,55,215,19,4,89,2019,Solo,3.58,2010,High (75-89),False,False
+Better Now,979,Post Malone,dfw rap,2018,2020-06-22,145,58,68,-6,14,34,231,33,4,84,2019,Solo,3.85,2010,High (75-89),False,True
+Sunflower - Spider-Man: Into the Spider-Verse,980,Post Malone,dfw rap,2019,2020-06-22,90,52,76,-4,7,93,158,53,6,84,2019,Solo,2.63,2010,High (75-89),False,False
+Wow.,981,Post Malone,dfw rap,2019,2020-06-22,100,54,83,-7,10,39,150,14,21,83,2019,Solo,2.5,2010,High (75-89),False,False
+Goodbyes (feat. Young Thug),982,Post Malone,dfw rap,2019,2020-06-22,150,65,55,-4,10,16,175,46,8,82,2019,Solo,2.92,2010,High (75-89),False,False
+Bohemian Rhapsody - Remastered 2011,983,Queen,classic rock,1975,2020-06-22,144,40,39,-10,24,23,354,29,5,77,2019,Band/Group,5.9,1970,High (75-89),False,False
+Ride It,984,Regard,dance pop,2019,2020-06-22,118,75,88,-4,11,88,158,18,9,85,2019,Solo,2.63,2010,High (75-89),False,False
+Keisha & Becky - Remix,985,Russ Millions,uk drill,2019,2020-08-20,141,47,86,-10,12,64,253,25,48,73,2019,Solo,4.22,2010,Mid (60-74),True,False
+Post Malone (feat. RANI),986,Sam Feldt,dance pop,2019,2020-06-22,107,64,59,-4,11,65,174,8,12,74,2019,Solo,2.9,2010,Mid (60-74),False,False
+My Type,987,Saweetie,cali rap,2019,2020-06-22,105,81,90,-6,7,59,126,0,26,76,2019,Solo,2.1,2010,High (75-89),False,False
+Otro Trago,988,Sech,latin,2019,2020-06-22,176,70,75,-5,11,62,226,14,34,76,2019,Solo,3.77,2010,High (75-89),True,False
+Señorita,989,Shawn Mendes,canadian pop,2019,2020-06-22,117,55,76,-6,8,75,191,4,3,83,2019,Solo,3.18,2010,High (75-89),False,False
+If I Can't Have You,990,Shawn Mendes,canadian pop,2019,2020-06-22,124,81,69,-4,15,86,191,52,6,78,2019,Solo,3.18,2010,High (75-89),False,False
+Don’t Feel Like Crying,991,Sigrid,dance pop,2019,2020-06-22,120,81,75,-4,7,72,157,16,4,56,2019,Solo,2.62,2010,Low (<60),False,False
+Vossi Bop,992,Stormzy,grime,2019,2020-06-22,188,65,68,-6,13,43,196,13,34,69,2019,Solo,3.27,2010,Mid (60-74),True,False
+Lover,993,Taylor Swift,pop,2019,2020-06-22,69,54,36,-8,12,45,221,49,9,86,2019,Solo,3.68,2010,High (75-89),False,False
+Cruel Summer,994,Taylor Swift,pop,2019,2021-08-17,170,70,55,-6,11,56,178,12,16,82,2019,Solo,2.97,2010,High (75-89),False,False
+You Need To Calm Down,995,Taylor Swift,pop,2019,2020-06-22,85,67,77,-6,6,71,171,1,6,81,2019,Solo,2.85,2010,High (75-89),False,False
+SICKO MODE,996,Travis Scott,hip hop,2018,2020-06-22,155,73,83,-4,12,45,313,1,22,86,2019,Solo,5.22,2010,High (75-89),False,True
+EARFQUAKE,997,"Tyler, The Creator",hip hop,2019,2020-06-22,80,50,55,-9,80,41,190,23,7,85,2019,Solo,3.17,2010,High (75-89),False,False
+Boasty (feat. Idris Elba),998,Wiley,grime,2019,2020-06-22,103,77,89,-5,9,46,177,1,7,68,2019,Solo,2.95,2010,Mid (60-74),False,False
+Strike a Pose (feat. Aitch),999,Young T & Bugsey,afroswing,2019,2020-08-20,138,58,53,-6,10,59,214,1,10,67,2019,Duo,3.57,2010,Mid (60-74),False,False
+The London (feat. J. Cole & Travis Scott),1000,Young Thug,atl hip hop,2019,2020-06-22,98,59,80,-7,13,18,200,2,15,75,2019,Solo,3.33,2010,High (75-89),False,False

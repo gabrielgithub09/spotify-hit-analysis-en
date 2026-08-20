@@ -1,0 +1,13 @@
+macro_genre,n_tracks,volume_rank,hit_rate_pct,hitrate_rank,rank_gap
+hip-hop / r&b,1331,12,10.52,1,11
+jazz / soul / funk,3310,10,5.32,4,6
+pop,7077,6,8.01,2,4
+rock,6561,7,7.67,3,4
+folk / country / acoustic,6179,9,3.56,5,4
+reggae / dub,2948,11,2.07,9,2
+latin,9102,3,2.61,7,-4
+world,8788,4,2.07,8,-4
+classical / instrumental,6481,8,1.22,12,-4
+electronic / dance,16639,1,3.5,6,-5
+metal / punk,7564,5,1.41,11,-6
+other / mood / misc,13760,2,1.97,10,-8

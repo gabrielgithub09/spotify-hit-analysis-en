@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spotify Top 100 (2010-2019): Analysis Dashboard</title>
+<style>
+  .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page-plane:     #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --card-surface:   #ffffff;
+    --series-1:       #2a78d6; /* blue */
+    --series-2:       #eb6834; /* orange */
+    --series-3:       #1baf7a; /* aqua */
+    --diverging-pos:  #2a78d6;
+    --diverging-neg:  #e34948;
+    --diverging-mid:  #f0efec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page-plane:     #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --card-surface:   #232322;
+      --series-1:       #3987e5;
+      --series-2:       #d95926;
+      --series-3:       #199e70;
+      --diverging-pos:  #3987e5;
+      --diverging-neg:  #e66767;
+      --diverging-mid:  #383835;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1:      #1a1a19;
+    --page-plane:     #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --gridline:       #2c2c2a;
+    --baseline:       #383835;
+    --border:         rgba(255,255,255,0.10);
+    --card-surface:   #232322;
+    --series-1:       #3987e5;
+    --series-2:       #d95926;
+    --series-3:       #199e70;
+    --diverging-pos:  #3987e5;
+    --diverging-neg:  #e66767;
+    --diverging-mid:  #383835;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--page-plane);
+    color: var(--text-primary);
+  }
+  .viz-root { background: var(--page-plane); min-height: 100vh; padding: 32px 24px 64px; }
+  .wrap { max-width: 1180px; margin: 0 auto; }
+
+  header.top { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
+  h1 { font-size: 26px; margin: 0 0 6px; color: var(--text-primary); }
+  .subtitle { color: var(--text-secondary); font-size: 14px; max-width: 640px; line-height: 1.5; }
+  .stack { display: flex; gap: 8px; flex-wrap: wrap; }
+  .badge {
+    font-size: 12px; font-weight: 600; padding: 5px 10px; border-radius: 100px;
+    border: 1px solid var(--border); color: var(--text-secondary); background: var(--card-surface);
+  }
+  .theme-toggle {
+    border: 1px solid var(--border); background: var(--card-surface); color: var(--text-secondary);
+    font-size: 12px; padding: 6px 12px; border-radius: 8px; cursor: pointer; font-weight: 600;
+  }
+  .theme-toggle:hover { color: var(--text-primary); }
+
+  .kpi-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-bottom: 28px; }
+  @media (max-width: 900px) { .kpi-row { grid-template-columns: repeat(2, 1fr); } }
+  .kpi-tile {
+    background: var(--card-surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 16px 18px;
+  }
+  .kpi-label { font-size: 12px; color: var(--text-muted); margin-bottom: 6px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.02em; }
+  .kpi-value { font-size: 28px; font-weight: 700; color: var(--text-primary); font-variant-numeric: proportional-nums; }
+  .kpi-sub { font-size: 12px; color: var(--text-secondary); margin-top: 4px; }
+
+  .grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 16px; margin-bottom: 16px; }
+  @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+
+  .card {
+    background: var(--card-surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 20px 22px 16px; position: relative;
+  }
+  .card-title { font-size: 15px; font-weight: 700; color: var(--text-primary); margin: 0 0 2px; padding-right: 130px; }
+  .card-note { font-size: 12px; color: var(--text-muted); margin: 0 0 14px; }
+
+  svg { display: block; width: 100%; height: auto; overflow: visible; }
+  .axis-label { fill: var(--text-muted); font-size: 11px; }
+  .gridline { stroke: var(--gridline); stroke-width: 1; }
+  .baseline { stroke: var(--baseline); stroke-width: 1; }
+  .bar-label { fill: var(--text-secondary); font-size: 11px; font-variant-numeric: tabular-nums; }
+  .cat-label { fill: var(--text-secondary); font-size: 12px; }
+
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 10px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-secondary); }
+  .legend-swatch { width: 10px; height: 10px; border-radius: 3px; }
+
+  .tooltip {
+    position: fixed; pointer-events: none; background: var(--text-primary); color: var(--surface-1);
+    font-size: 12px; padding: 8px 10px; border-radius: 8px; opacity: 0; transition: opacity 0.1s;
+    z-index: 50; max-width: 220px; line-height: 1.4; box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  }
+  .tooltip strong { display: block; margin-bottom: 2px; }
+
+  .hover-target { cursor: pointer; }
+  .hover-target:hover rect, .hover-target:hover circle.point { filter: brightness(1.08); }
+
+  table.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; margin-top: 6px; }
+  table.data-table th, table.data-table td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--gridline); color: var(--text-secondary); }
+  table.data-table th { color: var(--text-muted); font-weight: 600; text-transform: uppercase; font-size: 10.5px; letter-spacing: 0.02em; }
+  table.data-table td.num { text-align: right; font-variant-numeric: tabular-nums; color: var(--text-primary); }
+
+  .view-toggle { display: flex; gap: 6px; position: absolute; top: 18px; right: 20px; }
+  .view-toggle button {
+    font-size: 11px; border: 1px solid var(--border); background: transparent; color: var(--text-muted);
+    padding: 4px 9px; border-radius: 6px; cursor: pointer; font-weight: 600;
+  }
+  .view-toggle button.active { background: var(--text-primary); color: var(--surface-1); border-color: var(--text-primary); }
+
+  .insight-list { margin: 0; padding-left: 18px; font-size: 13px; color: var(--text-secondary); line-height: 1.7; }
+  .insight-list li strong { color: var(--text-primary); }
+
+  .chart-conclusion {
+    font-size: 12.5px; color: var(--text-secondary); line-height: 1.6; margin: 12px 0 0;
+    padding-top: 12px; border-top: 1px solid var(--gridline);
+  }
+
+  footer.techfoot {
+    margin-top: 28px; padding-top: 18px; border-top: 1px solid var(--border);
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
+    font-size: 12px; color: var(--text-muted);
+  }
+</style>
+</head>
+<body>
+<div class="viz-root" id="vizRoot">
+<div class="wrap">
+
+  <header class="top">
+    <div>
+      <h1>Spotify: Top 100 Songs 2010–2019</h1>
+      <div class="subtitle">Analysis for a record label: what characteristics make a song popular? Kaggle dataset (1000 tracks, 2010–2019), cleaned and modeled in SQL, analyzed in Python.</div>
+    </div>
+    <div style="display:flex; flex-direction:column; align-items:flex-end; gap:10px;">
+      <button class="theme-toggle" id="themeToggle">Dark mode</button>
+    </div>
+  </header>
+
+  <div class="kpi-row" id="kpiRow"></div>
+
+  <div class="grid">
+    <div class="card">
+      <div class="card-title">Top 10 genres by number of appearances</div>
+      <div class="card-note">Across 1000 charted tracks, 2010–2019</div>
+      <div class="view-toggle" data-target="genreChart">
+        <button class="active" data-view="chart">Chart</button>
+        <button data-view="table">Table</button>
+      </div>
+      <div id="genreChart"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">What correlates with popularity</div>
+      <div class="card-note">Pearson correlation coefficient (feature ↔ popularity)</div>
+      <div id="corrChart"></div>
+      <div class="chart-conclusion">No correlation exceeds 0.25 in absolute value: taken in isolation, no audio characteristic has a strong link with popularity, consistent with the R² of 0.06 from the regression below.</div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <div class="card-title">Evolution of audio features (2010–2019)</div>
+      <div class="card-note">Average score out of 100: energy, danceability, valence (positivity)</div>
+      <div class="view-toggle" data-target="trendChart">
+        <button class="active" data-view="chart">Chart</button>
+        <button data-view="table">Table</button>
+      </div>
+      <div id="trendChart"></div>
+      <div class="legend" id="trendLegend"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">Average popularity by artist configuration</div>
+      <div class="card-note">Solo / Duo / Trio / Group</div>
+      <div id="typeChart"></div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-bottom:16px;">
+    <div class="card-title">What this means</div>
+    <ul class="insight-list">
+      <li><strong>Audio characteristics don't explain everything:</strong> no single audio feature strongly explains popularity (R² ≈ 0.06 on a linear regression); one can wonder whether artist fame or marketing play a bigger role, though this dataset cannot demonstrate it.</li>
+      <li><strong>The sound of hits has changed:</strong> average energy declines steadily (76.6 → 62.8) while danceability climbs sharply from 2017 onward; chart pop has become more danceable and less "energetic" in the raw sense.</li>
+      <li><strong>Dance pop dominates:</strong> 36% of charted tracks belong to this single genre, well ahead of pop (5.7%) and Atlanta hip hop (3.9%).</li>
+      <li><strong>Energy and loudness are strongly linked</strong> (r = 0.71), which makes acoustic sense, but worth keeping in mind so as not to treat these two variables as independent signals in a model.</li>
+    </ul>
+  </div>
+
+  <div class="card" style="margin-bottom:16px;">
+    <div class="card-title">Extension: tested on a dataset 89x larger (89,740 tracks, hits + flops)</div>
+    <ul class="insight-list">
+      <li><strong>The initial hypothesis isn't confirmed, and that's informative:</strong> a much larger, unbiased dataset doesn't push R² up (0.028 on 89,740 tracks, versus 0.06 on the Top 100); the conclusion "audio alone doesn't explain popularity" is confirmed with far more robustness, not contradicted.</li>
+      <li><strong>Telling a hit apart from the rest works much better than predicting a precise score:</strong> a "hit (popularity ≥ 70) or not" classifier reaches an AUC of 0.715 from audio features alone. Hits have a recognizable profile: less instrumental, less acoustic, louder, more danceable (see the chart below).</li>
+      <li><strong>Explicit content (a real flag) is associated with higher popularity:</strong> 36.9 on average versus 32.9, this time confirmed with the actual variable rather than an unreliable proxy.</li>
+      <li><strong>The hit-conversion rate by genre is the most actionable finding:</strong> hip-hop/r&b converts 10.5% of its tracks into hits versus 3.5% for electronic/dance (the highest-volume genre in the catalog); a reading that's impossible without data that includes flops.</li>
+    </ul>
+  </div>
+
+  <div class="card" style="margin-bottom:16px;">
+    <div class="card-title">What distinguishes a "hit" from the rest of the catalog</div>
+    <div class="card-note">Standardized coefficients, hit / non-hit logistic regression on the extended dataset (AUC = 0.715)</div>
+    <div id="hitClassifierChart"></div>
+    <div class="chart-conclusion">A "hit" audio profile does emerge, if only faintly: less instrumental, less acoustic, louder, more danceable. It remains a statistical profile, not a recipe; once inside that group, the audio says almost nothing about who will end up at a popularity of 75 versus 95.</div>
+  </div>
+
+  <footer class="techfoot">
+    <span>Source: Kaggle, Top Spotify Songs 2010-2019 by year · Pipeline: Python (pandas, scikit-learn) → SQLite (SQL) → this dashboard</span>
+  </footer>
+
+</div>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+const DATA = {"genre_counts": {"dance pop": 361, "pop": 57, "atl hip hop": 39, "art pop": 37, "hip hop": 21, "boy band": 21, "canadian hip hop": 18, "edm": 17, "folk-pop": 15, "barbadian pop": 14}, "yearly": {"2010": {"energy": 76.6, "danceability": 65.3, "valence": 56.7}, "2011": {"energy": 76.1, "danceability": 63.6, "valence": 54.8}, "2012": {"energy": 74.1, "danceability": 64.0, "valence": 53.3}, "2013": {"energy": 72.4, "danceability": 63.6, "valence": 53.0}, "2014": {"energy": 71.0, "danceability": 65.9, "valence": 51.0}, "2015": {"energy": 67.5, "danceability": 65.2, "valence": 46.8}, "2016": {"energy": 65.8, "danceability": 64.5, "valence": 46.9}, "2017": {"energy": 63.2, "danceability": 73.6, "valence": 47.7}, "2018": {"energy": 65.4, "danceability": 70.8, "valence": 47.6}, "2019": {"energy": 62.8, "danceability": 72.3, "valence": 51.1}}, "pop_corr": {"energy": -0.234, "loudness_db": -0.145, "liveness": -0.137, "acousticness": 0.128, "danceability": 0.093, "speechiness": 0.061, "tempo_bpm": -0.025, "duration_sec": 0.009, "valence": -0.004}, "by_type": {"Band/Group": 75.4, "Solo": 75.0, "Duo": 72.1, "Trio": 71.1}, "top_artists": {"Taylor Swift": 21, "Calvin Harris": 18, "Drake": 18, "Ariana Grande": 14, "Rihanna": 14, "Bruno Mars": 13, "Maroon 5": 11, "Chris Brown": 10}, "hit_coef": {"instrumentalness": -0.779, "acousticness": -0.496, "energy": -0.493, "loudness": 0.459, "liveness": -0.292, "danceability": 0.249, "speechiness": -0.109, "valence": -0.082, "tempo": -0.075}, "kpis": {"total_songs": 1000, "total_artists": 444, "total_genres": 132, "avg_popularity": 74.8, "top_genre": "dance pop", "top_genre_pct": 36.1}};
+
+const svgNS = "http://www.w3.org/2000/svg";
+function el(tag, attrs, parent) {
+  const e = document.createElementNS(svgNS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+function cssVar(name) {
+  return getComputedStyle(document.getElementById('vizRoot')).getPropertyValue(name).trim();
+}
+const tooltip = document.getElementById('tooltip');
+function showTip(evt, html) {
+  tooltip.innerHTML = html;
+  tooltip.style.opacity = 1;
+  tooltip.style.left = (evt.clientX + 14) + 'px';
+  tooltip.style.top = (evt.clientY + 14) + 'px';
+}
+function hideTip() { tooltip.style.opacity = 0; }
+
+// ---------------------------------------------------------------------------
+// KPI tiles
+// ---------------------------------------------------------------------------
+function renderKPIs() {
+  const k = DATA.kpis;
+  const tiles = [
+    { label: "Tracks analyzed", value: k.total_songs, sub: "2010–2019" },
+    { label: "Distinct artists", value: k.total_artists, sub: "" },
+    { label: "Distinct genres", value: k.total_genres, sub: "" },
+    { label: "Average popularity", value: k.avg_popularity, sub: "/ 100" },
+    { label: "Top genre", value: k.top_genre, sub: k.top_genre_pct + "% of tracks" },
+  ];
+  const row = document.getElementById('kpiRow');
+  tiles.forEach(t => {
+    const d = document.createElement('div');
+    d.className = 'kpi-tile';
+    d.innerHTML = `<div class="kpi-label">${t.label}</div><div class="kpi-value">${t.value}</div><div class="kpi-sub">${t.sub}</div>`;
+    row.appendChild(d);
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Horizontal bar chart (genres)
+// ---------------------------------------------------------------------------
+function renderGenreChart() {
+  const entries = Object.entries(DATA.genre_counts);
+  const max = Math.max(...entries.map(e => e[1]));
+  const W = 520, rowH = 30, padL = 110, padR = 44, top = 6;
+  const H = entries.length * rowH + top + 10;
+  const container = document.getElementById('genreChart');
+  container.innerHTML = '';
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Top genres by number of tracks' }, container);
+
+  entries.forEach((e_, i) => {
+    const [genre, count] = e_;
+    const y = top + i * rowH;
+    const barW = (count / max) * (W - padL - padR);
+    const g = el('g', { class: 'hover-target' }, svg);
+    el('text', { x: padL - 8, y: y + rowH/2 + 4, 'text-anchor': 'end', class: 'cat-label' }, g).textContent = genre;
+    const rect = el('rect', {
+      x: padL, y: y + 5, width: Math.max(barW,2), height: rowH - 12, rx: 4, ry: 4,
+      fill: cssVar('--series-1')
+    }, g);
+    el('text', { x: padL + barW + 8, y: y + rowH/2 + 4, class: 'bar-label' }, g).textContent = count;
+    g.addEventListener('mousemove', (evt) => showTip(evt, `<strong>${genre}</strong>${count} charted tracks`));
+    g.addEventListener('mouseleave', hideTip);
+  });
+}
+
+function renderGenreTable() {
+  const entries = Object.entries(DATA.genre_counts);
+  const container = document.getElementById('genreChart');
+  let html = '<table class="data-table"><thead><tr><th>Genre</th><th style="text-align:right">Tracks</th></tr></thead><tbody>';
+  entries.forEach(([g,c]) => { html += `<tr><td>${g}</td><td class="num">${c}</td></tr>`; });
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+// ---------------------------------------------------------------------------
+// Diverging horizontal bar chart (generic: correlation, regression coefficients...)
+// Positive = blue (--diverging-pos), negative = red (--diverging-neg).
+// ---------------------------------------------------------------------------
+function renderDivergingBarChart(containerId, dataObj, opts) {
+  const entries = Object.entries(dataObj);
+  const maxAbs = Math.max(...entries.map(e => Math.abs(e[1])));
+  const W = opts.width || 460, rowH = opts.rowH || 28, top = 6;
+  // Fixed left column holds "feature name" + "value" as two separately
+  // aligned text runs, so bar length never has to fight with label text
+  // for space (this is what caused "energy-0.23" to visually merge).
+  const nameColRight = opts.nameColRight, valueColRight = opts.valueColRight, axisLeft = opts.axisLeft;
+  const rightPad = 16, axisRight = W - rightPad;
+  const mid = (axisLeft + axisRight) / 2;
+  const halfWidth = (axisRight - axisLeft) / 2 - 4;
+  const H = entries.length * rowH + top + 10;
+  const container = document.getElementById(containerId);
+  container.innerHTML = '';
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}` }, container);
+  const scale = halfWidth / maxAbs;
+
+  el('line', { x1: mid, x2: mid, y1: top, y2: H-4, class: 'baseline' }, svg);
+
+  entries.forEach((e_, i) => {
+    const [feat, val] = e_;
+    const y = top + i * rowH;
+    const barLen = Math.abs(val) * scale;
+    const isPos = val >= 0;
+    const x = isPos ? mid : mid - barLen;
+    const g = el('g', { class: 'hover-target' }, svg);
+    el('text', { x: nameColRight, y: y + rowH/2 + 4, 'text-anchor': 'end', class: 'cat-label' }, g).textContent = feat;
+    el('text', { x: valueColRight, y: y + rowH/2 + 4, 'text-anchor': 'end', class: 'bar-label' }, g).textContent = val.toFixed(2);
+    el('rect', {
+      x: x, y: y + 5, width: Math.max(barLen,1.5), height: rowH - 12, rx: 3, ry: 3,
+      fill: isPos ? cssVar('--diverging-pos') : cssVar('--diverging-neg')
+    }, g);
+    g.addEventListener('mousemove', (evt) => showTip(evt, `<strong>${feat}</strong>${opts.tooltipLabel} : ${val.toFixed(3)}`));
+    g.addEventListener('mouseleave', hideTip);
+  });
+}
+
+function renderCorrChart() {
+  renderDivergingBarChart('corrChart', DATA.pop_corr, {
+    width: 460, nameColRight: 118, valueColRight: 150, axisLeft: 158,
+    tooltipLabel: 'correlation with popularity',
+  });
+}
+
+function renderHitClassifierChart() {
+  renderDivergingBarChart('hitClassifierChart', DATA.hit_coef, {
+    width: 900, rowH: 32, nameColRight: 170, valueColRight: 206, axisLeft: 216,
+    tooltipLabel: 'standardized coefficient (hit / non-hit logistic regression)',
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Line chart (feature trends)
+// ---------------------------------------------------------------------------
+function renderTrendChart() {
+  const years = Object.keys(DATA.yearly).sort();
+  const series = [
+    { key: 'energy', label: 'Energy', color: cssVar('--series-1') },
+    { key: 'danceability', label: 'Danceability', color: cssVar('--series-2') },
+    { key: 'valence', label: 'Valence (positivity)', color: cssVar('--series-3') },
+  ];
+  const W = 620, H = 300, padL = 40, padR = 16, padT = 16, padB = 30;
+  const plotW = W - padL - padR, plotH = H - padT - padB;
+  const allVals = series.flatMap(s => years.map(y => DATA.yearly[y][s.key]));
+  const minV = Math.floor(Math.min(...allVals) / 5) * 5 - 2;
+  const maxV = Math.ceil(Math.max(...allVals) / 5) * 5 + 2;
+
+  const xFor = (i) => padL + (i / (years.length - 1)) * plotW;
+  const yFor = (v) => padT + plotH - ((v - minV) / (maxV - minV)) * plotH;
+
+  const container = document.getElementById('trendChart');
+  container.innerHTML = '';
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}` }, container);
+
+  // gridlines
+  const steps = 4;
+  for (let s = 0; s <= steps; s++) {
+    const v = minV + (s/steps) * (maxV - minV);
+    const y = yFor(v);
+    el('line', { x1: padL, x2: W - padR, y1: y, y2: y, class: 'gridline' }, svg);
+    el('text', { x: padL - 8, y: y + 3, 'text-anchor': 'end', class: 'axis-label' }, svg).textContent = Math.round(v);
+  }
+  years.forEach((y, i) => {
+    el('text', { x: xFor(i), y: H - 8, 'text-anchor': 'middle', class: 'axis-label' }, svg).textContent = y;
+  });
+
+  series.forEach(s => {
+    const pts = years.map((y, i) => [xFor(i), yFor(DATA.yearly[y][s.key])]);
+    const d = pts.map((p, i) => (i===0?'M':'L') + p[0].toFixed(1) + ',' + p[1].toFixed(1)).join(' ');
+    el('path', { d, fill: 'none', stroke: s.color, 'stroke-width': 2, 'stroke-linecap': 'round' }, svg);
+    pts.forEach(([x,y], i) => {
+      const c = el('circle', { class: 'point', cx: x, cy: y, r: 4, fill: s.color, stroke: cssVar('--card-surface'), 'stroke-width': 1.5 }, svg);
+      c.style.cursor = 'pointer';
+      c.addEventListener('mousemove', (evt) => showTip(evt, `<strong>${s.label}, ${years[i]}</strong>average score: ${DATA.yearly[years[i]][s.key]}`));
+      c.addEventListener('mouseleave', hideTip);
+    });
+  });
+
+  // legend
+  const legend = document.getElementById('trendLegend');
+  legend.innerHTML = '';
+  series.forEach(s => {
+    const item = document.createElement('div');
+    item.className = 'legend-item';
+    item.innerHTML = `<span class="legend-swatch" style="background:${s.color}"></span>${s.label}`;
+    legend.appendChild(item);
+  });
+}
+
+function renderTrendTable() {
+  const years = Object.keys(DATA.yearly).sort();
+  const container = document.getElementById('trendChart');
+  let html = '<table class="data-table"><thead><tr><th>Year</th><th style="text-align:right">Energy</th><th style="text-align:right">Danceability</th><th style="text-align:right">Valence</th></tr></thead><tbody>';
+  years.forEach(y => {
+    const r = DATA.yearly[y];
+    html += `<tr><td>${y}</td><td class="num">${r.energy}</td><td class="num">${r.danceability}</td><td class="num">${r.valence}</td></tr>`;
+  });
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+// ---------------------------------------------------------------------------
+// Bar chart (popularity by artist type)
+// ---------------------------------------------------------------------------
+function renderTypeChart() {
+  const entries = Object.entries(DATA.by_type).sort((a,b) => b[1]-a[1]);
+  const W = 460, H = 260, padL = 36, padR = 16, padT = 16, padB = 34;
+  const plotW = W - padL - padR, plotH = H - padT - padB;
+  const max = Math.max(...entries.map(e => e[1])) * 1.15;
+  const barW = plotW / entries.length * 0.5;
+  const gap = plotW / entries.length;
+
+  const container = document.getElementById('typeChart');
+  container.innerHTML = '';
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}` }, container);
+
+  [0, max/2, max].forEach(v => {
+    const y = padT + plotH - (v/max)*plotH;
+    el('line', { x1: padL, x2: W-padR, y1: y, y2: y, class: 'gridline' }, svg);
+    el('text', { x: padL - 6, y: y+3, 'text-anchor':'end', class:'axis-label' }, svg).textContent = v.toFixed(0);
+  });
+
+  entries.forEach(([type, val], i) => {
+    const x = padL + i*gap + (gap-barW)/2;
+    const barH = (val/max) * plotH;
+    const y = padT + plotH - barH;
+    const g = el('g', { class: 'hover-target' }, svg);
+    el('rect', { x, y, width: barW, height: barH, rx: 4, ry: 4, fill: cssVar('--series-1') }, g);
+    el('text', { x: x + barW/2, y: y - 6, 'text-anchor':'middle', class:'bar-label' }, g).textContent = val;
+    el('text', { x: x + barW/2, y: H-10, 'text-anchor':'middle', class:'cat-label' }, g).textContent = type;
+    g.addEventListener('mousemove', (evt) => showTip(evt, `<strong>${type}</strong>average popularity: ${val}`));
+    g.addEventListener('mouseleave', hideTip);
+  });
+}
+
+// ---------------------------------------------------------------------------
+// View toggles (chart <-> table)
+// ---------------------------------------------------------------------------
+document.querySelectorAll('.view-toggle').forEach(toggle => {
+  const target = toggle.dataset.target;
+  toggle.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      toggle.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const view = btn.dataset.view;
+      if (target === 'genreChart') { view === 'chart' ? renderGenreChart() : renderGenreTable(); }
+      if (target === 'trendChart') {
+        if (view === 'chart') { renderTrendChart(); document.getElementById('trendLegend').style.display='flex'; }
+        else { renderTrendTable(); document.getElementById('trendLegend').style.display='none'; }
+      }
+    });
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Theme toggle
+// ---------------------------------------------------------------------------
+const themeToggle = document.getElementById('themeToggle');
+let dark = false;
+themeToggle.addEventListener('click', () => {
+  dark = !dark;
+  document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+  themeToggle.textContent = dark ? 'Light mode' : 'Dark mode';
+  renderAll();
+});
+
+function renderAll() {
+  renderGenreChart();
+  renderCorrChart();
+  renderTrendChart();
+  renderTypeChart();
+  renderHitClassifierChart();
+}
+
+renderKPIs();
+renderAll();
+</script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+{
+  "mode_popularity": {
+    "minor_mean": 33.64,
+    "major_mean": 32.95,
+    "ttest_t": -4.84,
+    "ttest_pvalue": 1.3303787873011185e-06
+  },
+  "key_popularity": [
+    {
+      "key": "E",
+      "mean": 34.06,
+      "count": 7133
+    },
+    {
+      "key": "B",
+      "mean": 33.88,
+      "count": 7129
+    },
+    {
+      "key": "G#/Ab",
+      "mean": 33.79,
+      "count": 5570
+    },
+    {
+      "key": "D",
+      "mean": 33.68,
+      "count": 9327
+    },
+    {
+      "key": "F#/Gb",
+      "mean": 33.48,
+      "count": 6139
+    },
+    {
+      "key": "D#/Eb",
+      "mean": 33.25,
+      "count": 2769
+    },
+    {
+      "key": "F",
+      "mean": 32.97,
+      "count": 7308
+    },
+    {
+      "key": "A",
+      "mean": 32.87,
+      "count": 8998
+    },
+    {
+      "key": "C#/Db",
+      "mean": 32.86,
+      "count": 8576
+    },
+    {
+      "key": "A#/Bb",
+      "mean": 32.84,
+      "count": 5889
+    },
+    {
+      "key": "C",
+      "mean": 32.72,
+      "count": 10352
+    },
+    {
+      "key": "G",
+      "mean": 32.61,
+      "count": 10550
+    }
+  ],
+  "key_anova": {
+    "F": 4.79,
+    "pvalue": 2.0172023331749713e-07
+  }
+}
