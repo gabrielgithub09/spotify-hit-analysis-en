@@ -1,10 +1,10 @@
 # Spotify Top 100 Songs (2010-2019): Analysis for a Record Label
 
-Personal project, undertaken on my own initiative out of interest in data analysis applied to music: SQL, Python, HTML/CSS/JavaScript for the interactive dashboard. A Power BI reconstruction is in progress (see `docs/powerbi_guide.md`).
+Personal project, undertaken on my own initiative out of interest in data analysis applied to music: SQL, Python, HTML/CSS/JavaScript for the interactive dashboard.
 
 **Business question:** what characteristics make a song popular?
 
-**Interactive dashboard online:** [gabrielgithub09.github.io/spotify-hit-analysis/dashboard/spotify_dashboard.html](https://gabrielgithub09.github.io/spotify-hit-analysis/dashboard/spotify_dashboard.html)
+**Interactive dashboard online:** [gabrielgithub09.github.io/spotify-hit-analysis-en/dashboard/spotify_dashboard.html](https://gabrielgithub09.github.io/spotify-hit-analysis-en/dashboard/spotify_dashboard.html)
 
 ## Repo structure
 
@@ -45,7 +45,6 @@ dashboard/
   spotify_dashboard.html    standalone interactive dashboard (open in a browser, or online via GitHub Pages)
 
 docs/
-  powerbi_guide.md          step-by-step guide to rebuild the report in Power BI Desktop
   Spotify_Project_Report.pdf   full report (methodology, insights, glossary, section 7 = extension)
   assets/, assets_v2/       charts used in the report
 ```
