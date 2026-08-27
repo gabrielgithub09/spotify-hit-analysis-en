@@ -1,6 +1,6 @@
 # Spotify Top 100 Songs (2010-2019): Analysis for a Record Label
 
-Personal project, undertaken on my own initiative out of interest in data analysis applied to music: SQL, Python, HTML/CSS/JavaScript for the interactive dashboard.
+Personal project, undertaken on my own initiative out of interest in data analysis applied to music: SQL, Python, HTML/CSS/JavaScript for the interactive dashboard, plus a Power BI reconstruction (see `powerbi/`).
 
 **Business question:** what characteristics make a song popular?
 
@@ -44,6 +44,10 @@ sql/
 dashboard/
   spotify_dashboard.html    standalone interactive dashboard (open in a browser, or online via GitHub Pages)
 
+powerbi/
+  spotify_dashboard.pbix       Power BI Desktop file (same star schema, DAX measures, 4 report pages)
+  Spotify_PowerBI_Export.pdf   static PDF export of the 4 report pages (Overview, Evolution over time, Artists, What explains popularity)
+
 docs/
   Spotify_Project_Report.pdf   full report (methodology, insights, glossary, section 7 = extension)
   assets/, assets_v2/       charts used in the report
@@ -70,7 +74,7 @@ python3 11_r2_comparison_chart.py       # -> docs/assets_v2/chart_r2_comparison.
 python3 12_genre_popularity_chart.py    # -> docs/assets_v2/chart_genre_popularity_full.png
 ```
 
-The dashboard opens directly (`dashboard/spotify_dashboard.html`), no installation required.
+The dashboard opens directly (`dashboard/spotify_dashboard.html`), no installation required. The Power BI file (`powerbi/spotify_dashboard.pbix`) requires the free Power BI Desktop to open and explore interactively; a static PDF export is provided as well for a quick look without installing anything.
 
 ## Main result
 
