@@ -1,6 +1,6 @@
 # Spotify Top 100 Songs (2010-2019): Analysis for a Record Label
 
-Personal project, undertaken on my own initiative out of interest in data analysis applied to music: SQL, Python, Power BI (see `powerbi/`), plus an interactive HTML/CSS/JavaScript dashboard.
+Personal project, out of interest in data analysis applied to music: SQL, Python, Power BI (see `powerbi/`), plus an interactive HTML/CSS/JavaScript dashboard.
 
 **Business question:** what characteristics make a song popular?
 
